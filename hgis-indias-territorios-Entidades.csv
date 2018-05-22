@@ -1,0 +1,1422 @@
+Numero_corriente;Entidad;Nombre;Variantes;tipo;Provincia_generica;Reg;Entidad_alt;Entidad_alt2
+81;AUBA0000;Buenos Aires;;Audiencia;Audiencia;RPL;rpl_audiencia_buenos_aires;BA0000AU
+82;AUCA0000;Caracas;Venezuela;Audiencia;Audiencia;VEN;ven_audiencia_caracas;CA0000AU
+83;AUCC0000;Charcas;;Audiencia;Audiencia;CHA;cha_audiencia_charcas;CC0000AU
+84;AUCO0000;Guatemala;"Confines; Los Confines; Los Confines de Guatemala y Nicaragua";Audiencia;Audiencia;GUA;gua_audiencia_guatemala;CO0000AU
+85;AUCU0000;Cuzco;;Audiencia;Audiencia;PER;per_audiencia_cuzco;CU0000AU
+86;AUGD0000;Guadalajara;;Audiencia;Audiencia;GDJ;gdj_audiencia_guadalajara;GD0000AU
+87;AULI0000;Lima;;Audiencia;Audiencia;PER;per_audiencia_lima;LI0000AU
+88;AUMX0000;Mexico;;Audiencia;Audiencia;NES;nes_audiencia_mexico;MX0000AU
+89;AUPA0000;Panama;"Tierra Firme; Castilla de Oro";Audiencia;Audiencia;NGR;ngr_audiencia_panama;PA0000AU
+90;AUQU0000;Quito;;Audiencia;Audiencia;QUI;qui_audiencia_quito;QU0000AU
+91;AUSA0000;Santiago;Chile;Audiencia;Audiencia;CHL;chl_audiencia_santiago;SA0000AU
+92;AUSD0000;Santo Domingo;Puerto Principe;Audiencia;Audiencia;SDO;sdo_audiencia_santo_domingo;SD0000AU
+93;AUSF0000;Santa Fe;Nuevo Reino de Granada;Audiencia;Audiencia;NGR;ngr_audiencia_santa_fe;SF0000AU
+96;CGPI0000;Provincias Internas;;Superior;Superior;GDJ;gdj_superior_provincias_internas;PI0000CG
+4;CGPIOC00;Provincias internas del Occidente;;Provincia;Provincia;GDJ;gdj_provincia_provincias_internas_del_occidente;PIOC00CG
+97;CGPIOR00;Provincias Internas del Oriente;;Provincia;Provincia;GDJ;gdj_provincia_provincias_internas_del_oriente;PIOR00CG
+98;CGQUMA00;Maynas;;Provincia;Provincia;PER;per_provincia_maynas;QUMA00CG
+101;CGVE0000;Venezuela;Caracas;Superior;Superior;VEN;ven_superior_venezuela;VE0000CG
+102;EXDI0000;Dinamarca;;Extranjero;Extranjero;EXT;ext_extranjero_dinamarca;DI0000EX
+103;EXFR0000;Francia;;Extranjero;Extranjero;EXT;ext_extranjero_francia;FR0000EX
+104;EXGB0000;Gran Bretaña;Inglaterra;Extranjero;Extranjero;EXT;ext_extranjero_gran_bretaña;GB0000EX
+105;EXHA0000;Haiti;Saint-Domingue;Extranjero;Extranjero;EXT;ext_extranjero_haiti;HA0000EX
+106;EXPB0000;Paises Bajos;Holanda;Extranjero;Extranjero;EXT;ext_extranjero_paises_bajos;PB0000EX
+107;EXPO0000;Portugal;;Extranjero;Extranjero;EXT;ext_extranjero_portugal;PO0000EX
+108;EXRU0000;Rusia;;Extranjero;Extranjero;EXT;ext_extranjero_rusia;RU0000EX
+109;EXSU0000;Suecia;;Extranjero;Extranjero;EXT;ext_extranjero_suecia;SU0000EX
+110;EXUS0000;Estados Unidos;"Boston; America";Extranjero;Extranjero;EXT;ext_extranjero_estados_unidos;US0000EX
+1412;FRAMXXXX;Pais de las Amazonas;;Fronteras;Fronteras;XX;xx_fronteras_pais_de_las_amazonas;AMXXXXFR
+111;FRANICXX;Isla de California;New Albion;Fronteras;Fronteras;GDJ;gdj_fronteras_isla_de_california;ANICXXFR
+112;FRANSSPA;Papageria;;Fronteras;Fronteras;GDJ;gdj_fronteras_papageria;ANSSPAFR
+113;FRANSSSE;Seris;;Fronteras;Fronteras;GDJ;gdj_fronteras_seris;ANSSSEFR
+114;FRANXXXX;Anian;;Fronteras;Fronteras;GDJ;gdj_fronteras_anian;ANXXXXFR
+115;FRBRXXXX;Brasil;;Fronteras;Fronteras;BRA;bra_fronteras_brasil;BRXXXXFR
+1416;FRCCCHGU;Guaycurus;;Fronteras;Fronteras;CHA;cha_fronteras_guaycurus;CCCHGUFR
+1379;FRCCLPBO;Bopis;Bopis y Mosetenes;Fronteras;Fronteras;CHA;cha_fronteras_bopis;CCLPBOFR
+116;FRCEPAXX;Patagonia;;Fronteras;Fronteras;RPL;rpl_fronteras_patagonia;CEPAXXFR
+117;FRCEXXXX;Ciudad de los Cesares;"Patagonia; Tierra Magellanica; Tierra Magallanica";Fronteras;Fronteras;XXX;xxx_fronteras_ciudad_de_los_cesares;CEXXXXFR
+118;FRCHBMBM;Araucania;Butalmapus;Fronteras;Fronteras;CHL;chl_fronteras_araucania;CHBMBMFR
+119;FRCIGIXX;Gila;;Fronteras;Fronteras;GDJ;gdj_fronteras_gila;CIGIXXFR
+120;FRCIMOXX;Moqui;;Fronteras;Fronteras;GDJ;gdj_fronteras_moqui;CIMOXXFR
+121;FRCINAXX;Navajos;;Fronteras;Fronteras;GDJ;gdj_fronteras_navajos;CINAXXFR
+122;FRCITEXX;Gran Teguayo;"Tiguas; Tiwas; Tehuas; Tihuas; Teguas; Yutas";Fronteras;Fronteras;GDJ;gdj_fronteras_gran_teguayo;CITEXXFR
+123;FRCIXXXX;Cibola;;Fronteras;Fronteras;GDJ;gdj_fronteras_cibola;CIXXXXFR
+124;FRCIYUXX;Yutas;;Fronteras;Fronteras;GDJ;gdj_fronteras_yutas;CIYUXXFR
+125;FREDBPXX;Bajo Putumayo;;Fronteras;Fronteras;QUI;qui_fronteras_bajo_putumayo;EDBPXXFR
+126;FREDCAXX;Pais de la Canela;;Fronteras;Fronteras;NGR;ngr_fronteras_pais_de_la_canela;EDCAXXFR
+127;FREDXXXX;El Dorado;"Coropa; Nueva Estremadura";Fronteras;Fronteras;XXX;xxx_fronteras_el_dorado;EDXXXXFR
+6;FRFLGUXX;Guale;Guale y Macama;Fronteras;Fronteras;SDO;sdo_fronteras_guale;FLGUXXFR
+1385;FRFLXXXX;La Florida;;Fronteras;Fronteras;NES;nes_fronteras_la_florida;FLXXXXFR
+128;FRGDNLHX;Huaxteca;;Fronteras;Fronteras;GDJ;gdj_fronteras_huaxteca;GDNLHXFR
+129;FRGDTXCO;Cumanches;Comancheria;Fronteras;Fronteras;GDJ;gdj_fronteras_cumanches;GDTXCOFR
+130;FRGUCYTA;Taguzalpa;;Fronteras;Fronteras;GUA;gua_fronteras_taguzalpa;GUCYTAFR
+131;FRGUCYXI;Xicayes;;Fronteras;Fronteras;GUA;gua_fronteras_xicayes;GUCYXIFR
+132;FRGUMOCH;Choles;;Fronteras;Fronteras;GUA;gua_fronteras_choles;GUMOCHFR
+1421;FRGUMOLA;Lacandones;;Fronteras;Fronteras;GUA;gua_fronteras_lacandones;GUMOLAFR
+133;FRGUNITO;Tologalpa;;Fronteras;Fronteras;GUA;gua_fronteras_tologalpa;GUNITOFR
+134;FRMOCMXX;Costa mosquita;;Fronteras;Fronteras;GUA;gua_fronteras_costa_mosquita;MOCMXXFR
+135;FRMOMOXX;Mosquitia;"Reino misquito; Reino mosquito; Mosquitos-zambos; Honduras britanica";Fronteras;Fronteras;GUA;gua_fronteras_mosquitia;MOMOXXFR
+136;FRMOTABT;Bocas del Toro;;Fronteras;Fronteras;NGR;ngr_fronteras_bocas_del_toro;MOTABTFR
+137;FRMOTAXX;Talamanca;;Fronteras;Fronteras;GUA;gua_fronteras_talamanca;MOTAXXFR
+138;FRMOXXXX;Golfo de Honduras;"Ingleses; Zambos-mosquitos";Fronteras;Fronteras;GUA;gua_fronteras_golfo_de_honduras;MOXXXXFR
+1387;FRNGCHCH;Chocoes;;Fronteras;Fronteras;NGR;ngr_fronteras_chocoes;NGCHCHFR
+139;FRNGCUXX;Cunas;"Cunacuna; Cuna Cuna; Cunacunas; Uraba; Urabi";Fronteras;Fronteras;NGR;ngr_fronteras_cunas;NGCUXXFR
+140;FRNGEDLL;Llanos;;Fronteras;Fronteras;NGR;ngr_fronteras_llanos;NGEDLLFR
+141;FRNGMOXX;Motilones;;Fronteras;Fronteras;NGR;ngr_fronteras_motilones;NGMOXXFR
+1390;FRNGSMAR;Aruacos;"Araguacos; Sierra Nevada";Fronteras;Fronteras;NGR;ngr_fronteras_aruacos;NGSMARFR
+1389;FRNGSMCH;Chimilas;;Fronteras;Fronteras;NGR;ngr_fronteras_chimilas;NGSMCHFR
+1388;FRNGSMGU;Guajiros;;Fronteras;Fronteras;NGR;ngr_fronteras_guajiros;NGSMGUFR
+47;FRPAMAGU;Guayra;;Fronteras;Fronteras;RPL;rpl_fronteras_guayra;PAMAGUFR
+46;FRPAMAIT;Itatines;Jerez;Fronteras;Fronteras;RPL;rpl_fronteras_itatines;PAMAITFR
+142;FRPAMAXX;Mamelucos;;Fronteras;Fronteras;RPL;rpl_fronteras_mamelucos;PAMAXXFR
+143;FRPAPJXX;Gran Pajonal;Pangoa;Fronteras;Fronteras;PER;per_fronteras_gran_pajonal;PAPJXXFR
+144;FRPAPSXX;Pampa del Sacramento;;Fronteras;Fronteras;PER;per_fronteras_pampa_del_sacramento;PAPSXXFR
+145;FRPAXXXX;Paititi;Playa de los Ahorcados;Fronteras;Fronteras;PER;per_fronteras_paititi;PAXXXXFR
+146;FRQUJIXX;Jivaros;Jibaros;Fronteras;Fronteras;QUI;qui_fronteras_jivaros;QUJIXXFR
+147;FRQUMCHU;Huamboyas;;Fronteras;Fronteras;QUI;qui_fronteras_huamboyas;QUMCHUFR
+148;FRQUPOCO;Cofanes;;Fronteras;Fronteras;QUI;qui_fronteras_cofanes;QUPOCOFR
+149;FRQUPOXX;Fronteras de Popayan;;Fronteras;Fronteras;QUI;qui_fronteras_fronteras_de_popayan;QUPOXXFR
+150;FRQVBMXX;Bolson de Mapimi;;Fronteras;Fronteras;GDJ;gdj_fronteras_bolson_de_mapimi;QVBMXXFR
+151;FRQVLIXX;Apacheria Lipanes;;Fronteras;Fronteras;GDJ;gdj_fronteras_apacheria_lipanes;QVLIXXFR
+152;FRQVLLXX;Comancheria;"Luisiana Alta; Grandes Llanuras";Fronteras;Fronteras;SDO;sdo_fronteras_comancheria;QVLLXXFR
+153;FRQVNMNT;Apacheria Natage;;Fronteras;Fronteras;GDJ;gdj_fronteras_apacheria_natage;QVNMNTFR
+154;FRQVSMXX;Seno mexicano;;Fronteras;Fronteras;GDJ;gdj_fronteras_seno_mexicano;QVSMXXFR
+155;FRQVXXXX;Quivira;;Fronteras;Fronteras;GDJ;gdj_fronteras_quivira;QVXXXXFR
+156;FRRPCHBO;Chaco Septentrional;"Chaco Boreal; Chaco Chiriguano";Fronteras;Fronteras;RPL;rpl_fronteras_chaco_septentrional;RPCHBOFR
+157;FRRPCHGU;Chaco Gualamba;Chaco Austral;Fronteras;Fronteras;RPL;rpl_fronteras_chaco_gualamba;RPCHGUFR
+158;FRRPCHLL;Llanos de Manso;;Fronteras;Fronteras;RPL;rpl_fronteras_llanos_de_manso;RPCHLLFR
+159;FRRPCHXX;Gran Chaco;;Fronteras;Fronteras;RPL;rpl_fronteras_gran_chaco;RPCHXXFR
+160;FRRPMICH;Charruas;;Fronteras;Fronteras;RPL;rpl_fronteras_charruas;RPMICHFR
+1383;FRRPYEVA;Yerbales y Vaquerias;;Fronteras;Fronteras;RPL;rpl_fronteras_yerbales_y_vaquerias;RPYEVAFR
+31;FRSDPRVI;Vieques;;Partido;Puerto Rico;SDO;sdo_puerto_rico_vieques;SDPRVIFR
+161;FRVEGUCA;Caribana;"Cuyuni; Esequibo";Fronteras;Fronteras;VEN;ven_fronteras_caribana;VEGUCAFR
+162;FRVEGULP;Laguna del Parime;Guayana profunda;Fronteras;Fronteras;VEN;ven_fronteras_laguna_del_parime;VEGULPFR
+163;FRVEGUPA;Paria;;Fronteras;Fronteras;VEN;ven_fronteras_paria;VEGUPAFR
+164;FRVEGUXX;Guayana 'dorada';;Fronteras;Fronteras;EXT;ext_fronteras_guayana_'dorada';VEGUXXFR
+165;INGDSS00;Sinaloa y Sonora;Arizpe;Intendencia;Intendencia;GDJ;gdj_intendencia_sinaloa_y_sonora;GDSS00IN
+166;INRPBA00;Buenos Aires;Rio de la Plata;Intendencia;Intendencia;RPL;rpl_intendencia_buenos_aires;RPBA00IN
+167;INSDLH00;La Habana;Isla de Cuba;Intendencia;Intendencia;SDO;sdo_intendencia_la_habana;SDLH00IN
+168;INSDLU00;Luisiana;;Intendencia;Intendencia;SDO;sdo_intendencia_luisiana;SDLU00IN
+169;INVECA00;Caracas;Venezuela;Intendencia;Intendencia;VEN;ven_intendencia_caracas;VECA00IN
+171;JMNGANSA;Valle de San Andres de Cauca;Espiritu Santo;Partido;Antioquia;NGR;ngr_antioquia_valle_de_san_andres_de_cauca;NGANSAJM
+172;JMNGANSB;San Bartolome;;Partido;Antioquia;NGR;ngr_antioquia_san_bartolome;NGANSBJM
+1382;JMNGCASB;San Basilio;Palenque;Jurisdiccion;Cartagena;NGR;ngr_cartagena_san_basilio;NGCASBJM
+173;JMNGCHBA;Baudo;;Jurisdiccion;Choco;NGR;ngr_choco_baudo;NGCHBAJM
+174;JMNGCHBB;Bebara y Bete;Biruquete;Jurisdiccion;Choco;NGR;ngr_choco_bebara_y_bete;NGCHBBJM
+175;JMNGCHBR;Los Brazos;;Jurisdiccion;Choco;NGR;ngr_choco_los_brazos;NGCHBRJM
+176;JMNGCHCH;Chami;Tatama;Jurisdiccion;Choco;NGR;ngr_choco_chami;NGCHCHJM
+177;JMNGCHGU;Pabarando;"Guirior; Pebarando; Pavarando; San Manuel de Villanueva de Guirior de Pavarando";Jurisdiccion;Choco;NGR;ngr_choco_pabarando;NGCHGUJM
+178;JMNGCHLL;Lloro;;Jurisdiccion;Choco;NGR;ngr_choco_lloro;NGCHLLJM
+179;JMNGCHMU;Murri;Murry;Jurisdiccion;Choco;NGR;ngr_choco_murri;NGCHMUJM
+180;JMNGCHNN;Noanama;;Jurisdiccion;Choco;NGR;ngr_choco_noanama;NGCHNNJM
+181;JMNGCHNO;Novita;;Jurisdiccion;Choco;NGR;ngr_choco_novita;NGCHNOJM
+53;JMNGCHQU;Quibdo;;Jurisdiccion;Choco;NGR;ngr_choco_quibdo;NGCHQUJM
+182;JMNGCHSI;Sipi;Zipi;Jurisdiccion;Choco;NGR;ngr_choco_sipi;NGCHSIJM
+183;JMNGCHSO;San Onofre;"San Onofre de las Juntas; Las Juntas";Jurisdiccion;Choco;NGR;ngr_choco_san_onofre;NGCHSOJM
+184;JMNGCHTA;Tado;;Jurisdiccion;Choco;NGR;ngr_choco_tado;NGCHTAJM
+185;JUCCCBAR;Arque;;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_arque;CCCBARJU
+186;JUCCCBAY;Ayopaya;"Palca; Hayopaya";Jurisdiccion;Cochabamba;CHA;cha_cochabamba_ayopaya;CCCBAYJU
+187;JUCCCBCB;Cochabamba;Villa de Oropesa del Valle de Cochabamba;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_cochabamba;CCCBCBJU
+188;JUCCCBCH;Chiquitos;;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_chiquitos;CCCBCHJU
+189;JUCCCBCL;Clisa;Tarata;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_clisa;CCCBCLJU
+190;JUCCCBMI;Mizque;Mizque y Pocona;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_mizque;CCCBMIJU
+191;JUCCCBMO;Moxos;;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_moxos;CCCBMOJU
+192;JUCCCBSA;Sacaba;;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_sacaba;CCCBSAJU
+193;JUCCCBSC;Santa Cruz de la Sierra;;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_santa_cruz_de_la_sierra;CCCBSCJU
+194;JUCCCBTA;Tapacari;Quillacollo;Jurisdiccion;Cochabamba;CHA;cha_cochabamba_tapacari;CCCBTAJU
+195;JUCCCBVG;Valle Grande;"Vallegrande; Valle-grande";Jurisdiccion;Cochabamba;CHA;cha_cochabamba_valle_grande;CCCBVGJU
+196;JUCCCCCA;Carangas;;Jurisdiccion;Charcas;CHA;cha_charcas_carangas;CCCCCAJU
+197;JUCCCCCC;Chuquisaca;;Jurisdiccion;Charcas;CHA;cha_charcas_chuquisaca;CCCCCCJU
+198;JUCCCCOR;Oruro;;Jurisdiccion;Charcas;CHA;cha_charcas_oruro;CCCCORJU
+199;JUCCCCPA;Paria;;Jurisdiccion;Charcas;CHA;cha_charcas_paria;CCCCPAJU
+200;JUCCCCPB;Pomabamba;;Jurisdiccion;Charcas;CHA;cha_charcas_pomabamba;CCCCPBJU
+201;JUCCCCPP;Pilaya y Paspaya;"Cinti; Sinti";Jurisdiccion;Charcas;CHA;cha_charcas_pilaya_y_paspaya;CCCCPPJU
+202;JUCCCCTO;Tomina;;Jurisdiccion;Charcas;CHA;cha_charcas_tomina;CCCCTOJU
+203;JUCCCCYA;Yamparaez;"Yamparaes; Yamparaez y Villaverde";Jurisdiccion;Charcas;CHA;cha_charcas_yamparaez;CCCCYAJU
+204;JUCCLPAP;Apolobamba;"Caupolican; Apolo";Jurisdiccion;La Paz;CHA;cha_la_paz_apolobamba;CCLPAPJU
+205;JUCCLPCH;Chulumani;Yungas;Jurisdiccion;La Paz;CHA;cha_la_paz_chulumani;CCLPCHJU
+206;JUCCLPLA;Larecaja;Larecaja y Yungas;Jurisdiccion;La Paz;CHA;cha_la_paz_larecaja;CCLPLAJU
+207;JUCCLPLP;La Paz;;Jurisdiccion;La Paz;CHA;cha_la_paz_la_paz;CCLPLPJU
+208;JUCCLPOM;Omasuyos;;Jurisdiccion;La Paz;CHA;cha_la_paz_omasuyos;CCLPOMJU
+209;JUCCLPPA;Pacajes;Berenguela;Jurisdiccion;La Paz;CHA;cha_la_paz_pacajes;CCLPPAJU
+210;JUCCLPSI;Sicasica;Caracollo;Jurisdiccion;La Paz;CHA;cha_la_paz_sicasica;CCLPSIJU
+211;JUCCPOAT;Atacama;Atacama, Lipez y Condes;Jurisdiccion;Potosi;CHA;cha_potosi_atacama;CCPOATJU
+212;JUCCPOCH;Chichas;Chichas;Jurisdiccion;Potosi;CHA;cha_potosi_chichas;CCPOCHJU
+213;JUCCPOCY;Chayanta;Charcas;Jurisdiccion;Potosi;CHA;cha_potosi_chayanta;CCPOCYJU
+214;JUCCPOLI;Lipes;Lipez;Jurisdiccion;Potosi;CHA;cha_potosi_lipes;CCPOLIJU
+215;JUCCPOPO;Potosi;"Villa imperial; La Plata y Villa imperial";Jurisdiccion;Potosi;CHA;cha_potosi_potosi;CCPOPOJU
+216;JUCCPOPR;Porco;;Jurisdiccion;Potosi;CHA;cha_potosi_porco;CCPOPRJU
+217;JUCCPOTA;Tarija;Chichas y Tarija;Jurisdiccion;Potosi;CHA;cha_potosi_tarija;CCPOTAJU
+218;JUCCPUAZ;Azangaro;"Azangaro y Asillo; Collasuyo";Jurisdiccion;Puno;CHA;cha_puno_azangaro;CCPUAZJU
+219;JUCCPUCA;Carabaya;;Jurisdiccion;Puno;CHA;cha_puno_carabaya;CCPUCAJU
+220;JUCCPUCH;Chucuito;;Jurisdiccion;Puno;CHA;cha_puno_chucuito;CCPUCHJU
+221;JUCCPUHU;Huancane;"Puno; Guancane; Paucarcolla";Jurisdiccion;Puno;CHA;cha_puno_huancane;CCPUHUJU
+222;JUCCPULA;Lampa;"Cabana y Cabanilla; Urcosuyo";Jurisdiccion;Puno;CHA;cha_puno_lampa;CCPULAJU
+170;JUCHCOAR;Frontera de Arauco;;Jurisdiccion;Concepcion;CHL;chl_concepcion_frontera_de_arauco;CHCOARJU
+223;JUCHCOCH;Chillan;;Jurisdiccion;Concepcion;CHL;chl_concepcion_chillan;CHCOCHJU
+224;JUCHCOCO;Concepcion;;Jurisdiccion;Concepcion;CHL;chl_concepcion_concepcion;CHCOCOJU
+225;JUCHCOCQ;Cauquenes;;Jurisdiccion;Concepcion;CHL;chl_concepcion_cauquenes;CHCOCQJU
+226;JUCHCOIL;Isla de la Laja;Laja;Jurisdiccion;Concepcion;CHL;chl_concepcion_isla_de_la_laja;CHCOILJU
+227;JUCHCOIT;Itata;;Jurisdiccion;Concepcion;CHL;chl_concepcion_itata;CHCOITJU
+228;JUCHCOJF;Juan Fernandez;;Jurisdiccion;Concepcion;CHL;chl_concepcion_juan_fernandez;CHCOJFJU
+229;JUCHCOLI;Linares;Isla de Maule;Jurisdiccion;Concepcion;CHL;chl_concepcion_linares;CHCOLIJU
+230;JUCHCOOS;Osorno;;Jurisdiccion;Concepcion;CHL;chl_concepcion_osorno;CHCOOSJU
+231;JUCHCOPU;Puchacay;;Jurisdiccion;Concepcion;CHL;chl_concepcion_puchacay;CHCOPUJU
+232;JUCHCORE;Rere;"Estancia del Rey; Buena-Esperanza";Jurisdiccion;Concepcion;CHL;chl_concepcion_rere;CHCOREJU
+233;JUCHCOVA;Valdivia;;Jurisdiccion;Concepcion;CHL;chl_concepcion_valdivia;CHCOVAJU
+234;JUCHCYCY;Cuyo;;Jurisdiccion;Santiago;CHL;chl_santiago_cuyo;CHCYCYJU
+1384;JUCHCYJA;Jachal;;Jurisdiccion;Cordoba;RPL;rpl_cordoba_jachal;CHCYJAJU
+235;JUCHSAAC;Aconcagua;;Jurisdiccion;Santiago;CHL;chl_santiago_aconcagua;CHSAACJU
+236;JUCHSACC;Illapel;Cuzcuz, Cuz Cuz;Jurisdiccion;Santiago;CHL;chl_santiago_illapel;CHSACCJU
+237;JUCHSACO;Colchagua;;Jurisdiccion;Santiago;CHL;chl_santiago_colchagua;CHSACOJU
+238;JUCHSACP;Copiapo;;Jurisdiccion;Santiago;CHL;chl_santiago_copiapo;CHSACPJU
+239;JUCHSACQ;Coquimbo;La Serena;Jurisdiccion;Santiago;CHL;chl_santiago_coquimbo;CHSACQJU
+240;JUCHSACR;Curico;;Jurisdiccion;Santiago;CHL;chl_santiago_curico;CHSACRJU
+241;JUCHSAHU;Huasco;;Jurisdiccion;Santiago;CHL;chl_santiago_huasco;CHSAHUJU
+242;JUCHSALA;Los Andes;;Jurisdiccion;Santiago;CHL;chl_santiago_los_andes;CHSALAJU
+243;JUCHSAMA;Maule;;Jurisdiccion;Santiago;CHL;chl_santiago_maule;CHSAMAJU
+244;JUCHSAME;Melipilla;;Jurisdiccion;Santiago;CHL;chl_santiago_melipilla;CHSAMEJU
+245;JUCHSAPE;Petorca;La Ligua;Jurisdiccion;Santiago;CHL;chl_santiago_petorca;CHSAPEJU
+246;JUCHSAQU;Quillota;;Jurisdiccion;Santiago;CHL;chl_santiago_quillota;CHSAQUJU
+247;JUCHSARA;Rancagua;;Jurisdiccion;Santiago;CHL;chl_santiago_rancagua;CHSARAJU
+248;JUCHSASA;Santiago;;Jurisdiccion;Santiago;CHL;chl_santiago_santiago;CHSASAJU
+249;JUCHSAVA;Valparaiso;;Jurisdiccion;Santiago;CHL;chl_santiago_valparaiso;CHSAVAJU
+45;JUGDCOPR;Presidios de la Frontera;;Jurisdiccion;Coahuila;GDJ;gdj_coahuila_presidios_de_la_frontera;GDCOPRJU
+250;JUGDDUBA;Basuchil y Papigochic;Papigochi;Jurisdiccion;Durango;GDJ;gdj_durango_basuchil_y_papigochic;GDDUBAJU
+251;JUGDDUBB;Santa Barbara;;Jurisdiccion;Durango;GDJ;gdj_durango_santa_barbara;GDDUBBJU
+252;JUGDDUBP;Batopilas;"Minas de Urique; Monserrate y Urique; Uriqui; Batopilas, Urique y Loreto";Jurisdiccion;Durango;GDJ;gdj_durango_batopilas;GDDUBPJU
+253;JUGDDUBS;Basis;Bacis;Jurisdiccion;Durango;GDJ;gdj_durango_basis;GDDUBSJU
+254;JUGDDUBV;Valle de San Buenaventura;Casas Grandes;Jurisdiccion;Durango;GDJ;gdj_durango_valle_de_san_buenaventura;GDDUBVJU
+255;JUGDDUBY;Babonoyaba;"Satevo; Satebo; Sattebo; Babonayaba";Jurisdiccion;Durango;GDJ;gdj_durango_babonoyaba;GDDUBYJU
+256;JUGDDUCA;Canelas;Canelas y Topia;Jurisdiccion;Durango;GDJ;gdj_durango_canelas;GDDUCAJU
+257;JUGDDUCG;Cerro Gordo;;Jurisdiccion;Durango;GDJ;gdj_durango_cerro_gordo;GDDUCGJU
+258;JUGDDUCH;Chihuahua;"San Francisco de Cuellar; Santa Eulalia";Jurisdiccion;Durango;GDJ;gdj_durango_chihuahua;GDDUCHJU
+259;JUGDDUCI;Cienega de los Olivos;;Jurisdiccion;Durango;GDJ;gdj_durango_cienega_de_los_olivos;GDDUCIJU
+260;JUGDDUCM;Cuencame;;Jurisdiccion;Durango;GDJ;gdj_durango_cuencame;GDDUCMJU
+261;JUGDDUCN;Cianori;"Sianori; Cianori y Tamazula; Topia; Cianori y El Narotal; Cianori y Canelas";Jurisdiccion;Durango;GDJ;gdj_durango_cianori;GDDUCNJU
+262;JUGDDUCO;Coneto;Minas de Coneto;Jurisdiccion;Durango;GDJ;gdj_durango_coneto;GDDUCOJU
+263;JUGDDUCR;Cusihuiriachi;"Cosihuiriachic; Cosiguiriachi";Jurisdiccion;Durango;GDJ;gdj_durango_cusihuiriachi;GDDUCRJU
+264;JUGDDUCS;San Francisco de Conchos;;Jurisdiccion;Durango;GDJ;gdj_durango_san_francisco_de_conchos;GDDUCSJU
+265;JUGDDUCT;Canatlan;;Jurisdiccion;Durango;GDJ;gdj_durango_canatlan;GDDUCTJU
+266;JUGDDUDU;Durango;Guadiana;Jurisdiccion;Durango;GDJ;gdj_durango_durango;GDDUDUJU
+267;JUGDDUEG;El Gallo;San Pedro del Gallo;Jurisdiccion;Durango;GDJ;gdj_durango_el_gallo;GDDUEGJU
+268;JUGDDUGA;Gavilanes;;Jurisdiccion;Durango;GDJ;gdj_durango_gavilanes;GDDUGAJU
+269;JUGDDUGC;Guanacevi;"Sape; Zape";Jurisdiccion;Durango;GDJ;gdj_durango_guanacevi;GDDUGCJU
+270;JUGDDUGM;Guarisamey;"San Diego del Rio; Nuevo Real de Agua Caliente";Jurisdiccion;Durango;GDJ;gdj_durango_guarisamey;GDDUGMJU
+271;JUGDDUGQ;Guajoquilla;"La Ramada; San Antonio de la Ramada; Santo Cristo de Burgos; Guaxuquilla; Guejuquilla; Guajuquilla; Guaxoquilla; Huajoquilla; Huaxoquilla; Huajuquilla; Huajoquilla";Jurisdiccion;Durango;GDJ;gdj_durango_guajoquilla;GDDUGQJU
+272;JUGDDUGZ;Guazamota;;Jurisdiccion;Durango;GDJ;gdj_durango_guazamota;GDDUGZJU
+273;JUGDDUIN;Inde;"Minas de Inde; Real de Inde; Indee; Indehe; Yndehee; Ynde; Yndhe";Jurisdiccion;Durango;GDJ;gdj_durango_inde;GDDUINJU
+274;JUGDDUJA;San Joaquin de los Arrieros;;Jurisdiccion;Durango;GDJ;gdj_durango_san_joaquin_de_los_arrieros;GDDUJAJU
+275;JUGDDUJR;San Juan del Rio;;Jurisdiccion;Durango;GDJ;gdj_durango_san_juan_del_rio;GDDUJRJU
+276;JUGDDUJU;Julimes;;Jurisdiccion;Durango;GDJ;gdj_durango_julimes;GDDUJUJU
+277;JUGDDUMA;Mapimi;;Jurisdiccion;Durango;GDJ;gdj_durango_mapimi;GDDUMAJU
+278;JUGDDUME;Mezquital;"San Francisco Mezquital; San Bernardino Milpillas; Lajas y Melipillas; Melpillas; San Francisco de Lajas; San Francisco de Lajas";Jurisdiccion;Durango;GDJ;gdj_durango_mezquital;GDDUMEJU
+279;JUGDDUMN;Minas Nuevas;San Diego de Minas Nuevas;Jurisdiccion;Durango;GDJ;gdj_durango_minas_nuevas;GDDUMNJU
+280;JUGDDUND;Nombre De Dios;;Jurisdiccion;Durango;GDJ;gdj_durango_nombre_de_dios;GDDUNDJU
+281;JUGDDUNP;San Juan Nepomuceno;"Nabogame y Baborigame; Sierra Tepehuana";Jurisdiccion;Durango;GDJ;gdj_durango_san_juan_nepomuceno;GDDUNPJU
+282;JUGDDUPL;Parral;Parral, Minas Nuevas y Santa Barbara;Jurisdiccion;Durango;GDJ;gdj_durango_parral;GDDUPLJU
+283;JUGDDUPP;Papasquiaro;"Santiago Papasquiaro; Papasquiaro y Santa Catarina; Papasquiaro y Tepehuanes";Jurisdiccion;Durango;GDJ;gdj_durango_papasquiaro;GDDUPPJU
+284;JUGDDUPS;Parras y Saltillo;;Jurisdiccion;Durango;GDJ;gdj_durango_parras_y_saltillo;GDDUPSJU
+285;JUGDDURO;Real del Oro;;Jurisdiccion;Durango;GDJ;gdj_durango_real_del_oro;GDDUROJU
+286;JUGDDUSA;San Andres de la Sierra;"San Andres y Guapijuje; Guapijuje; Yguapejuje; Otates; Otais; Otaez; Guapejuje; Guapexuxe; Guaperaje";Jurisdiccion;Durango;GDJ;gdj_durango_san_andres_de_la_sierra;GDDUSAJU
+287;JUGDDUSC;Santa Catarina;Tepehuanes;Jurisdiccion;Durango;GDJ;gdj_durango_santa_catarina;GDDUSCJU
+288;JUGDDUSD;San Dimas;;Jurisdiccion;Durango;GDJ;gdj_durango_san_dimas;GDDUSDJU
+289;JUGDDUSG;San Geronimo;San Jeronimo;Jurisdiccion;Durango;GDJ;gdj_durango_san_geronimo;GDDUSGJU
+290;JUGDDUSI;Santa Isabel;;Jurisdiccion;Durango;GDJ;gdj_durango_santa_isabel;GDDUSIJU
+291;JUGDDUTA;Tayoltita;Tacoltite;Jurisdiccion;Durango;GDJ;gdj_durango_tayoltita;GDDUTAJU
+292;JUGDDUTH;Tabahueto;;Jurisdiccion;Durango;GDJ;gdj_durango_tabahueto;GDDUTHJU
+293;JUGDDUTL;Comunidades Tlaxcaltecas;;Partido;Durango;GDJ;gdj_durango_comunidades_tlaxcaltecas;GDDUTLJU
+294;JUGDDUTO;Topago;"Urique; Guazapares";Jurisdiccion;Durango;GDJ;gdj_durango_topago;GDDUTOJU
+295;JUGDDUTZ;Tamazula;;Jurisdiccion;Durango;GDJ;gdj_durango_tamazula;GDDUTZJU
+296;JUGDDUVB;Valle de San Bartolome;;Jurisdiccion;Durango;GDJ;gdj_durango_valle_de_san_bartolome;GDDUVBJU
+297;JUGDDUVE;Ventanas;;Jurisdiccion;Durango;GDJ;gdj_durango_ventanas;GDDUVEJU
+298;JUGDGDAC;Acaponeta;Senticpac y Acaponeta;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_acaponeta;GDGDACJU
+299;JUGDGDAG;Aguas Calientes;"Aguascalientes; Suchipila y Aguascalientes; Juchipila y Aguascalientes";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_aguas_calientes;GDGDAGJU
+300;JUGDGDAH;Ahuacatlan;Aguacatlan y Xala;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_ahuacatlan;GDGDAHJU
+301;JUGDGDAU;Autlan;Autlan y Puerto de la Navidad;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_autlan;GDGDAUJU
+302;JUGDGDBO;Bolaños;;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_bolaños;GDGDBOJU
+303;JUGDGDCA;Cajititlan;"Caxititlan; Cuyutlan";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_cajititlan;GDGDCAJU
+304;JUGDGDCO;Colima;;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_colima;GDGDCOJU
+305;JUGDGDCP;Compostela;;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_compostela;GDGDCPJU
+306;JUGDGDCU;Cuquio;Mezticacan;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_cuquio;GDGDCUJU
+307;JUGDGDET;Etzatlan;"Izatlan; Ahualulco; Agualulco";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_etzatlan;GDGDETJU
+308;JUGDGDGD;Guadalajara;;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_guadalajara;GDGDGDJU
+309;JUGDGDGN;Guachinango;"Huachinango; Guachinango y Mascota; Mascota";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_guachinango;GDGDGNJU
+310;JUGDGDHC;Hostotipac;"Hostoticpac; Hostoticpaque; Hostotipaque; San Sebastian";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_hostotipac;GDGDHCJU
+311;JUGDGDHQ;Hostotipaquillo;Yesca;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_hostotipaquillo;GDGDHQJU
+312;JUGDGDJU;Juchipila;"Xuchipila; Suchipila";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_juchipila;GDGDJUJU
+313;JUGDGDLA;Lagos;Lagos y Pueblos Llanos;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_lagos;GDGDLAJU
+314;JUGDGDLB;La Barca;Poncitlan;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_la_barca;GDGDLBJU
+315;JUGDGDSB;San Blas;Puerto de San Blas;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_san_blas;GDGDSBJU
+316;JUGDGDSC;San Cristobal de La Barranca;Zapopan;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_san_cristobal_de_la_barranca;GDGDSCJU
+317;JUGDGDSE;Senticpac;"Sentipac; Centicpac; Sentispac; Sentipaque";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_senticpac;GDGDSEJU
+318;JUGDGDSM;Santa Maria Del Oro;"Tequepexpa; Tequepespan; Chimaltitlan";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_santa_maria_del_oro;GDGDSMJU
+319;JUGDGDSY;Sayula;"Atoyaque; Avalos; Zayula";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_sayula;GDGDSYJU
+320;JUGDGDTA;Tala;Nochistlanejo;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_tala;GDGDTAJU
+321;JUGDGDTC;Teocaltiche;"Tequaltichi; Teocaltchi; Teocaltiche y Pueblos Llanos";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_teocaltiche;GDGDTCJU
+322;JUGDGDTE;Tepic;Compostela;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_tepic;GDGDTEJU
+323;JUGDGDTL;Tlajomulco y Cajititlan;"Tlaxomulco; Tlajomulco y Cajitlan";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_tlajomulco_y_cajititlan;GDGDTLJU
+324;JUGDGDTN;Tonala;Tonala y San Pedro;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_tonala;GDGDTNJU
+325;JUGDGDTO;Tomatlan;Purificacion;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_tomatlan;GDGDTOJU
+326;JUGDGDTQ;Tequila;;Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_tequila;GDGDTQJU
+327;JUGDGDTT;Tecpatitlan;"Tepatitlan; Tepactitlan; Colimilla y Matatlan; Xonacatlan; Colimilla";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_tecpatitlan;GDGDTTJU
+328;JUGDGDTU;Amula;"Amula; Amola; Amula y Tuxcacuesco; Tuxcacuesco; Tuzcacuezco; Tuscacuesco; Amula y Periban";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_amula;GDGDTUJU
+329;JUGDGDZA;Zapotlan;"Tuspa; Tuxpa; Zapotlan el Grande; Tuxpa, Tamazula y Zapotlan";Jurisdiccion;Guadalajara;GDJ;gdj_guadalajara_zapotlan;GDGDZAJU
+330;JUGDNLBL;Boca de Leones;Real de San Pedro de Boca de Leones;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_boca_de_leones;GDNLBLJU
+331;JUGDNLCA;Cadereyta;Presidio de Cadereyta;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_cadereyta;GDNLCAJU
+332;JUGDNLCE;Cerralvo;Minas de San Gregorio;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_cerralvo;GDNLCEJU
+48;JUGDNLCZ;Carrizal;Marin;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_carrizal;GDNLCZJU
+333;JUGDNLGU;Valle de Guajuco;;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_valle_de_guajuco;GDNLGUJU
+51;JUGDNLIG;La Iguana;San Antonio de la Iguana;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_la_iguana;GDNLIGJU
+334;JUGDNLLA;Valle de Labradores;Valle de San Pablo de Labradores;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_valle_de_labradores;GDNLLAJU
+335;JUGDNLLI;Linares;"San Felipe de Linares; Valle de San Cristobal";Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_linares;GDNLLIJU
+336;JUGDNLMO;Monterrey;;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_monterrey;GDNLMOJU
+337;JUGDNLPE;Pesqueria Grande;;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_pesqueria_grande;GDNLPEJU
+338;JUGDNLPI;Valle de Pilon;;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_valle_de_pilon;GDNLPIJU
+339;JUGDNLPL;Punta de Lampazos;"La Puntas; Las Puntas; Villa de Horcasitas y Punta de Lampazos";Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_punta_de_lampazos;GDNLPLJU
+340;JUGDNLRB;Rio Blanco;Valle de San Antonio de los Llanos;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_rio_blanco;GDNLRBJU
+341;JUGDNLSA;Valle de Salinas;;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_valle_de_salinas;GDNLSAJU
+50;JUGDNLSB;Sabinas;Santiago de Sabinas;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_sabinas;GDNLSBJU
+342;JUGDNLSC;Valle de Santa Catarina;;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_valle_de_santa_catarina;GDNLSCJU
+343;JUGDNLVA;Vallecillo;;Jurisdiccion;Nuevo Leon;GDJ;gdj_nuevo_leon_vallecillo;GDNLVAJU
+344;JUGDNMAL;Alburquerque;"Las Salinas; Rio abajo; Albuquerque";Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_alburquerque;GDNMALJU
+345;JUGDNMCO;Cochiti;;Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_cochiti;GDNMCOJU
+346;JUGDNMEP;El Paso;El Paso del Norte;Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_el_paso;GDNMEPJU
+347;JUGDNMGA;Galisteo;"Pecos; Galisteo y Pecos";Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_galisteo;GDNMGAJU
+348;JUGDNMLL;La Laguna;;Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_la_laguna;GDNMLLJU
+349;JUGDNMQU;Los Queres;"Jemes; Gemes; Keres; Xemez; Gemez; Jemez; Zia; Cochiti";Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_los_queres;GDNMQUJU
+350;JUGDNMSA;Sandia;"Bernalillo; San Carlos de Alameda; Alamada; Isleta";Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_sandia;GDNMSAJU
+351;JUGDNMSC;Santa Cruz de la Cañada;Rio arriba;Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_santa_cruz_de_la_cañada;GDNMSCJU
+352;JUGDNMSF;Santa Fe;;Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_santa_fe;GDNMSFJU
+353;JUGDNMTA;Taos;"Tewas; Tiwas; Tihuas; Teguas; Tehuas; Tiguas; Thaos; Taos y Picuries";Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_taos;GDNMTAJU
+354;JUGDNMZU;Zuñi;;Jurisdiccion;Nuevo Mexico;GDJ;gdj_nuevo_mexico_zuñi;GDNMZUJU
+355;JUGDSSAI;Aigame;"Real de Aigame; Pimeria Baja";Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_aigame;GDSSAIJU
+356;JUGDSSAL;Alamos;;Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_alamos;GDSSALJU
+1428;JUGDSSCH;Chametla;;Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_chametla;GDSSCHJU
+357;JUGDSSCI;Cieneguilla;;Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_cieneguilla;GDSSCIJU
+358;JUGDSSCP;Copala;"San Sebastian; Chiametla; Mazatlan; Chiametla y Maloya";Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_copala;GDSSCPJU
+359;JUGDSSCS;Cosala;"Las Virgenes; Once mil virgenes de Cosala";Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_cosala;GDSSCSJU
+360;JUGDSSCU;Culiacan;;Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_culiacan;GDSSCUJU
+361;JUGDSSEF;El Fuerte;;Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_el_fuerte;GDSSEFJU
+362;JUGDSSMY;Maloya;Matatan;Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_maloya;GDSSMYJU
+363;JUGDSSOS;Ostimuri;"Hostimuri; Rio Chico; Ustimuri; Ostimuri, Valloreca y Rio Chico";Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_ostimuri;GDSSOSJU
+364;JUGDSSRO;Rosario;"Chametla; Chametla y Salinas; Real de Rosario y Chametla; Chiametla";Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_rosario;GDSSROJU
+365;JUGDSSSB;San Benito;;Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_san_benito;GDSSSBJU
+366;JUGDSSSC;Santiago de los Caballeros;"Badiraguato; San Benito";Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_santiago_de_los_caballeros;GDSSSCJU
+367;JUGDSSSI;Sinaloa;;Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_sinaloa;GDSSSIJU
+368;JUGDSSSO;Sonora;"San Antonio de la Huerta; Horcasitas";Jurisdiccion;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_sonora;GDSSSOJU
+369;JUGDZAFR;Fresnillo;;Jurisdiccion;Zacatecas;GDJ;gdj_zacatecas_fresnillo;GDZAFRJU
+370;JUGDZAJE;Jerez;"Jerez-Tlaltenango; Xerez; Jerez de la Frontera";Jurisdiccion;Zacatecas;GDJ;gdj_zacatecas_jerez;GDZAJEJU
+371;JUGDZAMA;Mazapil;;Jurisdiccion;Zacatecas;GDJ;gdj_zacatecas_mazapil;GDZAMAJU
+372;JUGDZANI;Nieves;;Jurisdiccion;Zacatecas;GDJ;gdj_zacatecas_nieves;GDZANIJU
+373;JUGDZASI;Sierra de Pinos;;Jurisdiccion;Zacatecas;GDJ;gdj_zacatecas_sierra_de_pinos;GDZASIJU
+374;JUGDZASO;Sombrerete;Llerena Real;Jurisdiccion;Zacatecas;GDJ;gdj_zacatecas_sombrerete;GDZASOJU
+375;JUGDZAZA;Zacatecas;;Jurisdiccion;Zacatecas;GDJ;gdj_zacatecas_zacatecas;GDZAZAJU
+376;JUGUCHCO;Comitan;Los Llanos;Jurisdiccion;Chiapas;GUA;gua_chiapas_comitan;GUCHCOJU
+377;JUGUCHCR;Ciudad Real;Chiapas;Jurisdiccion;Chiapas;GUA;gua_chiapas_ciudad_real;GUCHCRJU
+378;JUGUCHHU;Huistan;Guista;Jurisdiccion;Chiapas;GUA;gua_chiapas_huistan;GUCHHUJU
+379;JUGUCHIX;Ixtacomitan;;Jurisdiccion;Chiapas;GUA;gua_chiapas_ixtacomitan;GUCHIXJU
+380;JUGUCHOC;Ocozingo;"Tzendales; Sendales; Chontales";Jurisdiccion;Chiapas;GUA;gua_chiapas_ocozingo;GUCHOCJU
+381;JUGUCHPA;Palenque;;Jurisdiccion;Chiapas;GUA;gua_chiapas_palenque;GUCHPAJU
+382;JUGUCHSA;San Andres;"Corona; Coronas y Chinampas";Jurisdiccion;Chiapas;GUA;gua_chiapas_san_andres;GUCHSAJU
+383;JUGUCHSI;Simojovel;Guardiania de Huitiupan;Jurisdiccion;Chiapas;GUA;gua_chiapas_simojovel;GUCHSIJU
+384;JUGUCHSO;Soconusco;;Jurisdiccion;Chiapas;GUA;gua_chiapas_soconusco;GUCHSOJU
+385;JUGUCHTA;Tapachula;;Jurisdiccion;Chiapas;GUA;gua_chiapas_tapachula;GUCHTAJU
+386;JUGUCHTI;Tila;;Jurisdiccion;Chiapas;GUA;gua_chiapas_tila;GUCHTIJU
+387;JUGUCHTO;Tonala;;Jurisdiccion;Chiapas;GUA;gua_chiapas_tonala;GUCHTOJU
+388;JUGUCHTU;Tuxtla;;Jurisdiccion;Chiapas;GUA;gua_chiapas_tuxtla;GUCHTUJU
+389;JUGUCYCN;Chinda;;Jurisdiccion;Comayagua;GUA;gua_comayagua_chinda;GUCYCNJU
+390;JUGUCYCY;Comayagua;;Jurisdiccion;Comayagua;GUA;gua_comayagua_comayagua;GUCYCYJU
+391;JUGUCYGR;Gracias a Dios;;Jurisdiccion;Comayagua;GUA;gua_comayagua_gracias_a_dios;GUCYGRJU
+392;JUGUCYOL;Olancho;;Jurisdiccion;Comayagua;GUA;gua_comayagua_olancho;GUCYOLJU
+393;JUGUCYOM;Omoa;;Jurisdiccion;Comayagua;GUA;gua_comayagua_omoa;GUCYOMJU
+394;JUGUCYOT;Olanchito;;Jurisdiccion;Comayagua;GUA;gua_comayagua_olanchito;GUCYOTJU
+395;JUGUCYSE;Sensenti;;Jurisdiccion;Comayagua;GUA;gua_comayagua_sensenti;GUCYSEJU
+396;JUGUCYSP;San Pedro Sula;;Jurisdiccion;Comayagua;GUA;gua_comayagua_san_pedro_sula;GUCYSPJU
+397;JUGUCYTC;Tencoa;Santa Barbara;Jurisdiccion;Comayagua;GUA;gua_comayagua_tencoa;GUCYTCJU
+398;JUGUCYTR;Trujillo;;Jurisdiccion;Comayagua;GUA;gua_comayagua_trujillo;GUCYTRJU
+399;JUGUCYYO;Yoro;;Jurisdiccion;Comayagua;GUA;gua_comayagua_yoro;GUCYYOJU
+400;JUGUGUAC;Acasaguastlan;"Casablastran; Casalbastran; Casabeltran";Jurisdiccion;Guatemala;GUA;gua_guatemala_acasaguastlan;GUGUACJU
+401;JUGUGUAM;Amatique;Amatique y Santo Tomas de Castilla;Jurisdiccion;Guatemala;GUA;gua_guatemala_amatique;GUGUAMJU
+402;JUGUGUCM;Chiquimula;Chiquimula y Acasaguastlan;Jurisdiccion;Guatemala;GUA;gua_guatemala_chiquimula;GUGUCMJU
+403;JUGUGUCT;Chimaltenango;;Jurisdiccion;Guatemala;GUA;gua_guatemala_chimaltenango;GUGUCTJU
+404;JUGUGUES;Escuintla;Escuintla y Guazacapan;Jurisdiccion;Guatemala;GUA;gua_guatemala_escuintla;GUGUESJU
+405;JUGUGUGU;Valle de Guatemala;Guatemala;Jurisdiccion;Guatemala;GUA;gua_guatemala_valle_de_guatemala;GUGUGUJU
+406;JUGUGUIS;isla de San Andres;Isla de San Andres y Costa de Mosquitos;Jurisdiccion;Guatemala;GUA;gua_guatemala_isla_de_san_andres;GUGUISJU
+407;JUGUGUQU;Quetzaltenango;Casaltenango;Jurisdiccion;Guatemala;GUA;gua_guatemala_quetzaltenango;GUGUQUJU
+408;JUGUGUSA;Sacatepeques;"Sacatepeques y Amatitanes; Amatitan y Zacatepeques";Jurisdiccion;Guatemala;GUA;gua_guatemala_sacatepeques;GUGUSAJU
+409;JUGUGUSF;San Felipe del Golfo;"Castillo de San Felipe; San Felipe del Golfo Dulce; San Felipe de Lara";Jurisdiccion;Guatemala;GUA;gua_guatemala_san_felipe_del_golfo;GUGUSFJU
+410;JUGUGUSO;Solola;"Tecpanatitan; Tecpan Atitlan; Atitan y Atepanatitan";Jurisdiccion;Guatemala;GUA;gua_guatemala_solola;GUGUSOJU
+411;JUGUGUSS;Sonsonate;;Jurisdiccion;Guatemala;GUA;gua_guatemala_sonsonate;GUGUSSJU
+412;JUGUGUSU;Suchiltepequez;"Suchitepeque; Suchiltepeques; Zapotitlan y San Antonio de Suchiltepeques";Jurisdiccion;Guatemala;GUA;gua_guatemala_suchiltepequez;GUGUSUJU
+413;JUGUGUTO;Totonicapan;Totonicapan y Huehuetenango;Jurisdiccion;Guatemala;GUA;gua_guatemala_totonicapan;GUGUTOJU
+414;JUGUGUVE;Verapaz;;Jurisdiccion;Guatemala;GUA;gua_guatemala_verapaz;GUGUVEJU
+415;JUGUNIGR;Granada;;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_granada;GUNIGRJU
+416;JUGUNILE;Leon;;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_leon;GUNILEJU
+417;JUGUNIMA;Masaya;;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_masaya;GUNIMAJU
+418;JUGUNIMG;Sebaco;"Sebaco; Sebaco y Chontales; Matagalpa; Matagalpa y Chontales";Jurisdiccion;Nicaragua;GUA;gua_nicaragua_sebaco;GUNIMGJU
+419;JUGUNINC;Nicoya;;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_nicoya;GUNINCJU
+420;JUGUNINI;Nicaragua;;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_nicaragua;GUNINIJU
+421;JUGUNINS;Nueva Segovia;;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_nueva_segovia;GUNINSJU
+422;JUGUNIRE;Realejo;;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_realejo;GUNIREJU
+423;JUGUNISJ;Rio San Juan;Castillo de Concepcion;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_rio_san_juan;GUNISJJU
+424;JUGUNISU;Subtiava;Quetzalguaque;Jurisdiccion;Nicaragua;GUA;gua_nicaragua_subtiava;GUNISUJU
+425;JUGUSSCH;Chalatenango;;Jurisdiccion;San Salvador;GUA;gua_san_salvador_chalatenango;GUSSCHJU
+426;JUGUSSME;Metapas;;Jurisdiccion;San Salvador;GUA;gua_san_salvador_metapas;GUSSMEJU
+427;JUGUSSSA;Santa Ana;Santa Ana la Grande;Jurisdiccion;San Salvador;GUA;gua_san_salvador_santa_ana;GUSSSAJU
+428;JUGUSSSC;Sacatecoluca;Zacatecoluca;Jurisdiccion;San Salvador;GUA;gua_san_salvador_sacatecoluca;GUSSSCJU
+429;JUGUSSSM;San Miguel;;Jurisdiccion;San Salvador;GUA;gua_san_salvador_san_miguel;GUSSSMJU
+430;JUGUSSSS;San Salvador;;Jurisdiccion;San Salvador;GUA;gua_san_salvador_san_salvador;GUSSSSJU
+431;JUGUSSSV;San Vicente;;Jurisdiccion;San Salvador;GUA;gua_san_salvador_san_vicente;GUSSSVJU
+432;JUGUTGAG;Aguanqueterique;;Jurisdiccion;Tegucigalpa;GUA;gua_tegucigalpa_aguanqueterique;GUTGAGJU
+433;JUGUTGCE;Cedros;Cantarranas;Jurisdiccion;Tegucigalpa;GUA;gua_tegucigalpa_cedros;GUTGCEJU
+434;JUGUTGCT;Choluteca;;Jurisdiccion;Tegucigalpa;GUA;gua_tegucigalpa_choluteca;GUTGCTJU
+435;JUGUTGDA;Danli;;Jurisdiccion;Tegucigalpa;GUA;gua_tegucigalpa_danli;GUTGDAJU
+436;JUGUTGNA;Nacaome;;Jurisdiccion;Tegucigalpa;GUA;gua_tegucigalpa_nacaome;GUTGNAJU
+437;JUGUTGTG;Tegucigalpa;"Minas y registros de Honduras; Minas de Tegucigalpa, Acapcap y villa de Choluteca; Minas de Tegucigalpa y Real del Corpus";Jurisdiccion;Tegucigalpa;GUA;gua_tegucigalpa_tegucigalpa;GUTGTGJU
+438;JUNEBEBE;Belice;"Walix; Baliza; Walis; Balix; Belize";Jurisdiccion;Yucatan;NES;nes_yucatan_belice;NEBEBEJU
+439;JUNECLCN;California Alta;California Nueva;Jurisdiccion;California;GDJ;gdj_california_california_alta;NECLCNJU
+440;JUNECLCV;California Baja;"California Vieja; Antigua California";Jurisdiccion;California;GDJ;gdj_california_california_baja;NECLCVJU
+441;JUNECLDN;Departamento del Norte;;Jurisdiccion;California;GDJ;gdj_california_departamento_del_norte;NECLDNJU
+442;JUNECLDS;Departamento del Sur;;Jurisdiccion;California;GDJ;gdj_california_departamento_del_sur;NECLDSJU
+443;JUNECNCA;Carmen;Laguna de los Terminos;Jurisdiccion;Yucatan;NES;nes_yucatan_carmen;NECNCAJU
+444;JUNEGJCE;Celaya;"Yurirapundiro; Celaya y Salvatierra";Jurisdiccion;Guanajuato;NES;nes_guanajuato_celaya;NEGJCEJU
+445;JUNEGJDO;Dolores;Congregacion de Dolores;Jurisdiccion;Guanajuato;NES;nes_guanajuato_dolores;NEGJDOJU
+446;JUNEGJGJ;Guanajuato;;Jurisdiccion;Guanajuato;NES;nes_guanajuato_guanajuato;NEGJGJJU
+447;JUNEGJLE;Villa de Leon;Leon y Zacatula;Jurisdiccion;Guanajuato;NES;nes_guanajuato_villa_de_leon;NEGJLEJU
+448;JUNEGJPE;Penjamo;;Jurisdiccion;Guanajuato;NES;nes_guanajuato_penjamo;NEGJPEJU
+449;JUNEGJPG;Piedra Gorda;Piedragorda;Jurisdiccion;Guanajuato;NES;nes_guanajuato_piedra_gorda;NEGJPGJU
+450;JUNEGJSF;San Felipe;;Jurisdiccion;Guanajuato;NES;nes_guanajuato_san_felipe;NEGJSFJU
+451;JUNEGJSI;Silao;Congregacion de Silao;Jurisdiccion;Guanajuato;NES;nes_guanajuato_silao;NEGJSIJU
+452;JUNEGJSM;San Miguel el Grande;"San Miguel el Grande y San Felipe; San Felipe y San Miguel";Jurisdiccion;Guanajuato;NES;nes_guanajuato_san_miguel_el_grande;NEGJSMJU
+453;JUNEGJSP;San Luis de la Paz;Minas de Sichu y los Pozos;Jurisdiccion;Guanajuato;NES;nes_guanajuato_san_luis_de_la_paz;NEGJSPJU
+454;JUNEMIAN;Angamacutiro;;Jurisdiccion;Michoacan;NES;nes_michoacan_angamacutiro;NEMIANJU
+455;JUNEMICA;Caracuaro;;Jurisdiccion;Michoacan;NES;nes_michoacan_caracuaro;NEMICAJU
+456;JUNEMICD;Chucandiro;Chocandiro;Jurisdiccion;Michoacan;NES;nes_michoacan_chucandiro;NEMICDJU
+457;JUNEMICH;Chilchota;Chilchotla;Jurisdiccion;Michoacan;NES;nes_michoacan_chilchota;NEMICHJU
+458;JUNEMICI;Cinagua y la Guacana;"Ario; Santiago Ario; La Vacana; La Uacana; Sinagua y la Guacana; Cinagua y Aguacana; Cinagua y Ahuacana; Cinagua y La Guacana; Cinagua y La Huacana";Jurisdiccion;Michoacan;NES;nes_michoacan_cinagua_y_la_guacana;NEMICIJU
+459;JUNEMICL;Cuitzeo de la Laguna;"Cuiseo;  Cuiceo; Cuisco de la Laguna";Jurisdiccion;Michoacan;NES;nes_michoacan_cuitzeo_de_la_laguna;NEMICLJU
+460;JUNEMICO;Cocupao;Tzintzuntzan;Jurisdiccion;Michoacan;NES;nes_michoacan_cocupao;NEMICOJU
+461;JUNEMICR;Charo;;Jurisdiccion;Michoacan;NES;nes_michoacan_charo;NEMICRJU
+462;JUNEMIER;Erongaricuaro;;Jurisdiccion;Michoacan;NES;nes_michoacan_erongaricuaro;NEMIERJU
+463;JUNEMIHG;Huango;;Jurisdiccion;Michoacan;NES;nes_michoacan_huango;NEMIHGJU
+464;JUNEMIHQ;Huaniqueo;Guaniqueo;Jurisdiccion;Michoacan;NES;nes_michoacan_huaniqueo;NEMIHQJU
+465;JUNEMIHS;Huetamo;"Guimeo y Zirandaro; Huaymeyo; Huaymeo y Sirandiro; Minas del Espiritu Santo";Jurisdiccion;Michoacan;NES;nes_michoacan_huetamo;NEMIHSJU
+466;JUNEMIIN;Indaparapeo;;Jurisdiccion;Michoacan;NES;nes_michoacan_indaparapeo;NEMIINJU
+467;JUNEMIJI;Jiquilpan;"Xiquilpa; Xiquilpa y Periban; Xiquilpa y Perivan; Xiquilpa, Periban y Tinguindin; San Juan de Periban";Jurisdiccion;Michoacan;NES;nes_michoacan_jiquilpan;NEMIJIJU
+468;JUNEMIJT;Jaso y Teremendo;"Xasoteremendo; Xaso y Teremendo; Jasso y Teremendo; Xazo y Teremendo; Jasoteremendo";Jurisdiccion;Michoacan;NES;nes_michoacan_jaso_y_teremendo;NEMIJTJU
+469;JUNEMIMA;Maravatio;"Maravatio; Zitacuaro; Zitacuaro y Angangueo; Maravatio y Zamora";Jurisdiccion;Michoacan;NES;nes_michoacan_maravatio;NEMIMAJU
+470;JUNEMIMO;Motines;"Motines del Oro; Coahuayana; Coayaguana";Jurisdiccion;Michoacan;NES;nes_michoacan_motines;NEMIMOJU
+471;JUNEMIPA;Patzcuaro;;Jurisdiccion;Michoacan;NES;nes_michoacan_patzcuaro;NEMIPAJU
+472;JUNEMIPR;Paracho;Sevina;Jurisdiccion;Michoacan;NES;nes_michoacan_paracho;NEMIPRJU
+473;JUNEMIPU;Puruandiro;;Jurisdiccion;Michoacan;NES;nes_michoacan_puruandiro;NEMIPUJU
+474;JUNEMISC;Santa Clara del Cobre;Santa Clara de los Cobres;Jurisdiccion;Michoacan;NES;nes_michoacan_santa_clara_del_cobre;NEMISCJU
+475;JUNEMITA;Taretan;;Jurisdiccion;Michoacan;NES;nes_michoacan_taretan;NEMITAJU
+476;JUNEMITB;Tacambaro;;Jurisdiccion;Michoacan;NES;nes_michoacan_tacambaro;NEMITBJU
+477;JUNEMITC;Tancitaro;"Apatzingan; Tancitaro y Pizandaro; Tansitaro y Pisandaro; Tancitaro, Pizandaro, Cinagua y la Guacana; Tanzitaro; Tansitaro; Tancitaro, Pinzandaro y Motines";Jurisdiccion;Michoacan;NES;nes_michoacan_tancitaro;NEMITCJU
+478;JUNEMITG;Tinguindin;Tinhuindin;Jurisdiccion;Michoacan;NES;nes_michoacan_tinguindin;NEMITGJU
+479;JUNEMITI;Tiripetio;Tiripitio;Jurisdiccion;Michoacan;NES;nes_michoacan_tiripetio;NEMITIJU
+480;JUNEMITP;Tlalpujahua;;Jurisdiccion;Michoacan;NES;nes_michoacan_tlalpujahua;NEMITPJU
+481;JUNEMITX;Taximaroa;;Jurisdiccion;Mexico;NES;nes_mexico_taximaroa;NEMITXJU
+482;JUNEMITZ;Tlazazalca;"La Piedad; Chilchota y Tlazazalca";Jurisdiccion;Michoacan;NES;nes_michoacan_tlazazalca;NEMITZJU
+483;JUNEMIUO;Urecho;;Jurisdiccion;Michoacan;NES;nes_michoacan_urecho;NEMIUOJU
+484;JUNEMIUR;Uruapan;;Jurisdiccion;Michoacan;NES;nes_michoacan_uruapan;NEMIURJU
+485;JUNEMIVA;Valladolid;"Michoacan; Patzcuaro; Valladolid y Patzcuaro; Pasquaro; Valladolid, Patzcuaro, Jaso y Teremendo";Jurisdiccion;Michoacan;NES;nes_michoacan_valladolid;NEMIVAJU
+486;JUNEMIZA;Zamora y Jacona;"Zamora y Xacona; Tacona y Zamora";Jurisdiccion;Michoacan;NES;nes_michoacan_zamora_y_jacona;NEMIZAJU
+487;JUNEMIZP;Zinapecuaro;Tzinapecuaro;Jurisdiccion;Michoacan;NES;nes_michoacan_zinapecuaro;NEMIZPJU
+488;JUNEMXAC;Acapulco;"Ciudad de los Reyes; Santos Reyes";Jurisdiccion;Mexico;NES;nes_mexico_acapulco;NEMXACJU
+489;JUNEMXAP;Apan;"Apa y Tepeapulco; Apa";Jurisdiccion;Mexico;NES;nes_mexico_apan;NEMXAPJU
+490;JUNEMXAQ;Atitalaquia;;Jurisdiccion;Mexico;NES;nes_mexico_atitalaquia;NEMXAQJU
+491;JUNEMXAT;Actopan;"Octupa; Octupa, Yxcuin y Cuitlapilco";Jurisdiccion;Mexico;NES;nes_mexico_actopan;NEMXATJU
+492;JUNEMXCA;Cadereyta;Cadereyta y Escanela;Jurisdiccion;Mexico;NES;nes_mexico_cadereyta;NEMXCAJU
+493;JUNEMXCH;Chalco;"Chalco-Tlalmanalco; Chalco Talmanalco; Chalco y Tlayacapa; Chalco y Hayacapa; Chalco Talmanalco; Chalco Talmanalco, agregao de Tlayacapa";Jurisdiccion;Mexico;NES;nes_mexico_chalco;NEMXCHJU
+494;JUNEMXCL;Chilapa;"Tlalcozautitlan; Chilapan; Chilapam; Chilapa y Chisla; Chiapa y Tixtla";Jurisdiccion;Mexico;NES;nes_mexico_chilapa;NEMXCLJU
+495;JUNEMXCN;Cuautitlan;"Guautitlan; Cuauhtitlan; Quautitlan";Jurisdiccion;Mexico;NES;nes_mexico_cuautitlan;NEMXCNJU
+496;JUNEMXCO;Coatepec;"Coatepec Chalco; Coatepeque";Jurisdiccion;Mexico;NES;nes_mexico_coatepec;NEMXCOJU
+497;JUNEMXCT;Cuautla Amilpas;"Cuautla; Coautla; Minas de Guautla; Coyuco";Jurisdiccion;Mexico;NES;nes_mexico_cuautla_amilpas;NEMXCTJU
+498;JUNEMXCV;Cuernavaca;;Jurisdiccion;Mexico;NES;nes_mexico_cuernavaca;NEMXCVJU
+499;JUNEMXCY;Coyoacan;Cuyoacan;Jurisdiccion;Mexico;NES;nes_mexico_coyoacan;NEMXCYJU
+500;JUNEMXEC;Ecatepec;San Cristobal Ecatepec;Jurisdiccion;Mexico;NES;nes_mexico_ecatepec;NEMXECJU
+501;JUNEMXHJ;Huejutla;"Huexutla; Guejutla";Jurisdiccion;Mexico;NES;nes_mexico_huejutla;NEMXHJJU
+502;JUNEMXHU;Huichapan;"Xilotepec; Guichapa; Jilotepec; Xilotepeque; Jilotepeque; Guachiapa; Hueychiapa; Gilotepec y Guichapa; Huichiapa";Jurisdiccion;Mexico;NES;nes_mexico_huichapan;NEMXHUJU
+503;JUNEMXIG;Iguala;"Ihuala; Yguala; Tepecocuilco";Jurisdiccion;Mexico;NES;nes_mexico_iguala;NEMXIGJU
+504;JUNEMXIH;Ixtlahuaca;"Ixtlahuaca y Metepec; Ixtlahuac; Istlehusicar; Istlaguaca y Metepeque";Jurisdiccion;Mexico;NES;nes_mexico_ixtlahuaca;NEMXIHJU
+505;JUNEMXIM;Ixmiquilpan;Esmiquilpa;Jurisdiccion;Mexico;NES;nes_mexico_ixmiquilpan;NEMXIMJU
+506;JUNEMXIT;Ixcateopan;"Escateopan; Escateupan; Iscateupa; Ixcateupa; Iscateupan";Jurisdiccion;Mexico;NES;nes_mexico_ixcateopan;NEMXITJU
+507;JUNEMXLE;Lerma;"Talasco; Lerma y Tarasquillo";Jurisdiccion;Mexico;NES;nes_mexico_lerma;NEMXLEJU
+508;JUNEMXMA;Malinalco;"Tenancingo; Maninalco";Jurisdiccion;Mexico;NES;nes_mexico_malinalco;NEMXMAJU
+509;JUNEMXMC;Metepec;"Metepec y Sicantepec; Metepeque y Sinacantepeque; Metepec y Sanacantepec; Metepec y Zinacantepec";Jurisdiccion;Mexico;NES;nes_mexico_metepec;NEMXMCJU
+510;JUNEMXMI;Misquiaguala;"Mizquiahuala; Mixquiahuala";Jurisdiccion;Mexico;NES;nes_mexico_misquiaguala;NEMXMIJU
+511;JUNEMXMT;Metztitlan;"Meztitlan; Metztitlan de la Sierra; Meztitlan; Meztitlan de la Sierra, Molango y Malila";Jurisdiccion;Mexico;NES;nes_mexico_metztitlan;NEMXMTJU
+512;JUNEMXMX;Mexico;;Jurisdiccion;Mexico;NES;nes_mexico_mexico;NEMXMXJU
+513;JUNEMXMZ;Mexicaltzingo;;Jurisdiccion;Mexico;NES;nes_mexico_mexicaltzingo;NEMXMZJU
+514;JUNEMXOT;Otumba;;Jurisdiccion;Mexico;NES;nes_mexico_otumba;NEMXOTJU
+515;JUNEMXPA;Pachuca;Pachuca y Tesayuca;Jurisdiccion;Mexico;NES;nes_mexico_pachuca;NEMXPAJU
+516;JUNEMXQU;Queretaro;;Jurisdiccion;Mexico;NES;nes_mexico_queretaro;NEMXQUJU
+517;JUNEMXSF;Santa Fe;;Jurisdiccion;Michoacan;NES;nes_michoacan_santa_fe;NEMXSFJU
+518;JUNEMXSO;Sochicoatlan;"Xochicoatlan; Sochiquitlan; Jochiquiatlan; Zochicoatlan";Jurisdiccion;Mexico;NES;nes_mexico_sochicoatlan;NEMXSOJU
+519;JUNEMXTA;Taxco;"Tasco; Taxco e Iguala; Real de minas de Taxco";Jurisdiccion;Mexico;NES;nes_mexico_taxco;NEMXTAJU
+520;JUNEMXTC;Tacuba;Tacuba y Coaytilan;Jurisdiccion;Mexico;NES;nes_mexico_tacuba;NEMXTCJU
+521;JUNEMXTE;Temascaltepec;"Temazcaltepec y Zultepec; Temascaltepeque y Zultepeque; Temascaltepeque y Sultepeque";Jurisdiccion;Mexico;NES;nes_mexico_temascaltepec;NEMXTEJU
+522;JUNEMXTG;Tulancingo;Singulica y Tulancingo;Jurisdiccion;Mexico;NES;nes_mexico_tulancingo;NEMXTGJU
+523;JUNEMXTH;Teotihuacan;San Juan Teotihuacan;Jurisdiccion;Mexico;NES;nes_mexico_teotihuacan;NEMXTHJU
+524;JUNEMXTI;Tixtla;"Tistla; Tixtla y Chilapa";Jurisdiccion;Mexico;NES;nes_mexico_tixtla;NEMXTIJU
+525;JUNEMXTO;Toluca;;Jurisdiccion;Mexico;NES;nes_mexico_toluca;NEMXTOJU
+526;JUNEMXTP;Tetepango;"Tetepango Hueypustla; Tetepango Huipuxtla; Tetepango y Misquiaguala; Tetepango y Mixquiahuala; Tetepango y Mizquiahuala; Tetepango y Atitalaquia; Misquiaguala y Atitalaquia; Tetepango, Misquiaguala y Atitalaquia; Aitalaquia y Mesquiaga";Jurisdiccion;Mexico;NES;nes_mexico_tetepango;NEMXTPJU
+527;JUNEMXTR;Tetela del Rio;"Ajuchitlan; Azuchitlan";Jurisdiccion;Mexico;NES;nes_mexico_tetela_del_rio;NEMXTRJU
+528;JUNEMXTT;Tetela del Volcan;;Jurisdiccion;Mexico;NES;nes_mexico_tetela_del_volcan;NEMXTTJU
+529;JUNEMXTU;Tula;;Jurisdiccion;Mexico;NES;nes_mexico_tula;NEMXTUJU
+530;JUNEMXTV;Tenango del Valle;;Jurisdiccion;Mexico;NES;nes_mexico_tenango_del_valle;NEMXTVJU
+531;JUNEMXTX;Texcoco;"Tescoco; Tescuco; Tezcuco";Jurisdiccion;Mexico;NES;nes_mexico_texcoco;NEMXTXJU
+532;JUNEMXTY;Tlayacapa;Totolapa;Jurisdiccion;Mexico;NES;nes_mexico_tlayacapa;NEMXTYJU
+533;JUNEMXXO;Xochimilco;"Sochimilco; Juquimilco; Xuchimilco";Jurisdiccion;Mexico;NES;nes_mexico_xochimilco;NEMXXOJU
+534;JUNEMXYA;Yahualica;"Yagualica; Yagualica y Sochicoatlan; Yagualica y Zochicoatlan";Jurisdiccion;Mexico;NES;nes_mexico_yahualica;NEMXYAJU
+535;JUNEMXZE;Zempoala;Cempoala;Jurisdiccion;Mexico;NES;nes_mexico_zempoala;NEMXZEJU
+536;JUNEMXZI;Zimapan;"Cimapan; Minas de Zimapan";Jurisdiccion;Mexico;NES;nes_mexico_zimapan;NEMXZIJU
+537;JUNEMXZM;Zumpango;"Xilocingo; Jilocingo";Jurisdiccion;Mexico;NES;nes_mexico_zumpango;NEMXZMJU
+538;JUNEMXZP;Zacualpan;"Zacualpa; Zacualpa e Ixcateopan; Zacualpa y Escateupan";Jurisdiccion;Mexico;NES;nes_mexico_zacualpan;NEMXZPJU
+539;JUNEMXZT;Zacatula;;Jurisdiccion;Mexico;NES;nes_mexico_zacatula;NEMXZTJU
+540;JUNEMXZU;Zultepec;"Sultepec; Sultepeque";Jurisdiccion;Mexico;NES;nes_mexico_zultepec;NEMXZUJU
+541;JUNEOAAN;Antequera;;Jurisdiccion;Oaxaca;NES;nes_oaxaca_antequera;NEOAANJU
+542;JUNEOAAT;Atlatlauca;;Jurisdiccion;Oaxaca;NES;nes_oaxaca_atlatlauca;NEOAATJU
+543;JUNEOACM;Chontales;Chontales y Mixes Altos;Jurisdiccion;Oaxaca;NES;nes_oaxaca_chontales;NEOACMJU
+544;JUNEOACT;Chinantla y Uzila;"Chinantla y Ucila; Chinantla, Ucila, Cosamaloapa y Guaspatepeque";Jurisdiccion;Oaxaca;NES;nes_oaxaca_chinantla_y_uzila;NEOACTJU
+545;JUNEOACV;Cuatro Villas;;Jurisdiccion;Oaxaca;NES;nes_oaxaca_cuatro_villas;NEOACVJU
+546;JUNEOAHL;Huexolotitlan;"Huiso; Huitzo; Huizo; Guaxolotlitlan; Guajolotitlan; Guayolotitlan y Guiso";Jurisdiccion;Oaxaca;NES;nes_oaxaca_huexolotitlan;NEOAHLJU
+547;JUNEOAHM;Huatulco y Huamelula;"Huatulco y Huamelula; Guatulco; Puerto de Guatulco";Jurisdiccion;Oaxaca;NES;nes_oaxaca_huatulco_y_huamelula;NEOAHMJU
+548;JUNEOAHP;Huajuapan;"Guaxuapa; Huaxuapa; Huajuapa y Tonala; Huajuapa y Tonala y Minas de Silacayopa";Jurisdiccion;Oaxaca;NES;nes_oaxaca_huajuapan;NEOAHPJU
+549;JUNEOAHT;Huatulco;;Partido;Oaxaca;NES;nes_oaxaca_huatulco;NEOAHTJU
+550;JUNEOAIX;Ixtepeji;"Ixtepexi; Iztepexi";Jurisdiccion;Oaxaca;NES;nes_oaxaca_ixtepeji;NEOAIXJU
+551;JUNEOAJI;Jicayan;"Jamiltepec; Jamiltepeque; Xamiltepeque; Xicayan; Xicayan y Tututepec";Jurisdiccion;Oaxaca;NES;nes_oaxaca_jicayan;NEOAJIJU
+552;JUNEOAJM;Jalapa Del Marques;"Xalapa del Marques; Xalapa del Estado";Jurisdiccion;Oaxaca;NES;nes_oaxaca_jalapa_del_marques;NEOAJMJU
+553;JUNEOAJU;Juxtlahuaca;"Tustlahuaca; Tuxtlahuaca; Justlahuaca; Juxtlahuaca y Hicpaltepeque";Jurisdiccion;Oaxaca;NES;nes_oaxaca_juxtlahuaca;NEOAJUJU
+554;JUNEOAMA;Macuilsuchil;;Jurisdiccion;Oaxaca;NES;nes_oaxaca_macuilsuchil;NEOAMAJU
+555;JUNEOAMI;Miahuatlan;;Jurisdiccion;Oaxaca;NES;nes_oaxaca_miahuatlan;NEOAMIJU
+556;JUNEOANE;Nejapa;;Jurisdiccion;Oaxaca;NES;nes_oaxaca_nejapa;NEOANEJU
+557;JUNEOANO;Nochixtlan;"Nochixtlan y Yanhuitlan; Nochistlan y Peñoles";Jurisdiccion;Oaxaca;NES;nes_oaxaca_nochixtlan;NEOANOJU
+558;JUNEOAPE;Ixcuintepec Peñoles;"Iscuintepec; Ixquintepeque";Jurisdiccion;Oaxaca;NES;nes_oaxaca_ixcuintepec_peñoles;NEOAPEJU
+559;JUNEOATC;Cuicatlan;"Cuicatlan y Papaloticpac; Cuicatlan y Teotitlan; Teotitlan Del Camino; Ciucatlan";Jurisdiccion;Oaxaca;NES;nes_oaxaca_cuicatlan;NEOATCJU
+560;JUNEOATL;Teutila;Teutila y Chinantla;Jurisdiccion;Oaxaca;NES;nes_oaxaca_teutila;NEOATLJU
+561;JUNEOATP;Teposcolula;"Teposcolula y Yanguitlan; Teposcolula y Anguitlan; Teposcolula y Yanhuitlan";Jurisdiccion;Oaxaca;NES;nes_oaxaca_teposcolula;NEOATPJU
+562;JUNEOATT;Tehuantepec;"Tehuantepeque; Teguantepec; Teguantepeque; Tegoantepec";Jurisdiccion;Oaxaca;NES;nes_oaxaca_tehuantepec;NEOATTJU
+563;JUNEOATV;Teotitlan del Valle;"Mitla y Tlacolula; Macuilsuchil";Jurisdiccion;Oaxaca;NES;nes_oaxaca_teotitlan_del_valle;NEOATVJU
+564;JUNEOATZ;Teozacualco;"Teosacualco; Teozacoalco; Teozacoalco y Teococuilco; Teozacoalco y Teocucuilco; Teopozalco, Teoxomulco y Teocuicuilco; Teocuicuilco y Teozacualco";Jurisdiccion;Oaxaca;NES;nes_oaxaca_teozacualco;NEOATZJU
+565;JUNEOAVA;Villa Alta;Villalta;Jurisdiccion;Oaxaca;NES;nes_oaxaca_villa_alta;NEOAVAJU
+566;JUNEOAZI;Zimatlan;"Cimatlan; Zimatlan y Chichicapa; Chichicapa; Santa Catalina de Chichicapa";Jurisdiccion;Oaxaca;NES;nes_oaxaca_zimatlan;NEOAZIJU
+567;JUNEPUAC;Acatlan;"Acatlan y Piaxtla; Acatlan y Piastla";Jurisdiccion;Puebla;NES;nes_puebla_acatlan;NEPUACJU
+568;JUNEPUAH;Ahuatlan;Aguatlan y Teopantlan;Jurisdiccion;Puebla;NES;nes_puebla_ahuatlan;NEPUAHJU
+569;JUNEPUAM;Amozoc;Amozoque;Jurisdiccion;Puebla;NES;nes_puebla_amozoc;NEPUAMJU
+570;JUNEPUAT;Atlixco;"Atlisco; Atrisco; Valle de Atrisco; Villa de Carrion";Jurisdiccion;Puebla;NES;nes_puebla_atlixco;NEPUATJU
+571;JUNEPUCE;Chietla;"Chietlan; Chetla";Jurisdiccion;Puebla;NES;nes_puebla_chietla;NEPUCEJU
+572;JUNEPUCL;Cholula;;Jurisdiccion;Puebla;NES;nes_puebla_cholula;NEPUCLJU
+573;JUNEPUCT;Chiautla;"Chiautla de la Sal; Chiautla de la Sal y Teocalco";Jurisdiccion;Puebla;NES;nes_puebla_chiautla;NEPUCTJU
+574;JUNEPUHH;Huatlatlauca;"Huatlatlauca y Huehuetlan; Guatlatlauca de Puebla; Atlatlauca";Jurisdiccion;Puebla;NES;nes_puebla_huatlatlauca;NEPUHHJU
+575;JUNEPUHN;Huauchinango;Guachinango;Jurisdiccion;Puebla;NES;nes_puebla_huauchinango;NEPUHNJU
+576;JUNEPUHY;Huayacocotla y Chicontepec;Guayacocotla y Chicontepec;Jurisdiccion;Puebla;NES;nes_puebla_huayacocotla_y_chicontepec;NEPUHYJU
+577;JUNEPUHZ;Huejotzingo;"Guejosingo; Huexocingo";Jurisdiccion;Puebla;NES;nes_puebla_huejotzingo;NEPUHZJU
+578;JUNEPUIG;Igualapa;"Ometepeque; Ygualapam";Jurisdiccion;Puebla;NES;nes_puebla_igualapa;NEPUIGJU
+579;JUNEPUIZ;Izucar;Izucar, Aguatlan y Teopantlan;Jurisdiccion;Puebla;NES;nes_puebla_izucar;NEPUIZJU
+580;JUNEPUPU;Puebla;;Jurisdiccion;Puebla;NES;nes_puebla_puebla;NEPUPUJU
+581;JUNEPUSJ;San Juan de Los Llanos;;Jurisdiccion;Puebla;NES;nes_puebla_san_juan_de_los_llanos;NEPUSJJU
+582;JUNEPUTC;Tecali;Santiago Tecali;Jurisdiccion;Puebla;NES;nes_puebla_tecali;NEPUTCJU
+583;JUNEPUTE;Teutlalco;"Teotlalco; Tlaucingo; Minas de Teotlalco; Teotalco";Jurisdiccion;Puebla;NES;nes_puebla_teutlalco;NEPUTEJU
+584;JUNEPUTH;Tehuacan;Tehuacan de las Granadas;Jurisdiccion;Puebla;NES;nes_puebla_tehuacan;NEPUTHJU
+585;JUNEPUTJ;Tetela y Jonotla;"Xonotla y Tetela; Minas de Tetela";Jurisdiccion;Puebla;NES;nes_puebla_tetela_y_jonotla;NEPUTJJU
+586;JUNEPUTL;Tlapa;Tlapan;Jurisdiccion;Puebla;NES;nes_puebla_tlapa;NEPUTLJU
+587;JUNEPUTM;Totomehuacan;;Jurisdiccion;Puebla;NES;nes_puebla_totomehuacan;NEPUTMJU
+588;JUNEPUTO;Tochimilco;"Ocopetlayuca; Cochimilco; Xochimilco; Juchimilco";Jurisdiccion;Puebla;NES;nes_puebla_tochimilco;NEPUTOJU
+589;JUNEPUTP;Tepeaca;Tepeaca y Tecali;Jurisdiccion;Puebla;NES;nes_puebla_tepeaca;NEPUTPJU
+590;JUNEPUTS;Tepexi de la Seda;"Tepeji de la Seda y Guatlatlauca; Zepexi de la Seda; Tepeji de la Seda; Tepeji; Tepexi de la Seda y Atlatlauca; Tepexi de la Seda, Acatlan y Piastla";Jurisdiccion;Puebla;NES;nes_puebla_tepexi_de_la_seda;NEPUTSJU
+591;JUNEPUTZ;Teziutlan;"Teciutlan y Atempa; Teusitlan y Atempa; Tesiutlan";Jurisdiccion;Puebla;NES;nes_puebla_teziutlan;NEPUTZJU
+592;JUNEPUZM;Zacatlan de las Manzanas;;Jurisdiccion;Puebla;NES;nes_puebla_zacatlan_de_las_manzanas;NEPUZMJU
+593;JUNESLCA;Catorze;Real de Catorze;Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_catorze;NESLCAJU
+594;JUNESLCH;Charcas;"Charcas y Sierra de Pinos; Catorze";Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_charcas;NESLCHJU
+595;JUNESLGU;Guadalcazar;"San Pedro Guadalcazar; Real de Guadalcazar; Minas de Guadalcazar";Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_guadalcazar;NESLGUJU
+596;JUNESLPB;Salinas de Peñon Blanco;"Peñol Blanco; Peñon Blanco";Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_salinas_de_peñon_blanco;NESLPBJU
+597;JUNESLRV;Rio Verde;;Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_rio_verde;NESLRVJU
+598;JUNESLSL;San Luis Potosi;San Luis Potosi y Real de Guadalcazar;Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_san_luis_potosi;NESLSLJU
+599;JUNESLSM;Santa Maria del Rio;;Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_santa_maria_del_rio;NESLSMJU
+600;JUNESLVA;Valles;Villa de los Valles;Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_valles;NESLVAJU
+601;JUNESLVE;Venado;"Venado y La Hedionda; Aguas de Venado Hedionda";Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_venado;NESLVEJU
+602;JUNESLVS;Valle de San Francisco;;Jurisdiccion;San Luis Potosi;NES;nes_san_luis_potosi_valle_de_san_francisco;NESLVSJU
+603;JUNETBTB;Tabasco;;Jurisdiccion;Tabasco;NES;nes_tabasco_tabasco;NETBTBJU
+604;JUNETLTL;Tlaxcala;;Jurisdiccion;Puebla;NES;nes_puebla_tlaxcala;NETLTLJU
+605;JUNEVCCO;Cordoba;"Cordoba y Huatusco; Guatusco; Goatuzco, Cordoba y Huatusco y Coscomatepeque";Jurisdiccion;Veracruz;NES;nes_veracruz_cordoba;NEVCCOJU
+606;JUNEVCCS;Cosamaloapan;"Cosamaloapan y Guaspaltepec; Cozamaloapan; Cosamaluapa";Jurisdiccion;Veracruz;NES;nes_veracruz_cosamaloapan;NEVCCSJU
+607;JUNEVCCZ;Acayuca;"Guazacualco;  Coatzacoalcos; Acayucan; Goazacoalco";Jurisdiccion;Veracruz;NES;nes_veracruz_acayuca;NEVCCZJU
+608;JUNEVCJA;Jalacingo;Xalacingo;Jurisdiccion;Veracruz;NES;nes_veracruz_jalacingo;NEVCJAJU
+609;JUNEVCMI;Misantla;Mizantla;Jurisdiccion;Veracruz;NES;nes_veracruz_misantla;NEVCMIJU
+610;JUNEVCOR;Orizaba;Tequila;Jurisdiccion;Veracruz;NES;nes_veracruz_orizaba;NEVCORJU
+611;JUNEVCPN;Panuco;"Panuco y Tampico; Tantoyuca";Jurisdiccion;Veracruz;NES;nes_veracruz_panuco;NEVCPNJU
+612;JUNEVCPP;Papantla;;Jurisdiccion;Veracruz;NES;nes_veracruz_papantla;NEVCPPJU
+613;JUNEVCTC;Tuxtla y Cotaxtla;"Tuxtla-Cotaxtla; Tustla y Cotastla; San Andres Tuxtla";Jurisdiccion;Veracruz;NES;nes_veracruz_tuxtla_y_cotaxtla;NEVCTCJU
+614;JUNEVCVA;La Antigua;"La Antigua; Mizantla; Veracruz Vieja; Veracruz Antigua";Jurisdiccion;Veracruz;NES;nes_veracruz_la_antigua;NEVCVAJU
+615;JUNEVCVE;Nueva Veracruz;;Jurisdiccion;Veracruz;NES;nes_veracruz_nueva_veracruz;NEVCVEJU
+616;JUNEVCXA;Xalapa;"Xalapa de la Feria; Xalapa y Xalacingo";Jurisdiccion;Veracruz;NES;nes_veracruz_xalapa;NEVCXAJU
+617;JUNEYUBA;Beneficios Altos;Tihosuco;Jurisdiccion;Yucatan;NES;nes_yucatan_beneficios_altos;NEYUBAJU
+618;JUNEYUBB;Beneficios Bajos;"Sotuta; Yaxcaba; Beneficios";Jurisdiccion;Yucatan;NES;nes_yucatan_beneficios_bajos;NEYUBBJU
+619;JUNEYUBC;Bacalar;Salamanca y Presidio de Bacalar;Jurisdiccion;Yucatan;NES;nes_yucatan_bacalar;NEYUBCJU
+620;JUNEYUBO;Bolonchencauich;Bolonchen Cawich;Jurisdiccion;Yucatan;NES;nes_yucatan_bolonchencauich;NEYUBOJU
+621;JUNEYUCA;Campeche;;Jurisdiccion;Yucatan;NES;nes_yucatan_campeche;NEYUCAJU
+622;JUNEYULC;La Costa;"Dzidzantun; Costa Alta y Baja; Sisantun";Jurisdiccion;Yucatan;NES;nes_yucatan_la_costa;NEYULCJU
+623;JUNEYULS;La Sierra;"Sierra Alta y Baja; Sierra Alta";Jurisdiccion;Yucatan;NES;nes_yucatan_la_sierra;NEYULSJU
+624;JUNEYUME;Merida;;Jurisdiccion;Yucatan;NES;nes_yucatan_merida;NEYUMEJU
+625;JUNEYURA;Camino Real Alto;"Calkini; Camino Real de Campeche";Jurisdiccion;Yucatan;NES;nes_yucatan_camino_real_alto;NEYURAJU
+626;JUNEYURB;Camino Real Bajo;"Hunucma; Camino Real y Hunucma";Jurisdiccion;Yucatan;NES;nes_yucatan_camino_real_bajo;NEYURBJU
+627;JUNEYUSA;Sahcabchen;;Jurisdiccion;Yucatan;NES;nes_yucatan_sahcabchen;NEYUSAJU
+628;JUNEYUSB;Sierra Baja;;Jurisdiccion;Yucatan;NES;nes_yucatan_sierra_baja;NEYUSBJU
+629;JUNEYUTI;Tizimin;Tizimin y Chancenote;Jurisdiccion;Yucatan;NES;nes_yucatan_tizimin;NEYUTIJU
+630;JUNEYUVA;Valladolid;;Jurisdiccion;Yucatan;NES;nes_yucatan_valladolid;NEYUVAJU
+631;JUNGANAN;Antioquia;;Jurisdiccion;Antioquia;NGR;ngr_antioquia_antioquia;NGANANJU
+632;JUNGANAR;Rionegro;"Santiago de Arma; Rio Negro; Arma y Marinilla";Jurisdiccion;Antioquia;NGR;ngr_antioquia_rionegro;NGANARJU
+633;JUNGANCA;Caceres;;Jurisdiccion;Antioquia;NGR;ngr_antioquia_caceres;NGANCAJU
+634;JUNGANMA;Marinilla;;Jurisdiccion;Antioquia;NGR;ngr_antioquia_marinilla;NGANMAJU
+635;JUNGANME;Medellin;;Jurisdiccion;Antioquia;NGR;ngr_antioquia_medellin;NGANMEJU
+636;JUNGANRE;Remedios;;Jurisdiccion;Antioquia;NGR;ngr_antioquia_remedios;NGANREJU
+637;JUNGANSR;Santa Rosa de los Osos;;Jurisdiccion;Antioquia;NGR;ngr_antioquia_santa_rosa_de_los_osos;NGANSRJU
+638;JUNGANZA;Zaragoza;;Jurisdiccion;Antioquia;NGR;ngr_antioquia_zaragoza;NGANZAJU
+639;JUNGCAAY;Ayapel;;Jurisdiccion;Cartagena;NGR;ngr_cartagena_ayapel;NGCAAYJU
+640;JUNGCACA;Cartagena de Indias;Cartagena de Indias;Partido;Cartagena;NGR;ngr_cartagena_cartagena_de_indias;NGCACAJU
+641;JUNGCAMO;Mompox;Mompos;Jurisdiccion;Cartagena;NGR;ngr_cartagena_mompox;NGCAMOJU
+642;JUNGCASI;Simiti;;Jurisdiccion;Cartagena;NGR;ngr_cartagena_simiti;NGCASIJU
+643;JUNGCATO;Tolu;Villa de Tolu;Jurisdiccion;Cartagena;NGR;ngr_cartagena_tolu;NGCATOJU
+644;JUNGCHCI;Citara;"Zitara; Quibdo";Jurisdiccion;Choco;NGR;ngr_choco_citara;NGCHCIJU
+645;JUNGCHNO;Novita;Noanama;Jurisdiccion;Choco;NGR;ngr_choco_novita;NGCHNOJU
+646;JUNGLLCH;Chire;;Jurisdiccion;Llanos;NGR;ngr_llanos_chire;NGLLCHJU
+647;JUNGLLLL;Los Llanos;;Jurisdiccion;Llanos;NGR;ngr_llanos_los_llanos;NGLLLLJU
+648;JUNGLLME;Medina;;Jurisdiccion;Llanos;NGR;ngr_llanos_medina;NGLLMEJU
+649;JUNGLLPO;Pore;;Jurisdiccion;Llanos;NGR;ngr_llanos_pore;NGLLPOJU
+650;JUNGLLSA;Santiago de las Atalayas;;Jurisdiccion;Llanos;NGR;ngr_llanos_santiago_de_las_atalayas;NGLLSAJU
+651;JUNGLLSJ;San Juan;San Juan de los Llanos;Jurisdiccion;Llanos;NGR;ngr_llanos_san_juan;NGLLSJJU
+652;JUNGLLSM;San Martin;Llanos de San Martin;Jurisdiccion;Llanos;NGR;ngr_llanos_san_martin;NGLLSMJU
+653;JUNGMAHO;Honda;;Jurisdiccion;Mariquita;NGR;ngr_mariquita_honda;NGMAHOJU
+654;JUNGMAIB;Ibague;;Jurisdiccion;Mariquita;NGR;ngr_mariquita_ibague;NGMAIBJU
+655;JUNGMALA;Lajas;"Lajas y Santa Ana; Bocaneme; Minas de Mariquita";Jurisdiccion;Mariquita;NGR;ngr_mariquita_lajas;NGMALAJU
+656;JUNGMALP;La Palma;;Jurisdiccion;Mariquita;NGR;ngr_mariquita_la_palma;NGMALPJU
+657;JUNGMAMA;Mariquita;;Jurisdiccion;Mariquita;NGR;ngr_mariquita_mariquita;NGMAMAJU
+658;JUNGMAPA;Panches;"Panchez; Panches y juzgado de canoas de Honda; Tierra caliente";Jurisdiccion;Mariquita;NGR;ngr_mariquita_panches;NGMAPAJU
+659;JUNGMATO;Tocaima;La Mesa;Jurisdiccion;Mariquita;NGR;ngr_mariquita_tocaima;NGMATOJU
+660;JUNGNEAN;Andaquies;"La Ceja; Misiones del Caquetá y Putumayo; Escolta de Misiones";Jurisdiccion;Neiva;NGR;ngr_neiva_andaquies;NGNEANJU
+661;JUNGNECO;Coyaimas y Natagaima;"Coyaima; Coyaima y Atagaima; Coyaima, Natagaima y Ataco";Jurisdiccion;Neiva;NGR;ngr_neiva_coyaimas_y_natagaima;NGNECOJU
+662;JUNGNELP;La Plata;;Jurisdiccion;Neiva;NGR;ngr_neiva_la_plata;NGNELPJU
+663;JUNGNENE;Neiva;;Jurisdiccion;Neiva;NGR;ngr_neiva_neiva;NGNENEJU
+664;JUNGNEPU;Purificacion;;Jurisdiccion;Neiva;NGR;ngr_neiva_purificacion;NGNEPUJU
+665;JUNGNEPZ;Paez;"Paeces; Guanacas";Jurisdiccion;Neiva;QUI;qui_neiva_paez;NGNEPZJU
+666;JUNGNETI;Timana;;Jurisdiccion;Neiva;NGR;ngr_neiva_timana;NGNETIJU
+667;JUNGPANA;Nata;Nata y Villa de Santos;Jurisdiccion;Panama;NGR;ngr_panama_nata;NGPANAJU
+668;JUNGPAPA;Panama;;Jurisdiccion;Panama;NGR;ngr_panama_panama;NGPAPAJU
+669;JUNGPAPB;Portobelo;Castillo de San Felipe;Jurisdiccion;Panama;NGR;ngr_panama_portobelo;NGPAPBJU
+670;JUNGPOAN;Anserma;;Jurisdiccion;Popayan;NGR;ngr_popayan_anserma;NGPOANJU
+671;JUNGPOCC;Cuatro Ciudades;"Cartago; Tres Ciudades";Jurisdiccion;Popayan;QUI;qui_popayan_cuatro_ciudades;NGPOCCJU
+672;JUNGPOCG;Cartago;;Partido;Popayan;NGR;ngr_popayan_cartago;NGPOCGJU
+673;JUNGPOSU;Vega de Supia;Anserma;Jurisdiccion;Popayan;NGR;ngr_popayan_vega_de_supia;NGPOSUJU
+674;JUNGPOTO;Toro;;Jurisdiccion;Popayan;NGR;ngr_popayan_toro;NGPOTOJU
+675;JUNGPPCU;San Jose de Cucuta;Guasimales;Jurisdiccion;Pamplona;NGR;ngr_pamplona_san_jose_de_cucuta;NGPPCUJU
+676;JUNGPPGI;Giron;San Juan de Giron y provincia del Oro;Provincia;Provincia;NGR;ngr_provincia_giron;NGPPGIJU
+677;JUNGPPPP;Pamplona;;Jurisdiccion;Pamplona;NGR;ngr_pamplona_pamplona;NGPPPPJU
+1391;JUNGPPRC;Rosario de Cucuta;;Jurisdiccion;Pamplona;NGR;ngr_pamplona_rosario_de_cucuta;NGPPRCJU
+678;JUNGPPSE;Servita;;Partido;Pamplona;NGR;ngr_pamplona_servita;NGPPSEJU
+679;JUNGPPZA;Salazar;"Zalazar; Salazar de las Palmas";Jurisdiccion;Pamplona;NGR;ngr_pamplona_salazar;NGPPZAJU
+1397;JUNGSFAG;Altagracia;"Altagracia de Sumapaz; Altagracia de Suma Paz; Altagraica de los Sutagaos; Altagracia de los Utagaos";Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_altagracia;NGSFAGJU
+680;JUNGSFBG;Bogota;Sabana;Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_bogota;NGSFBGJU
+681;JUNGSFBZ;Boza;Boza y Pasca;Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_boza;NGSFBZJU
+682;JUNGSFCA;Caqueza;Ubaque;Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_caqueza;NGSFCAJU
+683;JUNGSFGD;Guaduas;;Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_guaduas;NGSFGDJU
+684;JUNGSFGV;Guatavita;Choconta;Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_guatavita;NGSFGVJU
+685;JUNGSFPA;Pasca;"Fusagazuga; Fusagasuga";Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_pasca;NGSFPAJU
+686;JUNGSFSF;Santa Fe;Santafe de Bogota;Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_santa_fe;NGSFSFJU
+687;JUNGSFUB;Ubate;;Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_ubate;NGSFUBJU
+688;JUNGSFZI;Zipaquira;"Zipaquira y Ubate; Caxica";Jurisdiccion;Santa Fe;NGR;ngr_santa_fe_zipaquira;NGSFZIJU
+689;JUNGSMOC;Ocaña;;Jurisdiccion;Santa Marta;NGR;ngr_santa_marta_ocaña;NGSMOCJU
+690;JUNGSMRH;Riohacha;"Rio de la Hacha; Rio Hacha";Jurisdiccion;Santa Marta;NGR;ngr_santa_marta_riohacha;NGSMRHJU
+691;JUNGSMSM;Santa Marta;;Jurisdiccion;Santa Marta;NGR;ngr_santa_marta_santa_marta;NGSMSMJU
+692;JUNGSMTA;Tamalameque;;Jurisdiccion;Santa Marta;NGR;ngr_santa_marta_tamalameque;NGSMTAJU
+693;JUNGSMTE;Tenerife;;Jurisdiccion;Santa Marta;NGR;ngr_santa_marta_tenerife;NGSMTEJU
+694;JUNGSMVA;Valledupar;Valle de Upar;Jurisdiccion;Santa Marta;NGR;ngr_santa_marta_valledupar;NGSMVAJU
+695;JUNGSOMV;Minas de Velez;Minas de cobre;Jurisdiccion;Socorro;NGR;ngr_socorro_minas_de_velez;NGSOMVJU
+696;JUNGSOSG;San Gil;;Jurisdiccion;Socorro;NGR;ngr_socorro_san_gil;NGSOSGJU
+697;JUNGSOSO;Socorro;;Jurisdiccion;Socorro;NGR;ngr_socorro_socorro;NGSOSOJU
+698;JUNGSOVE;Velez;;Jurisdiccion;Socorro;NGR;ngr_socorro_velez;NGSOVEJU
+699;JUNGTUCH;Chita;;Jurisdiccion;Tunja;NGR;ngr_tunja_chita;NGTUCHJU
+700;JUNGTUCV;Chivata;;Jurisdiccion;Tunja;NGR;ngr_tunja_chivata;NGTUCVJU
+701;JUNGTUDU;Duitama;Mogotes y Sincelejo;Partido;Tunja;NGR;ngr_tunja_duitama;NGTUDUJU
+702;JUNGTUGA;Gameza;;Jurisdiccion;Tunja;NGR;ngr_tunja_gameza;NGTUGAJU
+703;JUNGTULE;Leyva;"Leiva; Villa de Leyva";Jurisdiccion;Tunja;NGR;ngr_tunja_leyva;NGTULEJU
+704;JUNGTUMM;Minas de Muzo;;Jurisdiccion;Tunja;NGR;ngr_tunja_minas_de_muzo;NGTUMMJU
+705;JUNGTUMU;Muzo;Muso;Jurisdiccion;Tunja;NGR;ngr_tunja_muzo;NGTUMUJU
+706;JUNGTUPA;Paypa;Paipa;Jurisdiccion;Tunja;NGR;ngr_tunja_paypa;NGTUPAJU
+707;JUNGTUSA;Sachica;;Jurisdiccion;Tunja;NGR;ngr_tunja_sachica;NGTUSAJU
+708;JUNGTUSF;San Faustino de los Rios;"Chinatos; San Justino";Jurisdiccion;Tunja;NGR;ngr_tunja_san_faustino_de_los_rios;NGTUSFJU
+709;JUNGTUSO;Sogamoso;Sogamoso y Duitama;Jurisdiccion;Tunja;NGR;ngr_tunja_sogamoso;NGTUSOJU
+710;JUNGTUTE;Tensa;"Tenza; Ycabuca; Icabuca; Icabuco";Jurisdiccion;Tunja;NGR;ngr_tunja_tensa;NGTUTEJU
+711;JUNGTUTM;Turmeque;;Jurisdiccion;Tunja;NGR;ngr_tunja_turmeque;NGTUTMJU
+712;JUNGTUTU;Tunja;;Jurisdiccion;Tunja;NGR;ngr_tunja_tunja;NGTUTUJU
+713;JUNGTUVP;Vetas de Pamplona;"Bucaramanga; Minas de Pamplona y Bucaramanga; Betas;";Jurisdiccion;Pamplona;NGR;ngr_pamplona_vetas_de_pamplona;NGTUVPJU
+714;JUNGVEAL;Alange;"Alanje; Al Angel; Alanxe; Alhanxe; Provincia de Chiriqui";Jurisdiccion;Panama;NGR;ngr_panama_alange;NGVEALJU
+1418;JUNGVERE;Pueblo Nuevo;Remedios;Jurisdiccion;Panama;NGR;ngr_panama_pueblo_nuevo;NGVEREJU
+715;JUNGVEVE;Veragua;Veraguas;Jurisdiccion;Panama;NGR;ngr_panama_veragua;NGVEVEJU
+716;JUPEARAC;Arica;San Marcos de Arica;Jurisdiccion;Arequipa;PER;per_arequipa_arica;PEARACJU
+717;JUPEARAR;Arequipa;;Jurisdiccion;Arequipa;PER;per_arequipa_arequipa;PEARARJU
+718;JUPEARCA;Camana;;Jurisdiccion;Arequipa;PER;per_arequipa_camana;PEARCAJU
+719;JUPEARCG;Collaguas;"Cailloma; Cabanaconde";Jurisdiccion;Arequipa;PER;per_arequipa_collaguas;PEARCGJU
+720;JUPEARCS;Condesuyos;;Jurisdiccion;Arequipa;PER;per_arequipa_condesuyos;PEARCSJU
+721;JUPEARMO;Moquegua;"Carumas y Ubinas; Collesuyo";Jurisdiccion;Arequipa;PER;per_arequipa_moquegua;PEARMOJU
+722;JUPEARTA;Tarapaca;;Jurisdiccion;Arequipa;PER;per_arequipa_tarapaca;PEARTAJU
+723;JUPECUAB;Abancay;Anta;Jurisdiccion;Cuzco;PER;per_cuzco_abancay;PECUABJU
+724;JUPECUAY;Aymaraes;;Jurisdiccion;Cuzco;PER;per_cuzco_aymaraes;PECUAYJU
+725;JUPECUCB;Cotabambas;Omasayos;Jurisdiccion;Cuzco;PER;per_cuzco_cotabambas;PECUCBJU
+726;JUPECUCH;Chumbivilcas;Condesuyos de Cuzco;Jurisdiccion;Cuzco;PER;per_cuzco_chumbivilcas;PECUCHJU
+727;JUPECUCL;Calca y Lares;;Jurisdiccion;Cuzco;PER;per_cuzco_calca_y_lares;PECUCLJU
+728;JUPECUCU;Cuzco;;Jurisdiccion;Cuzco;PER;per_cuzco_cuzco;PECUCUJU
+729;JUPECUPA;Chilques y Masques;Paruro;Jurisdiccion;Cuzco;PER;per_cuzco_chilques_y_masques;PECUPAJU
+730;JUPECUPT;Paucartambo;"Los Andes; Andes del Cuzco";Jurisdiccion;Cuzco;PER;per_cuzco_paucartambo;PECUPTJU
+731;JUPECUQU;Quispicanchis;Andahuaylillas;Jurisdiccion;Cuzco;PER;per_cuzco_quispicanchis;PECUQUJU
+732;JUPECUTI;Tinta;Canas y Canchis;Jurisdiccion;Cuzco;PER;per_cuzco_tinta;PECUTIJU
+733;JUPECUUR;Urubamba;;Jurisdiccion;Cuzco;PER;per_cuzco_urubamba;PECUURJU
+734;JUPECUVI;Vilcabamba;;Jurisdiccion;Cuzco;PER;per_cuzco_vilcabamba;PECUVIJU
+735;JUPEHUAH;Andahuaylas;;Jurisdiccion;Huamanga;PER;per_huamanga_andahuaylas;PEHUAHJU
+736;JUPEHUAN;Anco;;Jurisdiccion;Huamanga;PER;per_huamanga_anco;PEHUANJU
+737;JUPEHUCA;Cangallo;"Vilcas Huaman; Vilcashuaman";Jurisdiccion;Huamanga;PER;per_huamanga_cangallo;PEHUCAJU
+738;JUPEHUHT;Huanta;Azangaro;Jurisdiccion;Huamanga;PER;per_huamanga_huanta;PEHUHTJU
+739;JUPEHUHU;Huamanga;;Jurisdiccion;Huamanga;PER;per_huamanga_huamanga;PEHUHUJU
+740;JUPEHULU;Lucanas;Lucanas, Soros y Andamarcas;Jurisdiccion;Huamanga;PER;per_huamanga_lucanas;PEHULUJU
+741;JUPEHUPA;Parinacochas;;Jurisdiccion;Huamanga;PER;per_huamanga_parinacochas;PEHUPAJU
+742;JUPEHVAN;Angaraes;Angaraes y Chocorvos;Jurisdiccion;Huancavelica;PER;per_huancavelica_angaraes;PEHVANJU
+743;JUPEHVCA;Castrovirreina;Castrovirreyna;Jurisdiccion;Huancavelica;PER;per_huancavelica_castrovirreina;PEHVCAJU
+744;JUPEHVHV;Huancavelica;;Jurisdiccion;Huancavelica;PER;per_huancavelica_huancavelica;PEHVHVJU
+745;JUPEHVTA;Tayacaja;;Jurisdiccion;Huancavelica;PER;per_huancavelica_tayacaja;PEHVTAJU
+746;JUPELICA;Cañete;;Jurisdiccion;Lima;PER;per_lima_cañete;PELICAJU
+747;JUPELICH;Chancay;;Jurisdiccion;Lima;PER;per_lima_chancay;PELICHJU
+748;JUPELICL;Cercado de Lima;Arnedo;Jurisdiccion;Lima;PER;per_lima_cercado_de_lima;PELICLJU
+749;JUPELICN;Canta;;Jurisdiccion;Lima;PER;per_lima_canta;PELICNJU
+750;JUPELICO;Callao;;Jurisdiccion;Lima;PER;per_lima_callao;PELICOJU
+751;JUPELIHU;Huarochiri;;Jurisdiccion;Lima;PER;per_lima_huarochiri;PELIHUJU
+752;JUPELIIC;Ica;;Jurisdiccion;Lima;PER;per_lima_ica;PELIICJU
+753;JUPELILI;Lima;;Jurisdiccion;Lima;PER;per_lima_lima;PELILIJU
+754;JUPELISA;Santa;;Jurisdiccion;Lima;PER;per_lima_santa;PELISAJU
+755;JUPELIYA;Yauyos;;Jurisdiccion;Lima;PER;per_lima_yauyos;PELIYAJU
+756;JUPETACA;Cajatambo;;Jurisdiccion;Tarma;PER;per_tarma_cajatambo;PETACAJU
+757;JUPETACO;Conchucos;;Jurisdiccion;Tarma;PER;per_tarma_conchucos;PETACOJU
+758;JUPETAHM;Huamalies;;Jurisdiccion;Tarma;PER;per_tarma_huamalies;PETAHMJU
+759;JUPETAHN;Huanuco;;Jurisdiccion;Tarma;PER;per_tarma_huanuco;PETAHNJU
+760;JUPETAHY;Huaylas;;Jurisdiccion;Tarma;PER;per_tarma_huaylas;PETAHYJU
+761;JUPETAJA;Jauja;Xauxa;Jurisdiccion;Tarma;PER;per_tarma_jauja;PETAJAJU
+762;JUPETAPA;Panatahuas;Conversiones de Huanuco;Jurisdiccion;Tarma;PER;per_tarma_panatahuas;PETAPAJU
+763;JUPETATA;Tarma;Tarma y Chinchaycocha;Jurisdiccion;Tarma;PER;per_tarma_tarma;PETATAJU
+764;JUPETRCA;Cajamarca;;Jurisdiccion;Trujillo;PER;per_trujillo_cajamarca;PETRCAJU
+765;JUPETRCH;Chachapoyas;;Jurisdiccion;Trujillo;PER;per_trujillo_chachapoyas;PETRCHJU
+766;JUPETRHB;Huambos;Chota;Jurisdiccion;Trujillo;PER;per_trujillo_huambos;PETRHBJU
+767;JUPETRHM;Huamachuco;;Jurisdiccion;Trujillo;PER;per_trujillo_huamachuco;PETRHMJU
+768;JUPETRLU;Luya y Chillaos;;Jurisdiccion;Trujillo;PER;per_trujillo_luya_y_chillaos;PETRLUJU
+769;JUPETRPA;Pataz;"Cajamarquilla; Caxamarquilla";Jurisdiccion;Trujillo;PER;per_trujillo_pataz;PETRPAJU
+770;JUPETRPI;Piura;Piura y Paita;Jurisdiccion;Trujillo;PER;per_trujillo_piura;PETRPIJU
+771;JUPETRSA;Saña;Lambayeque;Jurisdiccion;Trujillo;PER;per_trujillo_saña;PETRSAJU
+772;JUPETRTR;Trujillo;;Jurisdiccion;Trujillo;PER;per_trujillo_trujillo;PETRTRJU
+773;JUQUCHCH;Chimbo;Guaranda;Jurisdiccion;Quito;QUI;qui_quito_chimbo;QUCHCHJU
+774;JUQUCUAL;Alausi;;Jurisdiccion;Cuenca;QUI;qui_cuenca_alausi;QUCUALJU
+775;JUQUCUCU;Cuenca;;Jurisdiccion;Cuenca;QUI;qui_cuenca_cuenca;QUCUCUJU
+776;JUQUGQBB;Baba;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_baba;QUGQBBJU
+777;JUQUGQBH;Babahoyo;Ojiba;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_babahoyo;QUGQBHJU
+778;JUQUGQBZ;Balzar;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_balzar;QUGQBZJU
+779;JUQUGQCA;La Canoa;Caraquez;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_la_canoa;QUGQCAJU
+780;JUQUGQDA;Daule;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_daule;QUGQDAJU
+781;JUQUGQGQ;Guayaquil;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_guayaquil;QUGQGQJU
+782;JUQUGQMA;Machala;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_machala;QUGQMAJU
+783;JUQUGQNA;Naranjal;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_naranjal;QUGQNAJU
+784;JUQUGQPA;Palenque;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_palenque;QUGQPAJU
+785;JUQUGQPB;Puebloviejo;Pueblo Viejo;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_puebloviejo;QUGQPBJU
+786;JUQUGQPU;La Puna;"Isla de la Puna; Machala";Jurisdiccion;Guayaquil;QUI;qui_guayaquil_la_puna;QUGQPUJU
+787;JUQUGQPV;Puerto Viejo;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_puerto_viejo;QUGQPVJU
+788;JUQUGQSB;Samborondon;"San Borondon; San Barondon";Jurisdiccion;Guayaquil;QUI;qui_guayaquil_samborondon;QUGQSBJU
+789;JUQUGQSE;Punta de Santa Elena;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_punta_de_santa_elena;QUGQSEJU
+790;JUQUGQYA;Yaguachi;;Jurisdiccion;Guayaquil;QUI;qui_guayaquil_yaguachi;QUGQYAJU
+791;JUQUIBIB;Ibarra;;Jurisdiccion;Quito;QUI;qui_quito_ibarra;QUIBIBJU
+792;JUQULOLO;Loja;;Jurisdiccion;Quito;QUI;qui_quito_loja;QULOLOJU
+793;JUQULOZA;Zaruma;Minas de Zaruma;Jurisdiccion;Quito;QUI;qui_quito_zaruma;QULOZAJU
+794;JUQULTLT;La Tacunga;Latacunga;Jurisdiccion;Quito;QUI;qui_quito_la_tacunga;QULTLTJU
+795;JUQUMCMC;Macas;Sevilla de Oro;Jurisdiccion;Quijos;QUI;qui_quijos_macas;QUMCMCJU
+796;JUQUOTOT;Otavalo;;Jurisdiccion;Quito;QUI;qui_quito_otavalo;QUOTOTJU
+797;JUQUPOAL;Almaguer;;Jurisdiccion;Popayan;QUI;qui_popayan_almaguer;QUPOALJU
+798;JUQUPOBA;Barbacoas;;Jurisdiccion;Popayan;QUI;qui_popayan_barbacoas;QUPOBAJU
+799;JUQUPOBU;Buga;;Jurisdiccion;Popayan;QUI;qui_popayan_buga;QUPOBUJU
+800;JUQUPOCA;Cali;;Jurisdiccion;Popayan;QUI;qui_popayan_cali;QUPOCAJU
+801;JUQUPOCT;Caloto;;Jurisdiccion;Popayan;QUI;qui_popayan_caloto;QUPOCTJU
+802;JUQUPOIS;Iscuande;;Jurisdiccion;Popayan;QUI;qui_popayan_iscuande;QUPOISJU
+803;JUQUPOMI;Micay;;Jurisdiccion;Popayan;QUI;qui_popayan_micay;QUPOMIJU
+804;JUQUPOPA;Pasto;San Juan de Pasto;Jurisdiccion;Popayan;QUI;qui_popayan_pasto;QUPOPAJU
+805;JUQUPOPO;Popayan;;Jurisdiccion;Popayan;QUI;qui_popayan_popayan;QUPOPOJU
+806;JUQUPOPS;Los Pastos;;Jurisdiccion;Popayan;QUI;qui_popayan_los_pastos;QUPOPSJU
+807;JUQUPOPZ;Paez;"Paeces; Guanacas";Jurisdiccion;Popayan;QUI;qui_popayan_paez;QUPOPZJU
+808;JUQUPORA;Raposo;El Raposo;Jurisdiccion;Popayan;QUI;qui_popayan_raposo;QUPORAJU
+810;JUQUPOTU;Tumaco;;Jurisdiccion;Popayan;QUI;qui_popayan_tumaco;QUPOTUJU
+811;JUQUQUQU;Quito;;Jurisdiccion;Quito;QUI;qui_quito_quito;QUQUQUJU
+812;JUQURBAM;Ambato;;Jurisdiccion;Quito;QUI;qui_quito_ambato;QURBAMJU
+813;JUQURBRB;Riobamba;;Jurisdiccion;Quito;QUI;qui_quito_riobamba;QURBRBJU
+814;JURPBABA;Buenos Aires;;Jurisdiccion;Buenos Aires;RPL;rpl_buenos_aires_buenos_aires;RPBABAJU
+815;JURPBACR;Corrientes;;Jurisdiccion;Buenos Aires;RPL;rpl_buenos_aires_corrientes;RPBACRJU
+816;JURPBAER;Entrerrios;;Jurisdiccion;Buenos Aires;RPL;rpl_buenos_aires_entrerrios;RPBAERJU
+817;JURPBASF;Santa Fe;;Jurisdiccion;Buenos Aires;RPL;rpl_buenos_aires_santa_fe;RPBASFJU
+818;JURPBOBO;Banda Oriental;Campaña interior y de frontera;Jurisdiccion;Banda Oriental;RPL;rpl_banda_oriental_banda_oriental;RPBOBOJU
+819;JURPBOIC;Isla Catalina;Isla Catarina;Jurisdiccion;Puerto Rico;RPL;rpl_puerto_rico_isla_catalina;RPBOICJU
+820;JURPBOMV;Montevideo;Uruguay;Jurisdiccion;Banda Oriental;RPL;rpl_banda_oriental_montevideo;RPBOMVJU
+821;JURPCOCO;Cordoba;;Jurisdiccion;Cordoba;RPL;rpl_cordoba_cordoba;RPCOCOJU
+822;JURPCOLR;La Rioja;;Jurisdiccion;Cordoba;RPL;rpl_cordoba_la_rioja;RPCOLRJU
+823;JURPCOME;Mendoza;;Jurisdiccion;Cordoba;RPL;rpl_cordoba_mendoza;RPCOMEJU
+824;JURPCOSJ;San Juan;;Jurisdiccion;Cordoba;RPL;rpl_cordoba_san_juan;RPCOSJJU
+825;JURPCOSL;San Luis;;Jurisdiccion;Cordoba;RPL;rpl_cordoba_san_luis;RPCOSLJU
+826;JURPMAMA;Malvinas;;Jurisdiccion;Buenos Aires;RPL;rpl_buenos_aires_malvinas;RPMAMAJU
+827;JURPMICA;Candelaria;Misiones guaranies;Jurisdiccion;Misiones;RPL;rpl_misiones_candelaria;RPMICAJU
+828;JURPMICO;Concepcion;;Jurisdiccion;Misiones;RPL;rpl_misiones_concepcion;RPMICOJU
+829;JURPMISA;Santiago;;Jurisdiccion;Misiones;RPL;rpl_misiones_santiago;RPMISAJU
+830;JURPMISM;San Miguel;;Jurisdiccion;Misiones;RPL;rpl_misiones_san_miguel;RPMISMJU
+831;JURPMIYA;Yapeyu;;Jurisdiccion;Misiones;RPL;rpl_misiones_yapeyu;RPMIYAJU
+832;JURPPAAS;Asuncion;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_asuncion;RPPAASJU
+833;JURPPACU;Curuguaty;;Partido;Paraguay;RPL;rpl_paraguay_curuguaty;RPPACUJU
+834;JURPPAES;Villarrica;Espiritu Santo;Partido;Paraguay;RPL;rpl_paraguay_villarrica;RPPAESJU
+835;JURPPAYC;Ycuamandiyu;;Partido;Paraguay;RPL;rpl_paraguay_ycuamandiyu;RPPAYCJU
+836;JURPPGPG;Patagones;;Jurisdiccion;Buenos Aires;RPL;rpl_buenos_aires_patagones;RPPGPGJU
+837;JURPSACT;Catamarca;;Jurisdiccion;Salta;RPL;rpl_salta_catamarca;RPSACTJU
+838;JURPSAES;Santiago del Estero;;Jurisdiccion;Salta;RPL;rpl_salta_santiago_del_estero;RPSAESJU
+839;JURPSAJU;Jujuy;;Jurisdiccion;Salta;RPL;rpl_salta_jujuy;RPSAJUJU
+840;JURPSANO;Nueva Oran;;Jurisdiccion;Salta;RPL;rpl_salta_nueva_oran;RPSANOJU
+841;JURPSAPU;La Puna;;Jurisdiccion;Salta;RPL;rpl_salta_la_puna;RPSAPUJU
+842;JURPSASA;Salta;;Jurisdiccion;Salta;RPL;rpl_salta_salta;RPSASAJU
+843;JURPSASM;San Miguel de Tucuman;;Jurisdiccion;Salta;RPL;rpl_salta_san_miguel_de_tucuman;RPSASMJU
+844;JUSDCUBC;Baracoa;;Jurisdiccion;Cuba;SDO;sdo_cuba_baracoa;SDCUBCJU
+845;JUSDCUBY;Bayamo;;Jurisdiccion;Cuba;SDO;sdo_cuba_bayamo;SDCUBYJU
+846;JUSDCUCU;Cuba;Santiago de Cuba;Jurisdiccion;Cuba;SDO;sdo_cuba_cuba;SDCUCUJU
+847;JUSDCUHO;Holguin;;Partido;Cuba;SDO;sdo_cuba_holguin;SDCUHOJU
+848;JUSDCUPP;Puerto Principe;;Jurisdiccion;Cuba;SDO;sdo_cuba_puerto_principe;SDCUPPJU
+849;JUSDCVRE;Remedios;;Partido;La Habana;SDO;sdo_la_habana_remedios;SDCVREJU
+850;JUSDCVSS;Sancti Espiritus;"Sancti Spiritus; Santispiritus; Sanctispiritus";Jurisdiccion;La Habana;SDO;sdo_la_habana_sancti_espiritus;SDCVSSJU
+851;JUSDCVTR;Trinidad;;Jurisdiccion;La Habana;SDO;sdo_la_habana_trinidad;SDCVTRJU
+852;JUSDCVVC;Santa Clara;Villaclara;Jurisdiccion;La Habana;SDO;sdo_la_habana_santa_clara;SDCVVCJU
+853;JUSDFLFE;Florida oriental;"San Agustin; Presidio de San Agustin";Jurisdiccion;Florida;SDO;sdo_florida_florida_oriental;SDFLFEJU
+854;JUSDFLFW;Florida occidental;"Pensacola; Penzacola";Jurisdiccion;Florida;SDO;sdo_florida_florida_occidental;SDFLFWJU
+855;JUSDLHCV;Cuatro Villas;"Cuatro Lugares; Trinidad";Jurisdiccion;La Habana;SDO;sdo_la_habana_cuatro_villas;SDLHCVJU
+856;JUSDLHFI;Filipinas;"Nueva Filipina; Pinar del Rio; Pinal del Rio";Jurisdiccion;Filipinas;SDO;sdo_filipinas_filipinas;SDLHFIJU
+857;JUSDLHFS;San Felipe y Santiago;Bejucal;Jurisdiccion;La Habana;SDO;sdo_la_habana_san_felipe_y_santiago;SDLHFSJU
+858;JUSDLHGU;Guanabacoa;;Jurisdiccion;La Habana;SDO;sdo_la_habana_guanabacoa;SDLHGUJU
+859;JUSDLHJA;Jaruco;;Jurisdiccion;La Habana;SDO;sdo_la_habana_jaruco;SDLHJAJU
+860;JUSDLHLH;La Habana;San Cristobal de la Habana;Jurisdiccion;La Habana;SDO;sdo_la_habana_la_habana;SDLHLHJU
+861;JUSDLHMA;Matanzas;;Jurisdiccion;La Habana;SDO;sdo_la_habana_matanzas;SDLHMAJU
+862;JUSDLHRO;Rosario;Santa Maria del Rosario;Jurisdiccion;La Habana;SDO;sdo_la_habana_rosario;SDLHROJU
+863;JUSDLHSA;San Antonio;"San Antonio Abad; San Antonio de los Baños";Jurisdiccion;La Habana;SDO;sdo_la_habana_san_antonio;SDLHSAJU
+864;JUSDLHSV;Santiago de las Vegas;;Jurisdiccion;La Habana;SDO;sdo_la_habana_santiago_de_las_vegas;SDLHSVJU
+865;JUSDLUIL;Ilinueses;"San Luis; Saint-Louis; Ylinueses; Illinoises; Alta Luisiana; Haute Louisiane";Jurisdiccion;Luisiana;SDO;sdo_luisiana_ilinueses;SDLUILJU
+866;JUSDLUMO;Mobila;;Jurisdiccion;Florida;SDO;sdo_florida_mobila;SDLUMOJU
+867;JUSDLUNO;Baja Luisiana;Nueva Orleans;Jurisdiccion;Luisiana;SDO;sdo_luisiana_baja_luisiana;SDLUNOJU
+868;JUSDLUNT;Natchitoches;Natchitochas;Jurisdiccion;Luisiana;SDO;sdo_luisiana_natchitoches;SDLUNTJU
+869;JUSDLUNZ;Natchez;Natches;Jurisdiccion;Luisiana;SDO;sdo_luisiana_natchez;SDLUNZJU
+15;JUSDPRSG;San German;Villa de San German;Partido;Puerto Rico;SDO;sdo_puerto_rico_san_german;SDPRSGJU
+34;JUSDPRSJ;San Juan;Puerto Rico;Jurisdiccion;Puerto Rico;SDO;sdo_puerto_rico_san_juan;SDPRSJJU
+870;JUSDSDAZ;Azua;;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_azua;SDSDAZJU
+871;JUSDSDBA;Banica;"Guaba; Guava";Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_banica;SDSDBAJU
+872;JUSDSDBY;Bayaguana;;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_bayaguana;SDSDBYJU
+873;JUSDSDCO;Cotui;Cotuy;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_cotui;SDSDCOJU
+874;JUSDSDFN;Frontera del Norte;;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_frontera_del_norte;SDSDFNJU
+875;JUSDSDFS;Frontera Sur;;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_frontera_sur;SDSDFSJU
+876;JUSDSDHG;Higuey;;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_higuey;SDSDHGJU
+877;JUSDSDHI;Hincha;;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_hincha;SDSDHIJU
+878;JUSDSDLM;La Maguana;"San Juan de la Maguana; Valle de San Juan";Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_la_maguana;SDSDLMJU
+879;JUSDSDLV;La Vega;Concepcion de la Vega;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_la_vega;SDSDLVJU
+880;JUSDSDMC;Montecristi;"Monte Cristi; Monte-Cristi; Montechristi";Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_montecristi;SDSDMCJU
+881;JUSDSDMP;Monte Plata;Monte Plata y Boya;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_monte_plata;SDSDMPJU
+882;JUSDSDNE;Neiba;"Neiva; Neyva; Neyba";Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_neiba;SDSDNEJU
+883;JUSDSDPP;Puerto de Plata;Puerto Plata;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_puerto_de_plata;SDSDPPJU
+884;JUSDSDSA;Santiago;Norte;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_santiago;SDSDSAJU
+885;JUSDSDSD;Santo Domingo;;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_santo_domingo;SDSDSDJU
+886;JUSDSDSE;Seibo;Seybo;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_seibo;SDSDSEJU
+887;JUSDSDSR;San Rafael;;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_san_rafael;SDSDSRJU
+888;JUSDSDSS;Samana y Sabana de Mar;Costa;Jurisdiccion;Santo Domingo;SDO;sdo_santo_domingo_samana_y_sabana_de_mar;SDSDSSJU
+889;JUVECAAR;Araure;;Jurisdiccion;Caracas;VEN;ven_caracas_araure;VECAARJU
+890;JUVECABA;Barquisimeto;;Jurisdiccion;Caracas;VEN;ven_caracas_barquisimeto;VECABAJU
+891;JUVECACA;Caracas;;Jurisdiccion;Caracas;VEN;ven_caracas_caracas;VECACAJU
+892;JUVECACB;Calabozo;;Jurisdiccion;Caracas;VEN;ven_caracas_calabozo;VECACBJU
+893;JUVECACC;Cachicamo;San Fernando;Jurisdiccion;Caracas;VEN;ven_caracas_cachicamo;VECACCJU
+894;JUVECACO;Coro;;Jurisdiccion;Caracas;VEN;ven_caracas_coro;VECACOJU
+895;JUVECACR;Carora;;Jurisdiccion;Caracas;VEN;ven_caracas_carora;VECACRJU
+896;JUVECAGU;Guanare;;Jurisdiccion;Caracas;VEN;ven_caracas_guanare;VECAGUJU
+897;JUVECANI;Nirgua;;Jurisdiccion;Caracas;VEN;ven_caracas_nirgua;VECANIJU
+898;JUVECAOS;Ospino;San Fernando de Ospino;Jurisdiccion;Caracas;VEN;ven_caracas_ospino;VECAOSJU
+899;JUVECAPA;El Pao;;Jurisdiccion;Caracas;VEN;ven_caracas_el_pao;VECAPAJU
+900;JUVECASC;San Carlos;;Jurisdiccion;Caracas;VEN;ven_caracas_san_carlos;VECASCJU
+901;JUVECASF;San Felipe;San Felipe el Fuerte;Jurisdiccion;Caracas;VEN;ven_caracas_san_felipe;VECASFJU
+902;JUVECASJ;San Jaime;;Jurisdiccion;Caracas;VEN;ven_caracas_san_jaime;VECASJJU
+903;JUVECASS;San Sebastian;;Jurisdiccion;Caracas;VEN;ven_caracas_san_sebastian;VECASSJU
+904;JUVECATO;Tocuyo;;Jurisdiccion;Caracas;VEN;ven_caracas_tocuyo;VECATOJU
+905;JUVECATR;Trujillo;;Jurisdiccion;Caracas;VEN;ven_caracas_trujillo;VECATRJU
+906;JUVECAVA;Valencia;;Jurisdiccion;Caracas;VEN;ven_caracas_valencia;VECAVAJU
+907;JUVECAVC;Villa de Cura;"Villacura; San Luis de Cura";Jurisdiccion;Caracas;VEN;ven_caracas_villa_de_cura;VECAVCJU
+908;JUVECUAR;Aragua;Villa de Aragua;Jurisdiccion;Cumana;VEN;ven_cumana_aragua;VECUARJU
+909;JUVECUBA;Barcelona;Nueva Barcelona;Jurisdiccion;Cumana;VEN;ven_cumana_barcelona;VECUBAJU
+910;JUVECUCA;Cariaco;San Felipe de Austria;Jurisdiccion;Cumana;VEN;ven_cumana_cariaco;VECUCAJU
+911;JUVECUCB;Arias;"Cumanacoa; San Baltasar de los Arias";Jurisdiccion;Cumana;VEN;ven_cumana_arias;VECUCBJU
+912;JUVECUCP;Carupano;;Jurisdiccion;Cumana;VEN;ven_cumana_carupano;VECUCPJU
+913;JUVECUCT;Cabrutica;;Jurisdiccion;Cumana;VEN;ven_cumana_cabrutica;VECUCTJU
+914;JUVECUCU;Cumana;;Jurisdiccion;Cumana;VEN;ven_cumana_cumana;VECUCUJU
+915;JUVECUGC;Golfo de Cariaco;Araya;Jurisdiccion;Cumana;VEN;ven_cumana_golfo_de_cariaco;VECUGCJU
+916;JUVECUPA;El Pao;;Jurisdiccion;Cumana;VEN;ven_cumana_el_pao;VECUPAJU
+917;JUVECURC;Rio Caribe;;Jurisdiccion;Cumana;VEN;ven_cumana_rio_caribe;VECURCJU
+918;JUVEGUGU;Guayana;"Angostura; Santo Tomas de la Guayana";Jurisdiccion;Guayana;VEN;ven_guayana_guayana;VEGUGUJU
+919;JUVEGUOR;Alto y Bajo Orinoco;Nuevas fundaciones del alto y bajo Orinoco: Orinoco, Rio Negro y sus anexos;Jurisdiccion;Guayana;VEN;ven_guayana_alto_y_bajo_orinoco;VEGUORJU
+920;JUVEMCBA;Barinas;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_barinas;VEMCBAJU
+921;JUVEMCGI;Gibraltar;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_gibraltar;VEMCGIJU
+922;JUVEMCLG;La Grita;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_la_grita;VEMCLGJU
+923;JUVEMCMC;Maracaibo;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_maracaibo;VEMCMCJU
+924;JUVEMCME;Merida;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_merida;VEMCMEJU
+925;JUVEMCPJ;Perija;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_perija;VEMCPJJU
+926;JUVEMCPZ;Pedraza;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_pedraza;VEMCPZJU
+927;JUVEMCSC;San Cristobal;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_san_cristobal;VEMCSCJU
+928;JUVEMCSF;San Fernando del Apure;;Jurisdiccion;Maracaibo;VEN;ven_maracaibo_san_fernando_del_apure;VEMCSFJU
+929;JUVETRTR;Trinidad;;Jurisdiccion;Cumana;VEN;ven_cumana_trinidad;VETRTRJU
+930;MICCCBBA;Baures;;Misiones;Cochabamba;CHA;cha_cochabamba_baures;CCCBBAMI
+931;MICCCBCG;Chiriguanos;"Rio Grande; Cordillera de los Chiriguanos";Misiones;Cochabamba;CHA;cha_cochabamba_chiriguanos;CCCBCGMI
+932;MICCCBMO;Moxos;;Misiones;Cochabamba;CHA;cha_cochabamba_moxos;CCCBMOMI
+933;MICCCBPA;Pampas;;Misiones;Cochabamba;CHA;cha_cochabamba_pampas;CCCBPAMI
+934;MICCCBRG;Rio Grande;;Misiones;Cochabamba;CHA;cha_cochabamba_rio_grande;CCCBRGMI
+935;MICCCBYU;Yuracarees;;Misiones;Cochabamba;CHA;cha_cochabamba_yuracarees;CCCBYUMI
+936;MIGUGUPE;Peten;;Misiones;Guatemala;GUA;gua_guatemala_peten;GUGUPEMI
+937;MINGPOAN;Andaquies;Misiones del Caqueta y Putumayo;Misiones;Popayan;NGR;ngr_popayan_andaquies;NGPOANMI
+1419;MINGPOPU;Putumayo;;Misiones;Popayan;QUI;qui_popayan_putumayo;NGPOPUMI
+938;MIPEOC00;Misiones de Ocopa;;Misiones;Maynas;PER;per_maynas_misiones_de_ocopa;PEOC00MI
+939;MIPEOCVI;Vitoc;"valle de Vitoc; Conversiones de Tarma; Misiones del Cerro de la Sal";Misiones;Tarma;PER;per_tarma_vitoc;PEOCVIMI
+940;MIPETRHY;Conversiones de Hibitos y Cholones;Huaylillas;Misiones;Trujillo;PER;per_trujillo_conversiones_de_hibitos_y_cholones;PETRHYMI
+941;MIQUMABO;Misiones Altas;"Borja; Marañon Alto; Maynas";Misiones;Maynas;QUI;qui_maynas_misiones_altas;QUMABOMI
+942;MIQUMANA;Napo;Bajo Napo;Misiones;Maynas;QUI;qui_maynas_napo;QUMANAMI
+943;MIQUMAOM;Misiones Bajas;"Omaguas; Marañon Bajo";Misiones;Maynas;QUI;qui_maynas_misiones_bajas;QUMAOMMI
+945;MIQUPOPO;Mocoa y Sucumbios;"Misiones de Popayan; Mocoa y Sucumbios; Mocoa, Sucumbios y Cofanes";Misiones;Popayan;QUI;qui_popayan_mocoa_y_sucumbios;QUPOPOMI
+946;MIQUPOSU;Sucumbios;;Misiones;Popayan;QUI;qui_popayan_sucumbios;QUPOSUMI
+947;OBCCCC00;La Plata;Charcas;Obispado;Obispado;CHA;cha_obispado_la_plata;CCCC00OB
+948;OBCCLP00;La Paz;;Obispado;Obispado;CHA;cha_obispado_la_paz;CCLP00OB
+949;OBCCSC00;Santa Cruz de la Sierra;;Obispado;Obispado;CHA;cha_obispado_santa_cruz_de_la_sierra;CCSC00OB
+950;OBCHCO00;Concepcion;La Imperial;Obispado;Concepcion;CHL;chl_concepcion_concepcion;CHCO00OB
+951;OBCHSA00;Santiago de Chile;;Obispado;Santiago;CHL;chl_santiago_santiago_de_chile;CHSA00OB
+956;OBGDDU00;Durango;Guadiana;Obispado;Obispado;NES;nes_obispado_durango;GDDU00OB
+957;OBGDGD00;Guadalajara;;Obispado;Obispado;NES;nes_obispado_guadalajara;GDGD00OB
+959;OBGDMO00;Monterrey;"Nuevo Leon; Linares";Obispado;Obispado;NES;nes_obispado_monterrey;GDMO00OB
+963;OBGDSO00;Sonora;;Obispado;Obispado;GDJ;gdj_obispado_sonora;GDSO00OB
+952;OBGUCH00;Chiapas;;Obispado;Obispado;GUA;gua_obispado_chiapas;GUCH00OB
+953;OBGUCY00;Comayagua;Honduras;Obispado;Obispado;GUA;gua_obispado_comayagua;GUCY00OB
+954;OBGUGU00;Guatemala;;Obispado;Obispado;GUA;gua_obispado_guatemala;GUGU00OB
+955;OBGULE00;Leon;Nicaragua;Obispado;Obispado;GUA;gua_obispado_leon;GULE00OB
+1400;OBGUVP00;Verapaz;Vera Paz;Obispado;Obispado;GUA;gua_obispado_verapaz;GUVP00OB
+958;OBNEMI00;Michoacan;;Obispado;Obispado;NES;nes_obispado_michoacan;NEMI00OB
+960;OBNEMX00;Mexico;;Obispado;Obispado;NES;nes_obispado_mexico;NEMX00OB
+961;OBNEOA00;Oaxaca;;Obispado;Obispado;NES;nes_obispado_oaxaca;NEOA00OB
+962;OBNEPU00;Puebla;Tlaxcala;Obispado;Obispado;NES;nes_obispado_puebla;NEPU00OB
+964;OBNEYU00;Yucatan;Merida;Obispado;Obispado;NES;nes_obispado_yucatan;NEYU00OB
+965;OBNGCA00;Cartagena de Indias;;Obispado;Cartagena;NGR;ngr_cartagena_cartagena_de_indias;NGCA00OB
+966;OBNGPA00;Panama;;Obispado;Obispado;NGR;ngr_obispado_panama;NGPA00OB
+967;OBNGSF00;Santa Fe;;Obispado;Obispado;NGR;ngr_obispado_santa_fe;NGSF00OB
+968;OBNGSM00;Santa Marta;;Obispado;Obispado;NGR;ngr_obispado_santa_marta;NGSM00OB
+969;OBPEAR00;Arequipa;;Obispado;Obispado;PER;per_obispado_arequipa;PEAR00OB
+970;OBPECU00;Cuzco;;Obispado;Obispado;PER;per_obispado_cuzco;PECU00OB
+971;OBPEHU00;Huamanga;;Obispado;Obispado;PER;per_obispado_huamanga;PEHU00OB
+972;OBPELI00;Lima;;Obispado;Obispado;PER;per_obispado_lima;PELI00OB
+973;OBPETR00;Trujillo (Peru);;Obispado;Obispado;PER;per_obispado_trujillo_(peru);PETR00OB
+974;OBQUCU00;Cuenca;;Obispado;Obispado;QUI;qui_obispado_cuenca;QUCU00OB
+975;OBQUMA00;Maynas;;Obispado;Obispado;QUI;qui_obispado_maynas;QUMA00OB
+976;OBQUPO00;Popayan;;Obispado;Obispado;QUI;qui_obispado_popayan;QUPO00OB
+977;OBQUQU00;Quito;;Obispado;Obispado;QUI;qui_obispado_quito;QUQU00OB
+978;OBRPBA00;Buenos Aires;;Obispado;Obispado;RPL;rpl_obispado_buenos_aires;RPBA00OB
+979;OBRPCO00;Tucuman;Cordoba;Obispado;Obispado;RPL;rpl_obispado_tucuman;RPCO00OB
+980;OBRPPA00;Paraguay;;Obispado;Obispado;RPL;rpl_obispado_paraguay;RPPA00OB
+981;OBRPSA00;Salta;;Obispado;Obispado;RPL;rpl_obispado_salta;RPSA00OB
+982;OBSDCU00;Santiago de Cuba;;Obispado;Cuba;SDO;sdo_cuba_santiago_de_cuba;SDCU00OB
+1398;OBSDCV00;Concepcion de la Vega;"Baynoa; Bayuna; Baynua";Obispado;Obispado;SDO;sdo_obispado_concepcion_de_la_vega;SDCV00OB
+983;OBSDLH00;La Habana;;Obispado;La Habana;SDO;sdo_la_habana_la_habana;SDLH00OB
+984;OBSDLU00;Luisiana y las dos Floridas;;Obispado;Obispado;SDO;sdo_obispado_luisiana_y_las_dos_floridas;SDLU00OB
+1399;OBSDMA00;Magua;;Obispado;Obispado;SDO;sdo_obispado_magua;SDMA00OB
+985;OBSDPR00;Puerto Rico;;Obispado;Puerto Rico;SDO;sdo_puerto_rico_puerto_rico;SDPR00OB
+986;OBSDSD00;Santo Domingo;;Obispado;Santo Domingo;SDO;sdo_santo_domingo_santo_domingo;SDSD00OB
+987;OBVECA00;Caracas;;Obispado;Caracas;VEN;ven_caracas_caracas;VECA00OB
+988;OBVEGU00;La Guayana;Santo Tomas de la Guayana;Obispado;Cumana;VEN;ven_cumana_la_guayana;VEGU00OB
+989;OBVEME00;Merida;;Obispado;Maracaibo;VEN;ven_maracaibo_merida;VEME00OB
+990;PMCHCOAR;Arauco;;Presidio;Concepcion;CHL;chl_concepcion_arauco;CHCOARPM
+991;PMCHCOCC;Colcura;;Presidio;Concepcion;CHL;chl_concepcion_colcura;CHCOCCPM
+992;PMCHCONA;Nacimiento;;Presidio;Concepcion;CHL;chl_concepcion_nacimiento;CHCONAPM
+993;PMCHCOSJ;Santa Juana;;Presidio;Concepcion;CHL;chl_concepcion_santa_juana;CHCOSJPM
+994;PMCHCOSP;San Pedro;;Presidio;Concepcion;CHL;chl_concepcion_san_pedro;CHCOSPPM
+999;PMGDCOCA;Candela;"San Bernardino de la Candela; San Carlos de la Candela";Partido;Coahuila;GDJ;gdj_coahuila_candela;GDCOCAPM
+995;PMGDCOCC;Cuatro Cienegas;Cuatrocienagas;Partido;Coahuila;GDJ;gdj_coahuila_cuatro_cienegas;GDCOCCPM
+996;PMGDCOEN;Encinas;;Partido;Coahuila;GDJ;gdj_coahuila_encinas;GDCOENPM
+997;PMGDCONA;Nava;;Partido;Coahuila;GDJ;gdj_coahuila_nava;GDCONAPM
+998;PMGDCOSB;Valle de San Buenaventura;"San Antonio de Bucareli; Nadadores";Partido;Coahuila;GDJ;gdj_coahuila_valle_de_san_buenaventura;GDCOSBPM
+1000;PMGDCOSF;San Fernando de Austria;Aguaverde;Partido;Coahuila;GDJ;gdj_coahuila_san_fernando_de_austria;GDCOSFPM
+1001;PMGDCOSP;San Pedro de Gigedo;;Partido;Coahuila;GDJ;gdj_coahuila_san_pedro_de_gigedo;GDCOSPPM
+1002;PMGDCOSR;Santa Rosa;Valle de Santa Rosa;Partido;Coahuila;GDJ;gdj_coahuila_santa_rosa;GDCOSRPM
+1003;PMGDCOSV;San Vicente;San Vicente de Arriba y Abajo;Partido;Coahuila;GDJ;gdj_coahuila_san_vicente;GDCOSVPM
+1004;PMGDDUBO;Borja y Cuevas;;Partido;Durango;GDJ;gdj_durango_borja_y_cuevas;GDDUBOPM
+1005;PMGDSSAL;Altar;;Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_altar;GDSSALPM
+1006;PMGDSSBA;Bacoachi;;Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_bacoachi;GDSSBAPM
+1007;PMGDSSBP;Bavispe;;Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_bavispe;GDSSBPPM
+1008;PMGDSSBT;Batuco;"Batuc; Tepache";Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_batuco;GDSSBTPM
+1009;PMGDSSBV;Buena Vista;Buenavista;Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_buena_vista;GDSSBVPM
+1010;PMGDSSCU;Cucurpe;;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_cucurpe;GDSSCUPM
+1011;PMGDSSFR;Fronteras;Corodeguachi;Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_fronteras;GDSSFRPM
+1012;PMGDSSHO;Horcasitas;"Pitic; San Miguel de Horcasitas";Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_horcasitas;GDSSHOPM
+1013;PMGDSSHU;San Antonio de la Huerta;San Antonio de las Huertas;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_san_antonio_de_la_huerta;GDSSHUPM
+1014;PMGDSSMA;Matape;;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_matape;GDSSMAPM
+1015;PMGDSSNA;Nacameri;Opodepe;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_nacameri;GDSSNAPM
+1016;PMGDSSOP;Oposura;;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_oposura;GDSSOPPM
+1017;PMGDSSSA;Santa Ana;"San Ignacio; Imuris; Ymuris";Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_santa_ana;GDSSSAPM
+1018;PMGDSSSC;Santa Cruz;"Suanca; Terrenate";Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_santa_cruz;GDSSSCPM
+1019;PMGDSSTB;Tubac;;Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_tubac;GDSSTBPM
+1020;PMGDSSTC;Tucson;;Presidio;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_tucson;GDSSTCPM
+1021;PMGDSSUR;Ures;San Jose de Gracia;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_ures;GDSSURPM
+1022;PMGDSSVS;Valle de Sonora;"Motepore; Real de San Antonio";Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_valle_de_sonora;GDSSVSPM
+1023;PMGDTXAH;Orcoquizac;"San Agustin de Ahumada; Orcoquiza";Presidio;Texas;GDJ;gdj_texas_orcoquizac;GDTXAHPM
+1024;PMGDTXFJ;San Francisco Xavier;Gigedo;Presidio;Texas;GDJ;gdj_texas_san_francisco_xavier;GDTXFJPM
+1025;PMGDTXLB;La Bahia;Espiritu Santo;Presidio;Texas;GDJ;gdj_texas_la_bahia;GDTXLBPM
+1026;PMGDTXNA;Nacogdoches;"Adaes; Pilar; Texas";Presidio;Texas;GDJ;gdj_texas_nacogdoches;GDTXNAPM
+1027;PMGDTXSA;Bexar;San Antonio;Presidio;Texas;GDJ;gdj_texas_bexar;GDTXSAPM
+1028;PMGUCYRO;Roatan;;Partido;Comayagua;GUA;gua_comayagua_roatan;GUCYROPM
+1029;PMGUGUIS;isla de San Andres;;Partido;Guatemala;GUA;gua_guatemala_isla_de_san_andres;GUGUISPM
+1030;PMNEMXAM;Amatepec;;Partido;Mexico;NES;nes_mexico_amatepec;NEMXAMPM
+1031;PMNEMXMO;Motines de Zacatula;;Partido;Mexico;NES;nes_mexico_motines_de_zacatula;NEMXMOPM
+1032;PMNEMXOC;Ocuituco;;Partido;Mexico;NES;nes_mexico_ocuituco;NEMXOCPM
+1033;PMNEOACC;Cuicatlan;Cuicatlan y Tecomavaca;Partido;Oaxaca;NES;nes_oaxaca_cuicatlan;NEOACCPM
+1034;PMNEOAPP;Papaloticpac;Papaloticpac y Tepeuzila;Partido;Oaxaca;NES;nes_oaxaca_papaloticpac;NEOAPPPM
+1035;PMNEOATO;Teococuilco;Teocuicuilco y Teozacualco;Partido;Oaxaca;NES;nes_oaxaca_teococuilco;NEOATOPM
+1036;PMNEPUJO;Jonotla;Xonotla;Partido;Puebla;NES;nes_puebla_jonotla;NEPUJOPM
+1037;PMNGCABQ;Barranquilla;;Jurisdiccion;Cartagena;NGR;ngr_cartagena_barranquilla;NGCABQPM
+1038;PMNGCALC;La Cruz;Real de la Cruz;Partido;Cartagena;NGR;ngr_cartagena_la_cruz;NGCALCPM
+1039;PMNGCAST;Santo Tomas;Villanueva;Partido;Cartagena;NGR;ngr_cartagena_santo_tomas;NGCASTPM
+1040;PMNGSMBA;Banco;El Banco;Partido;Santa Marta;NGR;ngr_santa_marta_banco;NGSMBAPM
+1041;PMNGSMCH;Chiriguana;;Partido;Santa Marta;NGR;ngr_santa_marta_chiriguana;NGSMCHPM
+1042;PMNGSMCI;Cienaga;Cienagas;Partido;Santa Marta;NGR;ngr_santa_marta_cienaga;NGSMCIPM
+1424;PMNGSMFO;Fonseca;;Partido;Santa Marta;NGR;ngr_santa_marta_fonseca;NGSMFOPM
+1043;PMNGSMGU;Guaimaro;Guaymaro;Partido;Santa Marta;NGR;ngr_santa_marta_guaimaro;NGSMGUPM
+1044;PMNGSMPI;Piñon;"Peñon; San Pedro Martir de Piñon";Partido;Cartagena;NGR;ngr_cartagena_piñon;NGSMPIPM
+1045;PMNGSMRE;Remolino;;Partido;Santa Marta;NGR;ngr_santa_marta_remolino;NGSMREPM
+1046;PMNGSMZT;Zambrano y Teton;;Partido;Santa Marta;NGR;ngr_santa_marta_zambrano_y_teton;NGSMZTPM
+1047;PMRPBACP;Curupayty y Lomas de Pedro Gonzalez;;Partido;Buenos Aires;RPL;rpl_buenos_aires_curupayty_y_lomas_de_pedro_gonzalez;RPBACPPM
+1048;PMRPBOCO;Colla;;Partido;Banda Oriental;RPL;rpl_banda_oriental_colla;RPBOCOPM
+1049;PMRPBODO;Dolores;Espinillo;Partido;Banda Oriental;RPL;rpl_banda_oriental_dolores;RPBODOPM
+1050;PMRPBOLV;Las Viboras;;Partido;Banda Oriental;RPL;rpl_banda_oriental_las_viboras;RPBOLVPM
+1051;PMRPBOPO;Porongo;Porongos;Partido;Banda Oriental;RPL;rpl_banda_oriental_porongo;RPBOPOPM
+1052;PMRPBOPP;Porongos y Pintado;;Partido;Banda Oriental;RPL;rpl_banda_oriental_porongos_y_pintado;RPBOPPPM
+1053;PMRPBOYN;Rios Yi y Negro;;Partido;Banda Oriental;RPL;rpl_banda_oriental_rios_yi_y_negro;RPBOYNPM
+1054;PMRPERAC;Arroyo de la China;Concepcion;Partido;Banda Oriental;RPL;rpl_banda_oriental_arroyo_de_la_china;RPERACPM
+1055;PMRPERES;Esquina;;Partido;Buenos Aires;RPL;rpl_buenos_aires_esquina;RPERESPM
+1056;PMRPERGU;Gualeguaychu;;Partido;Banda Oriental;RPL;rpl_banda_oriental_gualeguaychu;RPERGUPM
+1057;PMRPERGY;Gualeguay;;Partido;Buenos Aires;RPL;rpl_buenos_aires_gualeguay;RPERGYPM
+1058;PMRPERLB;La Bajada;Parana;Partido;Buenos Aires;RPL;rpl_buenos_aires_la_bajada;RPERLBPM
+1059;PMRPERNO;Nogoya;;Partido;Buenos Aires;RPL;rpl_buenos_aires_nogoya;RPERNOPM
+1060;PMRPPAAT;Atira;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_atira;RPPAATPM
+1061;PMRPPABE;Belen;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_belen;RPPABEPM
+1062;PMRPPACA;Caazapa;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_caazapa;RPPACAPM
+1063;PMRPPAEM;Emboscada;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_emboscada;RPPAEMPM
+1064;PMRPPAGU;Guarambare;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_guarambare;RPPAGUPM
+1065;PMRPPAIA;Ita;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_ita;RPPAIAPM
+1066;PMRPPAIE;Itape;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_itape;RPPAIEPM
+1067;PMRPPAIP;Ipane;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_ipane;RPPAIPPM
+1068;PMRPPALA;Los Altos;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_los_altos;RPPALAPM
+1069;PMRPPANE;San Juan Nepomuceno;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_san_juan_nepomuceno;RPPANEPM
+1070;PMRPPASE;San Estanislao;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_san_estanislao;RPPASEPM
+1071;PMRPPASJ;San Joaquin;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_san_joaquin;RPPASJPM
+1072;PMRPPATO;Tobati;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_tobati;RPPATOPM
+1073;PMRPPAYU;Yuti;;Jurisdiccion;Paraguay;RPL;rpl_paraguay_yuti;RPPAYUPM
+1074;PRCCCB00;Cochabamba;;Provincia;Provincia;CHA;cha_provincia_cochabamba;CCCB00PR
+1075;PRCCCBSC;Santa Cruz de la Sierra;;Provincia;Provincia;CHA;cha_provincia_santa_cruz_de_la_sierra;CCCBSCPR
+1076;PRCCCC00;Charcas;Chuquisaca;Provincia;Provincia;CHA;cha_provincia_charcas;CCCC00PR
+1077;PRCCLP00;La Paz;;Provincia;Provincia;CHA;cha_provincia_la_paz;CCLP00PR
+1078;PRCCPO00;Potosi;La Plata y Villa imperial;Provincia;Provincia;CHA;cha_provincia_potosi;CCPO00PR
+1079;PRCCPU00;Puno;;Provincia;Provincia;CHA;cha_provincia_puno;CCPU00PR
+1080;PRCHCH00;Chiloe;;Provincia;Provincia;CHL;chl_provincia_chiloe;CHCH00PR
+1081;PRCHCO00;Concepcion;;Provincia;Provincia;CHL;chl_provincia_concepcion;CHCO00PR
+1082;PRCHSA00;Santiago;;Provincia;Provincia;CHL;chl_provincia_santiago;CHSA00PR
+1083;PRGDCO00;Coahuila;Nueva Extremadura;Provincia;Provincia;GDJ;gdj_provincia_coahuila;GDCO00PR
+1084;PRGDDU00;Nueva Vizcaya;"Durango; Parral";Provincia;Provincia;GDJ;gdj_provincia_nueva_vizcaya;GDDU00PR
+1085;PRGDGD00;Nueva Galicia;Guadalajara;Provincia;Reino;GDJ;gdj_reino_nueva_galicia;GDGD00PR
+1086;PRGDNA00;Nayarit;Nuevo Toledo;Provincia;Reino;GDJ;gdj_reino_nayarit;GDNA00PR
+1087;PRGDNL00;Nuevo Leon;;Provincia;Provincia;GDJ;gdj_provincia_nuevo_leon;GDNL00PR
+1088;PRGDNM00;Nuevo Mexico;;Provincia;Provincia;GDJ;gdj_provincia_nuevo_mexico;GDNM00PR
+1089;PRGDNS00;Nuevo Santander;Colonia de Nuevo Santander;Provincia;Provincia;GDJ;gdj_provincia_nuevo_santander;GDNS00PR
+1090;PRGDSS00;Sinaloa y Sonora;Arizpe;Provincia;Provincia;GDJ;gdj_provincia_sinaloa_y_sonora;GDSS00PR
+1091;PRGDTX00;Texas;"Nueva Filipina; La Carolina";Provincia;Provincia;GDJ;gdj_provincia_texas;GDTX00PR
+1092;PRGDZA00;Zacatecas;;Provincia;Provincia;GDJ;gdj_provincia_zacatecas;GDZA00PR
+1093;PRGUCH00;Chiapas;Ciudad Real;Provincia;Provincia;GUA;gua_provincia_chiapas;GUCH00PR
+1094;PRGUCR00;Costa Rica;"Nueva Cartago y Costa Rica; Veragua Real";Provincia;Provincia;GUA;gua_provincia_costa_rica;GUCR00PR
+1095;PRGUCY00;Comayagua;"Honduras; Comayagua y provincia de Honduras";Provincia;Provincia;GUA;gua_provincia_comayagua;GUCY00PR
+1096;PRGUGU00;Guatemala;;Provincia;Provincia;GUA;gua_provincia_guatemala;GUGU00PR
+1097;PRGUNI00;Leon;Nicaragua;Provincia;Provincia;GUA;gua_provincia_leon;GUNI00PR
+1098;PRGUSS00;San Salvador;San Salvador y sus agregados de San Miguel y San Vicente;Provincia;Provincia;GUA;gua_provincia_san_salvador;GUSS00PR
+1099;PRNECL00;California;"Las Californias; Antigua California; Baja California";Provincia;Provincia;GDJ;gdj_provincia_california;NECL00PR
+1100;PRNECT00;Colotlan;"Colotlan y Nayarit; Fronteras de San Luis de Colotlan; Fronteras de San Luis Obispo";Provincia;Provincia;GDJ;gdj_provincia_colotlan;NECT00PR
+1101;PRNEGJ00;Guanajuato;;Provincia;Provincia;NES;nes_provincia_guanajuato;NEGJ00PR
+1102;PRNEMI00;Michoacan;Valladolid;Provincia;Provincia;NES;nes_provincia_michoacan;NEMI00PR
+1103;PRNEMX00;Nueva España;Mexico;Provincia;Provincia;NES;nes_provincia_nueva_españa;NEMX00PR
+1104;PRNEOA00;Oaxaca;Antequera;Provincia;Provincia;NES;nes_provincia_oaxaca;NEOA00PR
+1105;PRNEPU00;Puebla;;Provincia;Provincia;NES;nes_provincia_puebla;NEPU00PR
+1106;PRNESL00;San Luis Potosi;;Provincia;Provincia;NES;nes_provincia_san_luis_potosi;NESL00PR
+1107;PRNEVC00;Veracruz;;Provincia;Provincia;NES;nes_provincia_veracruz;NEVC00PR
+1108;PRNEYU00;Yucatan;Merida;Provincia;Provincia;NES;nes_provincia_yucatan;NEYU00PR
+1109;PRNGAN00;Antioquia;;Provincia;Provincia;NGR;ngr_provincia_antioquia;NGAN00PR
+1110;PRNGCA00;Cartagena de Indias;Cartagena de Indias;Provincia;Provincia;NGR;ngr_provincia_cartagena_de_indias;NGCA00PR
+1413;PRNGCG00;Caguan;;Provincia;Provincia;NGR;ngr_provincia_caguan;NGCG00PR
+1111;PRNGCH00;Choco;;Provincia;Provincia;NGR;ngr_provincia_choco;NGCH00PR
+1112;PRNGDA00;Darien;;Provincia;Provincia;NGR;ngr_provincia_darien;NGDA00PR
+1113;PRNGLL00;Los Llanos;"Chire; Casanare; Santiago de las Atalayas";Provincia;Provincia;NGR;ngr_provincia_los_llanos;NGLL00PR
+1114;PRNGMA00;Mariquita;"Tocaima y Bague; Tocaima, Ibague y Mariquita; Tocaima y Mariquita; Tocaima, Bague y ciudad de Mariquita y demas pueblos de tierra caliente";Provincia;Provincia;NGR;ngr_provincia_mariquita;NGMA00PR
+1115;PRNGNE00;Neiva;;Provincia;Provincia;NGR;ngr_provincia_neiva;NGNE00PR
+1116;PRNGPA00;Panama;"Istmo; Tierra Firme; Castilla de Oro";Provincia;Provincia;NGR;ngr_provincia_panama;NGPA00PR
+1117;PRNGPP00;Pamplona;Giron;Provincia;Provincia;NGR;ngr_provincia_pamplona;NGPP00PR
+1118;PRNGSF00;Santa Fe;Santafe de Bogota;Provincia;Provincia;NGR;ngr_provincia_santa_fe;NGSF00PR
+1119;PRNGSM00;Santa Marta;Santa Marta y Rio de la Hacha;Provincia;Provincia;NGR;ngr_provincia_santa_marta;NGSM00PR
+1120;PRNGSO00;Socorro;El Socorro;Provincia;Provincia;NGR;ngr_provincia_socorro;NGSO00PR
+1121;PRNGTU00;Tunja;;Provincia;Provincia;NGR;ngr_provincia_tunja;NGTU00PR
+1122;PRNGVE00;Veragua;Veraguas;Provincia;Provincia;NGR;ngr_provincia_veragua;NGVE00PR
+1123;PRPEAR00;Arequipa;;Provincia;Provincia;PER;per_provincia_arequipa;PEAR00PR
+1124;PRPECU00;Cuzco;;Provincia;Provincia;PER;per_provincia_cuzco;PECU00PR
+1125;PRPEHU00;Huamanga;;Provincia;Provincia;PER;per_provincia_huamanga;PEHU00PR
+1126;PRPEHV00;Huancavelica;;Provincia;Provincia;PER;per_provincia_huancavelica;PEHV00PR
+1127;PRPELI00;Lima;;Provincia;Provincia;PER;per_provincia_lima;PELI00PR
+1395;PRPENT00;Nueva Toledo;;Provincia;Provincia;PER;per_provincia_nueva_toledo;PENT00PR
+1128;PRPETA00;Tarma;;Provincia;Provincia;PER;per_provincia_tarma;PETA00PR
+1129;PRPETR00;Trujillo;;Provincia;Provincia;PER;per_provincia_trujillo;PETR00PR
+1130;PRQUCU00;Cuenca;;Provincia;Provincia;QUI;qui_provincia_cuenca;QUCU00PR
+1131;PRQUES00;Esmeraldas;"Atacames; Santa Rosa; Quillaseca";Provincia;Provincia;QUI;qui_provincia_esmeraldas;QUES00PR
+1132;PRQUGQ00;Guayaquil;;Provincia;Provincia;QUI;qui_provincia_guayaquil;QUGQ00PR
+1133;PRQUJA00;Jaen;;Provincia;Provincia;QUI;qui_provincia_jaen;QUJA00PR
+1134;PRQUMA00;Maynas;"San Francisco Borja; Marañon";Provincia;Provincia;QUI;qui_provincia_maynas;QUMA00PR
+1135;PRQUPO00;Popayan;;Provincia;Provincia;QUI;qui_provincia_popayan;QUPO00PR
+1136;PRQUQJ00;Quijos;Quijos y Macas;Provincia;Provincia;QUI;qui_provincia_quijos;QUQJ00PR
+1137;PRQUQU00;Quito;;Provincia;Provincia;QUI;qui_provincia_quito;QUQU00PR
+1138;PRQUYA00;Yaguarzongo;Zamora;Provincia;Provincia;QUI;qui_provincia_yaguarzongo;QUYA00PR
+1139;PRRPBA00;Buenos Aires;Rio de la Plata;Provincia;Provincia;RPL;rpl_provincia_buenos_aires;RPBA00PR
+1140;PRRPCO00;Cordoba;;Provincia;Provincia;RPL;rpl_provincia_cordoba;RPCO00PR
+1141;PRRPMIMI;Misiones;Treinta Pueblos de las Misiones Guaranies;Provincia;Provincia;RPL;rpl_provincia_misiones;RPMIMIPR
+1142;PRRPMIOR;Misiones Orientales;;Provincia;Provincia;RPL;rpl_provincia_misiones_orientales;RPMIORPR
+1143;PRRPPA00;Paraguay;;Provincia;Provincia;RPL;rpl_provincia_paraguay;RPPA00PR
+1144;PRRPSA00;Salta;;Provincia;Provincia;RPL;rpl_provincia_salta;RPSA00PR
+1145;PRRPTU00;Tucuman;;Provincia;Provincia;RPL;rpl_provincia_tucuman;RPTU00PR
+1146;PRSDCU00;Cuba;Santiago de Cuba;Provincia;Provincia;SDO;sdo_provincia_cuba;SDCU00PR
+1147;PRSDFL00;Florida;"Ambas Floridas y resto de la Luisiana; Las Floridas";Provincia;Provincia;SDO;sdo_provincia_florida;SDFL00PR
+1148;PRSDIC00;Cuba;Isla de Cuba;Provincia;Provincia;SDO;sdo_provincia_cuba;SDIC00PR
+1392;PRSDJA00;Jamaica;Jamayca;Provincia;Provincia;SDO;sdo_provincia_jamaica;SDJA00PR
+1149;PRSDLH00;La Habana;;Provincia;Provincia;SDO;sdo_provincia_la_habana;SDLH00PR
+1150;PRSDLU00;Luisiana;"La Luisiana; Natchez y la Luisiana";Provincia;Provincia;SDO;sdo_provincia_luisiana;SDLU00PR
+99;PRSDPR00;Puerto Rico;;Provincia;Provincia;SDO;sdo_provincia_puerto_rico;SDPR00PR
+100;PRSDSD00;Santo Domingo;;Provincia;Provincia;SDO;sdo_provincia_santo_domingo;SDSD00PR
+1151;PRVEBA00;Barinas;;Provincia;Provincia;VEN;ven_provincia_barinas;VEBA00PR
+1152;PRVECA00;Caracas;Venezuela;Provincia;Provincia;VEN;ven_provincia_caracas;VECA00PR
+1153;PRVECU00;Cumana;Nueva Andalucia;Provincia;Provincia;VEN;ven_provincia_cumana;VECU00PR
+1154;PRVECUNA;Nueva Andalucia;;Provincia;Provincia;VEN;ven_provincia_nueva_andalucia;VECUNAPR
+1155;PRVEGU00;Guayana;;Provincia;Provincia;VEN;ven_provincia_guayana;VEGU00PR
+1156;PRVEIM00;Margarita;;Provincia;Provincia;VEN;ven_provincia_margarita;VEIM00PR
+1157;PRVEMC00;Maracaibo;Merida, La Grita y Maracaibo;Provincia;Provincia;VEN;ven_provincia_maracaibo;VEMC00PR
+1158;PRVETR00;Trinidad;Trinidad y Guayana;Provincia;Provincia;VEN;ven_provincia_trinidad;VETR00PR
+1380;PTCCLPMA;Mapiri;Misiones del Gran Paititi;Partido;La Paz;CHA;cha_la_paz_mapiri;CCLPMAPT
+1159;PTCCPOAA;Atacama alta;;Partido;Potosi;CHA;cha_potosi_atacama_alta;CCPOAAPT
+1160;PTCCPOAB;Atacama baja;;Partido;Potosi;CHA;cha_potosi_atacama_baja;CCPOABPT
+1161;PTCHCHCA;Castro;;Partido;Chiloe;CHL;chl_chiloe_castro;CHCHCAPT
+1162;PTCHCHCB;Calbuco;;Partido;Chiloe;CHL;chl_chiloe_calbuco;CHCHCBPT
+1163;PTCHCHCH;Chacao;;Partido;Chiloe;CHL;chl_chiloe_chacao;CHCHCHPT
+1164;PTCHCHCM;Carelmapu;;Partido;Chiloe;CHL;chl_chiloe_carelmapu;CHCHCMPT
+1165;PTCHCOPE;Perquilauquen;;Partido;Concepcion;CHL;chl_concepcion_perquilauquen;CHCOPEPT
+1166;PTGDCOMO;Monclova;;Partido;Coahuila;GDJ;gdj_coahuila_monclova;GDCOMOPT
+1167;PTGDCORG;Riogrande;Rio Grande;Partido;Coahuila;GDJ;gdj_coahuila_riogrande;GDCORGPT
+44;PTGDCOSS;San Saba;San Luis de las Amarillas;Partido;Coahuila;GDJ;gdj_coahuila_san_saba;GDCOSSPT
+1168;PTGDDUAT;Alta Tarahumara;;Misiones;Durango;GDJ;gdj_durango_alta_tarahumara;GDDUATPT
+1169;PTGDDUCA;San Carlos;Presidio San Carlos;Partido;Durango;GDJ;gdj_durango_san_carlos;GDDUCAPT
+1170;PTGDDUCN;Chinipas y Nabogame;"Nabogame y Baborigame; San Joaquin y San Juan Nepomuceno; Tarahumara de Sinaloa";Partido;Durango;GDJ;gdj_durango_chinipas_y_nabogame;GDDUCNPT
+1171;PTGDDUEL;San Elizario;Presidio San Elizario;Partido;Durango;GDJ;gdj_durango_san_elizario;GDDUELPT
+1172;PTGDDUJA;Janos;;Partido;Durango;GDJ;gdj_durango_janos;GDDUJAPT
+1173;PTGDDUNA;Namiquipa;;Partido;Durango;GDJ;gdj_durango_namiquipa;GDDUNAPT
+1174;PTGDDUPJ;Junta de los Rios;;Partido;Durango;GDJ;gdj_durango_junta_de_los_rios;GDDUPJPT
+1175;PTGDDUPR;Principe;"Presidio Principe; El Principe; Coyame";Partido;Durango;GDJ;gdj_durango_principe;GDDUPRPT
+1176;PTGDDUPS;Parras;;Partido;Durango;GDJ;gdj_durango_parras;GDDUPSPT
+3;PTGDDURF;Rio Florido;;Partido;Durango;GDJ;gdj_durango_rio_florido;GDDURFPT
+1177;PTGDDURN;Rio Nazas;;Partido;Durango;GDJ;gdj_durango_rio_nazas;GDDURNPT
+1178;PTGDDUSE;Santa Eulalia;;Partido;Durango;GDJ;gdj_durango_santa_eulalia;GDDUSEPT
+1179;PTGDDUSM;San Miguel de Bocas;San Miguel de Bocas y Rio Florido;Partido;Durango;GDJ;gdj_durango_san_miguel_de_bocas;GDDUSMPT
+1180;PTGDDUSO;Saltillo;;Partido;Durango;GDJ;gdj_durango_saltillo;GDDUSOPT
+1181;PTGDDUVE;Velarde;Presidio de San Buenaventura;Jurisdiccion;Durango;GDJ;gdj_durango_velarde;GDDUVEPT
+1182;PTGDGDAI;Asientos de Ibarra;;Partido;Guadalajara;GDJ;gdj_guadalajara_asientos_de_ibarra;GDGDAIPT
+1183;PTGDGDJI;Jilotlan;Xilotlan;Partido;Guadalajara;GDJ;gdj_guadalajara_jilotlan;GDGDJIPT
+1415;PTGDGDSR;Santa Rosa de Alburquerque;;Partido;Guadalajara;GDJ;gdj_guadalajara_santa_rosa_de_alburquerque;GDGDSRPT
+1184;PTGDGDTL;Tlajomulco;Tlaxomulco;Partido;Guadalajara;GDJ;gdj_guadalajara_tlajomulco;GDGDTLPT
+52;PTGDNLAG;Agualeguas;Gualeguas;Partido;Nuevo Leon;GDJ;gdj_nuevo_leon_agualeguas;GDNLAGPT
+49;PTGDNLSA;San Antonio de los Llanos;;Partido;Nuevo Leon;GDJ;gdj_nuevo_leon_san_antonio_de_los_llanos;GDNLSAPT
+1185;PTGDNMCA;Carrizal;;Partido;Nuevo Mexico;GDJ;gdj_nuevo_mexico_carrizal;GDNMCAPT
+1186;PTGDSSBA;Badiraguato;Santiago de los Caballeros;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_badiraguato;GDSSBAPT
+1187;PTGDSSCA;Cabazan, Piastla y Guadalupe;;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_cabazan,_piastla_y_guadalupe;GDSSCAPT
+1188;PTGDSSMA;Mazatlan;;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_mazatlan;GDSSMAPT
+1189;PTGDSSPA;Pimeria Alta;Nueva Navarra;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_pimeria_alta;GDSSPAPT
+1190;PTGDSSPB;Pimeria Baja;"Sonora; Nuevo Reino de Andalucia";Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_pimeria_baja;GDSSPBPT
+1191;PTGDSSSB;San Benito;Mocorito;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_san_benito;GDSSSBPT
+1192;PTGDSSSO;Opateria;Sonora;Partido;Sonora-Sinaloa;GDJ;gdj_sonora-sinaloa_opateria;GDSSSOPT
+1193;PTGDZAFR;Fresnillo;;Partido;Zacatecas;GDJ;gdj_zacatecas_fresnillo;GDZAFRPT
+1194;PTGDZATL;Tlaltenango;Taltenango;Partido;Zacatecas;GDJ;gdj_zacatecas_tlaltenango;GDZATLPT
+1195;PTGUCHCH;Chiapa;"Chiapa y Valle de Jiquipilas;";Partido;Chiapas;GUA;gua_chiapas_chiapa;GUCHCHPT
+1196;PTGUCHCR;Ciudad Real;Chiapas;Partido;Chiapas;GUA;gua_chiapas_ciudad_real;GUCHCRPT
+1197;PTGUCHZE;Zendales;"Tzendales; Sendales; Ocozingo; Chontales";Partido;Chiapas;GUA;gua_chiapas_zendales;GUCHZEPT
+1198;PTGUCHZO;Zoques;;Partido;Chiapas;GUA;gua_chiapas_zoques;GUCHZOPT
+1199;PTGUCYCY;Comayagua;;Partido;Comayagua;GUA;gua_comayagua_comayagua;GUCYCYPT
+1200;PTGUGUAT;Atitan;Atitlan;Partido;Guatemala;GUA;gua_guatemala_atitan;GUGUATPT
+1201;PTGUGUCM;Chiquimula;Chichimula;Partido;Guatemala;GUA;gua_guatemala_chiquimula;GUGUCMPT
+1;PTGUGUES;Escuintla;;Partido;Guatemala;GUA;gua_guatemala_escuintla;GUGUESPT
+1202;PTGUGUGZ;Guazacapan;;Partido;Guatemala;GUA;gua_guatemala_guazacapan;GUGUGZPT
+1203;PTGUGUHU;Huehuetenango;Huehuetenango;Partido;Guatemala;GUA;gua_guatemala_huehuetenango;GUGUHUPT
+2;PTGUGUSO;Solola;;Partido;Guatemala;GUA;gua_guatemala_solola;GUGUSOPT
+1204;PTGUGUTO;Totonicapan;;Partido;Guatemala;GUA;gua_guatemala_totonicapan;GUGUTOPT
+1205;PTGUSSAL;San Alejo;;Partido;San Salvador;GUA;gua_san_salvador_san_alejo;GUSSALPT
+1206;PTGUSSCO;Cojutepeque;;Partido;San Salvador;GUA;gua_san_salvador_cojutepeque;GUSSCOPT
+1207;PTGUSSGO;Gotera;;Partido;San Salvador;GUA;gua_san_salvador_gotera;GUSSGOPT
+1208;PTGUSSOL;Olocuilta;;Partido;San Salvador;GUA;gua_san_salvador_olocuilta;GUSSOLPT
+1209;PTGUSSOP;Opico;"Ateos; Quetzaltepeque";Partido;San Salvador;GUA;gua_san_salvador_opico;GUSSOPPT
+1210;PTGUSSSN;Sensuntepeque;Titiguapa;Partido;San Salvador;GUA;gua_san_salvador_sensuntepeque;GUSSSNPT
+1211;PTGUSSTE;Texutla;Tejutla;Partido;Guatemala;GUA;gua_guatemala_texutla;GUSSTEPT
+1212;PTGUSSUS;Usulutan;;Partido;Guatemala;GUA;gua_guatemala_usulutan;GUSSUSPT
+1213;PTGUTGGU;Guascoran;;Partido;Tegucigalpa;GUA;gua_tegucigalpa_guascoran;GUTGGUPT
+1214;PTGUTGOJ;Ojojona;;Partido;Tegucigalpa;GUA;gua_tegucigalpa_ojojona;GUTGOJPT
+1215;PTGUTGOR;Orica;;Partido;Tegucigalpa;GUA;gua_tegucigalpa_orica;GUTGORPT
+1216;PTGUTGSA;San Antonio;;Partido;Tegucigalpa;GUA;gua_tegucigalpa_san_antonio;GUTGSAPT
+1217;PTGUTGTX;Texiguat;;Partido;Tegucigalpa;GUA;gua_tegucigalpa_texiguat;GUTGTXPT
+1218;PTNECLCL;Colotlan;"Fronteras de San Luis de Colotlan; Fronteras de San Luis Obispo";Partido;Nayarit;NES;nes_nayarit_colotlan;NECLCLPT
+1219;PTNECLMO;Monterey;;Partido;California;GDJ;gdj_california_monterey;NECLMOPT
+1220;PTNECLSB;Santa Barbara;;Partido;California;GDJ;gdj_california_santa_barbara;NECLSBPT
+1221;PTNECLSD;San Diego;;Partido;California;GDJ;gdj_california_san_diego;NECLSDPT
+1222;PTNECLSF;San Francisco;;Partido;California;GDJ;gdj_california_san_francisco;NECLSFPT
+1223;PTNEGJAC;Acambaro;;Partido;Guanajuato;NES;nes_guanajuato_acambaro;NEGJACPT
+5;PTNEGJCE;Celaya;;Partido;Guanajuato;NES;nes_guanajuato_celaya;NEGJCEPT
+1224;PTNEGJIR;Irapuato;;Partido;Guanajuato;NES;nes_guanajuato_irapuato;NEGJIRPT
+61;PTNEGJLE;Villa de Leon;;Partido;Guanajuato;NES;nes_guanajuato_villa_de_leon;NEGJLEPT
+1225;PTNEGJSA;Salamanca;;Partido;Guanajuato;NES;nes_guanajuato_salamanca;NEGJSAPT
+60;PTNEGJSM;San Miguel el Grande;;Partido;Guanajuato;NES;nes_guanajuato_san_miguel_el_grande;NEGJSMPT
+1226;PTNEGJST;Salvatierra;;Partido;Guanajuato;NES;nes_guanajuato_salvatierra;NEGJSTPT
+7;PTNEGJYU;Yurirapundaro;;Partido;Guanajuato;NES;nes_guanajuato_yurirapundaro;NEGJYUPT
+65;PTNEMIJI;Jiquipan;;Partido;Michoacan;NES;nes_michoacan_jiquipan;NEMIJIPT
+63;PTNEMIMA;Maravatio;;Partido;Michoacan;NES;nes_michoacan_maravatio;NEMIMAPT
+62;PTNEMITC;Tancitaro;;Partido;Michoacan;NES;nes_michoacan_tancitaro;NEMITCPT
+64;PTNEMITZ;Tlazazalca;;Partido;Michoacan;NES;nes_michoacan_tlazazalca;NEMITZPT
+68;PTNEMXCH;Chalco;;Partido;Mexico;NES;nes_mexico_chalco;NEMXCHPT
+69;PTNEMXCT;Cuautla;;Partido;Mexico;NES;nes_mexico_cuautla;NEMXCTPT
+66;PTNEMXTA;Taxco;Taxco;Partido;Mexico;NES;nes_mexico_taxco;NEMXTAPT
+67;PTNEMXTE;Temascaltepec;;Partido;Mexico;NES;nes_mexico_temascaltepec;NEMXTEPT
+70;PTNEMXTP;Tetepango;;Partido;Mexico;NES;nes_mexico_tetepango;NEMXTPPT
+71;PTNEMXZP;Zacualpan;;Partido;Mexico;NES;nes_mexico_zacualpan;NEMXZPPT
+74;PTNEOAHM;Huamelula;Huamelula;Partido;Oaxaca;NES;nes_oaxaca_huamelula;NEOAHMPT
+1227;PTNEOAMT;Mitla y Tlacolula;;Partido;Oaxaca;NES;nes_oaxaca_mitla_y_tlacolula;NEOAMTPT
+75;PTNEOANO;Nochixtlan;;Partido;Oaxaca;NES;nes_oaxaca_nochixtlan;NEOANOPT
+73;PTNEOATL;Teutila;Teutila;Partido;Oaxaca;NES;nes_oaxaca_teutila;NEOATLPT
+77;PTNEPUPU;Puebla;;Partido;Puebla;NES;nes_puebla_puebla;NEPUPUPT
+76;PTNEPUTS;Tepexi de la Seda;;Partido;Puebla;NES;nes_puebla_tepexi_de_la_seda;NEPUTSPT
+78;PTNESLCH;Charcas;;Partido;San Luis Potosi;NES;nes_san_luis_potosi_charcas;NESLCHPT
+1425;PTNETBCH;Chontalapa;;Partido;Tabasco;NES;nes_tabasco_chontalapa;NETBCHPT
+1427;PTNETBRI;Rios de Usumacinta;;Partido;Tabasco;NES;nes_tabasco_rios_de_usumacinta;NETBRIPT
+1426;PTNETBSI;La Sierra;;Partido;Tabasco;NES;nes_tabasco_la_sierra;NETBSIPT
+72;PTNEVCCS;Cosamaloapan;;Partido;Veracruz;NES;nes_veracruz_cosamaloapan;NEVCCSPT
+1228;PTNEVCGU;Guaspaltepec;Guaspaltepeque;Partido;Veracruz;NES;nes_veracruz_guaspaltepec;NEVCGUPT
+79;PTNEVCXA;Xalapa;;Partido;Veracruz;NES;nes_veracruz_xalapa;NEVCXAPT
+80;PTNEYUCA;Campeche;;Partido;Yucatan;NES;nes_yucatan_campeche;NEYUCAPT
+1229;PTNEYUCC;Chancenote;;Partido;Yucatan;NES;nes_yucatan_chancenote;NEYUCCPT
+1230;PTNGANYO;Yolombo y Cancan;;Partido;Antioquia;NGR;ngr_antioquia_yolombo_y_cancan;NGANYOPT
+1231;PTNGCABA;Baru;"Pasacaballos; Turbana; Bocachica-Baru; El Partido desde Arjona, Turbaco hasta la Bahia";Partido;Cartagena;NGR;ngr_cartagena_baru;NGCABAPT
+1232;PTNGCABR;Barranca del Rey;"Barrancas; Barranca";Partido;Cartagena;NGR;ngr_cartagena_barranca_del_rey;NGCABRPT
+1233;PTNGCACO;Corozal;"Corrozal; La Pileta";Jurisdiccion;Cartagena;NGR;ngr_cartagena_corozal;NGCACOPT
+1234;PTNGCALB;Loba;;Partido;Cartagena;NGR;ngr_cartagena_loba;NGCALBPT
+1235;PTNGCALO;Lorica;Rio Sinu;Partido;Cartagena;NGR;ngr_cartagena_lorica;NGCALOPT
+1236;PTNGCAMA;Montañas Altas;"Montañas de Maria Alta; El partido que va desde Matunilla y Maria y desde Mantuna hasta la jurisdiccion de Tolu";Partido;Cartagena;NGR;ngr_cartagena_montañas_altas;NGCAMAPT
+1237;PTNGCAMB;Montañas Bajas;"Villa de Maria; Montañas de Maria Baja; María vieja";Partido;Cartagena;NGR;ngr_cartagena_montañas_bajas;NGCAMBPT
+1238;PTNGCAMG;Magangue;"El Retiro; El Retiro y Magangue; Rio Cauca; Pantanos";Partido;Cartagena;NGR;ngr_cartagena_magangue;NGCAMGPT
+1239;PTNGCAMH;Mahates;;Partido;Cartagena;NGR;ngr_cartagena_mahates;NGCAMHPT
+1240;PTNGCAMJ;Majagual;"Algarrobo; Rio Cauca segundo";Partido;Cartagena;NGR;ngr_cartagena_majagual;NGCAMJPT
+1241;PTNGCASB;San Benito Abad;San Benito Abad;Partido;Cartagena;NGR;ngr_cartagena_san_benito_abad;NGCASBPT
+1381;PTNGCASJ;Rio San Jorge;;Partido;Cartagena;NGR;ngr_cartagena_rio_san_jorge;NGCASJPT
+1242;PTNGCAST;Tolu y Sabanas;"Tolu y sabanas; Tolu y sus sabanas; La Pileta";Jurisdiccion;Cartagena;NGR;ngr_cartagena_tolu_y_sabanas;NGCASTPT
+1243;PTNGCATA;Tierradentro;"Barranquilla; Tierra Adentro";Partido;Cartagena;NGR;ngr_cartagena_tierradentro;NGCATAPT
+1244;PTNGCHCA;El Cajon;;Partido;Choco;NGR;ngr_choco_el_cajon;NGCHCAPT
+1245;PTNGLLAR;Arauca;Cuiloto;Misiones;Llanos;NGR;ngr_llanos_arauca;NGLLARPT
+1246;PTNGLLCA;Casanare;Casanares;Misiones;Llanos;NGR;ngr_llanos_casanare;NGLLCAPT
+1247;PTNGLLME;Meta;;Misiones;Llanos;NGR;ngr_llanos_meta;NGLLMEPT
+1248;PTNGLLTA;Tamara;;Partido;Llanos;NGR;ngr_llanos_tamara;NGLLTAPT
+1249;PTNGPACH;Chagres;;Partido;Panama;NGR;ngr_panama_chagres;NGPACHPT
+1250;PTNGPANA;Nata;;Partido;Panama;NGR;ngr_panama_nata;NGPANAPT
+1251;PTNGPASA;Santos;Villa de los Santos;Partido;Panama;NGR;ngr_panama_santos;NGPASAPT
+1252;PTNGSMGU;Guamal;;Partido;Santa Marta;NGR;ngr_santa_marta_guamal;NGSMGUPT
+1253;PTNGSMPN;Valencia de Jesus;"Pueblo Nuevo; Pueblonuevo; Nueva Valencia";Jurisdiccion;Santa Marta;NGR;ngr_santa_marta_valencia_de_jesus;NGSMPNPT
+1254;PTNGSMSN;Sitio Nuevo;;Partido;Santa Marta;NGR;ngr_santa_marta_sitio_nuevo;NGSMSNPT
+1255;PTNGTUTU;Tunja;;Partido;Tunja;NGR;ngr_tunja_tunja;NGTUTUPT
+1256;PTPETRLA;Lamas;;Partido;Trujillo;PER;per_trujillo_lamas;PETRLAPT
+1257;PTPETRMO;Moyobamba;;Partido;Trujillo;PER;per_trujillo_moyobamba;PETRMOPT
+1258;PTQUJAJA;Jaen;Jaen de Bracamoros;Partido;Jaen;QUI;qui_jaen_jaen;QUJAJAPT
+1259;PTQUJASA;Santiago de las Montañas;Bracamoros;Partido;Jaen;QUI;qui_jaen_santiago_de_las_montañas;QUJASAPT
+1260;PTQUMCMC;Macas;;Partido;Quijos;QUI;qui_quijos_macas;QUMCMCPT
+944;PTQUPOMO;Mocoa;;Partido;Mocoa;QUI;qui_mocoa_mocoa;QUPOMOPT
+1261;PTQUPOPZ;Paez;"Paeces; Guanacas";Partido;Popayan;QUI;qui_popayan_paez;QUPOPZPT
+1420;PTQUPOSU;Sucumbios;;Partido;Mocoa;QUI;qui_mocoa_sucumbios;QUPOSUPT
+1262;PTQUQJCA;Canelos;Canela;Partido;Quijos;QUI;qui_quijos_canelos;QUQJCAPT
+1263;PTQUQJQJ;Quijos;;Partido;Quijos;QUI;qui_quijos_quijos;QUQJQJPT
+1264;PTQUQUYU;Yumbos;"Cansacoto; Santo Domingo";Partido;Quito;QUI;qui_quito_yumbos;QUQUYUPT
+1265;PTQURBRB;Riobamba;;Partido;Quito;QUI;qui_quito_riobamba;QURBRBPT
+1266;PTQUYAZA;Zamora;;Partido;Quito;QUI;qui_quito_zamora;QUYAZAPT
+1267;PTRPBALU;Lujan;;Jurisdiccion;Buenos Aires;RPL;rpl_buenos_aires_lujan;RPBALUPT
+1268;PTRPBOCL;Cerro Largo;"Cerrolargo; Campaña interior y de frontera";Partido;Banda Oriental;RPL;rpl_banda_oriental_cerro_largo;RPBOCLPT
+1269;PTRPBOCO;Colonia;Colonia del Sacramento;Jurisdiccion;Banda Oriental;RPL;rpl_banda_oriental_colonia;RPBOCOPT
+1270;PTRPBOMA;Maldonado;;Jurisdiccion;Banda Oriental;RPL;rpl_banda_oriental_maldonado;RPBOMAPT
+1271;PTRPBOSO;Soriano;;Jurisdiccion;Banda Oriental;RPL;rpl_banda_oriental_soriano;RPBOSOPT
+1272;PTRPBOST;Santa Tecla;;Partido;Banda Oriental;RPL;rpl_banda_oriental_santa_tecla;RPBOSTPT
+1377;PTRPCOLC;La Carlota;Carlota;Jurisdiccion;Cordoba;RPL;rpl_cordoba_la_carlota;RPCOLCPT
+1378;PTRPCORC;Rio Cuarto;"Riocuarto; Concepcion";Jurisdiccion;Cordoba;RPL;rpl_cordoba_rio_cuarto;RPCORCPT
+1273;PTRPMIEM;Estancias de Misiones;;Partido;Misiones;RPL;rpl_misiones_estancias_de_misiones;RPMIEMPT
+1274;PTRPMIER;Estancias realengas en Misiones;;Partido;Misiones;RPL;rpl_misiones_estancias_realengas_en_misiones;RPMIERPT
+1275;PTRPPACO;Villa Real;Concepcion;Partido;Paraguay;RPL;rpl_paraguay_villa_real;RPPACOPT
+1276;PTRPPACU;Cuarepoti;;Partido;Paraguay;RPL;rpl_paraguay_cuarepoti;RPPACUPT
+1277;PTRPPAFR;Fronteras de Paraguay;;Partido;Paraguay;RPL;rpl_paraguay_fronteras_de_paraguay;RPPAFRPT
+1278;PTRPPAPI;Pilar;;Partido;Paraguay;RPL;rpl_paraguay_pilar;RPPAPIPT
+1279;PTRPPARG;Pueblos de indios;;Partido;Paraguay;RPL;rpl_paraguay_pueblos_de_indios;RPPARGPT
+1280;PTSDFICN;Consolacion del Norte;;Partido;Filipinas;SDO;sdo_filipinas_consolacion_del_norte;SDFICNPT
+1281;PTSDFICS;Consolidacion del Sur;;Partido;Filipinas;SDO;sdo_filipinas_consolidacion_del_sur;SDFICSPT
+1282;PTSDFIFI;Filipinas;"Nueva Filipina; Pinar del Rio; Pinal del Rio";Partido;Filipinas;SDO;sdo_filipinas_filipinas;SDFIFIPT
+1283;PTSDFIGN;Mantua;Guane del Norte;Partido;Filipinas;SDO;sdo_filipinas_mantua;SDFIGNPT
+1284;PTSDFIGS;Guane;Guane del Sur;Partido;Filipinas;SDO;sdo_filipinas_guane;SDFIGSPT
+1285;PTSDFIJM;San Juan y Martinez;;Partido;Filipinas;SDO;sdo_filipinas_san_juan_y_martinez;SDFIJMPT
+1286;PTSDFLAP;San Marcos de Apalache;;Partido;Florida;SDO;sdo_florida_san_marcos_de_apalache;SDFLAPPT
+1287;PTSDFLYA;Yazoo;;Fronteras;Florida;SDO;sdo_florida_yazoo;SDFLYAPT
+1288;PTSDLHAA;Arroyo Arenas;;Partido;La Habana;SDO;sdo_la_habana_arroyo_arenas;SDLHAAPT
+1289;PTSDLHAL;Alvarez;;Partido;La Habana;SDO;sdo_la_habana_alvarez;SDLHALPT
+1290;PTSDLHBA;Bahamas;;Partido;La Habana;SDO;sdo_la_habana_bahamas;SDLHBAPT
+1291;PTSDLHBB;Batabano;;Partido;La Habana;SDO;sdo_la_habana_batabano;SDLHBBPT
+1292;PTSDLHBH;Bahia Honda;"Bahiahonda; Bahia-Honda";Partido;La Habana;SDO;sdo_la_habana_bahia_honda;SDLHBHPT
+1293;PTSDLHBJ;Bajurayabo;Bajurayanabo;Partido;La Habana;SDO;sdo_la_habana_bajurayabo;SDLHBJPT
+1294;PTSDLHBT;Bauta;;Partido;La Habana;SDO;sdo_la_habana_bauta;SDLHBTPT
+1295;PTSDLHBV;Buenaventura;;Partido;La Habana;SDO;sdo_la_habana_buenaventura;SDLHBVPT
+1296;PTSDLHCA;Canoa;;Partido;La Habana;SDO;sdo_la_habana_canoa;SDLHCAPT
+1297;PTSDLHCO;Cano;;Partido;La Habana;SDO;sdo_la_habana_cano;SDLHCOPT
+1298;PTSDLHCV;Calvario;;Partido;La Habana;SDO;sdo_la_habana_calvario;SDLHCVPT
+1299;PTSDLHCY;Cayajabos;;Partido;La Habana;SDO;sdo_la_habana_cayajabos;SDLHCYPT
+1300;PTSDLHGA;Gabriel;;Partido;La Habana;SDO;sdo_la_habana_gabriel;SDLHGAPT
+1301;PTSDLHGD;Guadalupe;La Salud;Partido;La Habana;SDO;sdo_la_habana_guadalupe;SDLHGDPT
+1302;PTSDLHGI;Gibacoa;Jivacoa;Partido;La Habana;SDO;sdo_la_habana_gibacoa;SDLHGIPT
+1303;PTSDLHGJ;Guanajay;;Partido;La Habana;SDO;sdo_la_habana_guanajay;SDLHGJPT
+1304;PTSDLHGN;Guines;;Partido;La Habana;SDO;sdo_la_habana_guines;SDLHGNPT
+1305;PTSDLHGO;Gobea;Govea;Partido;La Habana;SDO;sdo_la_habana_gobea;SDLHGOPT
+1306;PTSDLHGR;Guara;;Partido;La Habana;SDO;sdo_la_habana_guara;SDLHGRPT
+1307;PTSDLHGS;Guasabacoa;"Guazabacoa; Guazavacoa; Guasavacoa; Guasabacoa y Potosi";Partido;La Habana;SDO;sdo_la_habana_guasabacoa;SDLHGSPT
+1308;PTSDLHGT;Guatao;;Partido;La Habana;SDO;sdo_la_habana_guatao;SDLHGTPT
+1309;PTSDLHGY;Guajaybon;Guajaybon, Bune, Copey y Mosquitos;Partido;La Habana;SDO;sdo_la_habana_guajaybon;SDLHGYPT
+1310;PTSDLHHA;Hanabana;Hanavana;Partido;La Habana;SDO;sdo_la_habana_hanabana;SDLHHAPT
+1311;PTSDLHHO;Horcon;;Partido;La Habana;SDO;sdo_la_habana_horcon;SDLHHOPT
+1312;PTSDLHJM;Jesus Maria;;Partido;La Habana;SDO;sdo_la_habana_jesus_maria;SDLHJMPT
+1313;PTSDLHLC;San Luis de la Ceiba;Ceiba de San Luis;Partido;La Habana;SDO;sdo_la_habana_san_luis_de_la_ceiba;SDLHLCPT
+1314;PTSDLHLU;Luyano;;Partido;La Habana;SDO;sdo_la_habana_luyano;SDLHLUPT
+1315;PTSDLHMA;Mariel;Marien;Partido;La Habana;SDO;sdo_la_habana_mariel;SDLHMAPT
+1316;PTSDLHMC;Macuriges;Macurijes;Partido;La Habana;SDO;sdo_la_habana_macuriges;SDLHMCPT
+1317;PTSDLHME;Melena del Sur;;Partido;La Habana;SDO;sdo_la_habana_melena_del_sur;SDLHMEPT
+1318;PTSDLHMN;Managua;Managuana;Partido;La Habana;SDO;sdo_la_habana_managua;SDLHMNPT
+1319;PTSDLHMO;Jesus del Monte;;Partido;La Habana;SDO;sdo_la_habana_jesus_del_monte;SDLHMOPT
+1320;PTSDLHMP;San Miguel;San Miguel de Padron;Partido;La Habana;SDO;sdo_la_habana_san_miguel;SDLHMPPT
+1321;PTSDLHMR;Marianao;"Marianabo; Quemados viejo; Quemados de Marianao; Quemado; El Quemado";Partido;La Habana;SDO;sdo_la_habana_marianao;SDLHMRPT
+1322;PTSDLHPA;Palacios;;Partido;La Habana;SDO;sdo_la_habana_palacios;SDLHPAPT
+1323;PTSDLHPI;Isla de Pinos;;Partido;La Habana;SDO;sdo_la_habana_isla_de_pinos;SDLHPIPT
+1324;PTSDLHPO;Potosi;;Partido;La Habana;SDO;sdo_la_habana_potosi;SDLHPOPT
+1325;PTSDLHPR;Prensa;Cerro;Partido;La Habana;SDO;sdo_la_habana_prensa;SDLHPRPT
+1326;PTSDLHPZ;Pozas;"Posas; Cacarajicara";Partido;La Habana;SDO;sdo_la_habana_pozas;SDLHPZPT
+1327;PTSDLHRE;Regla;;Partido;La Habana;SDO;sdo_la_habana_regla;SDLHREPT
+1328;PTSDLHRI;Rincon;"Rincon de Sibarimar; Sibarimar";Partido;La Habana;SDO;sdo_la_habana_rincon;SDLHRIPT
+1329;PTSDLHSC;Santa Cruz de los Pinos;Pinos;Partido;La Habana;SDO;sdo_la_habana_santa_cruz_de_los_pinos;SDLHSCPT
+1330;PTSDLHSD;San Diego;San Diego de los Baños;Partido;La Habana;SDO;sdo_la_habana_san_diego;SDLHSDPT
+1331;PTSDLHSJ;San Jeronimo;"San Geronimo; Cerro Pelado; San Geronimo de Peñalver";Partido;La Habana;SDO;sdo_la_habana_san_jeronimo;SDLHSJPT
+1332;PTSDLHSL;San Lazaro;;Partido;La Habana;SDO;sdo_la_habana_san_lazaro;SDLHSLPT
+1333;PTSDLHSM;San Marcos;Guanacaje;Partido;La Habana;SDO;sdo_la_habana_san_marcos;SDLHSMPT
+1334;PTSDLHSP;San Pedro;;Partido;La Habana;SDO;sdo_la_habana_san_pedro;SDLHSPPT
+1335;PTSDLHTA;Tapaste;;Partido;La Habana;SDO;sdo_la_habana_tapaste;SDLHTAPT
+1336;PTSDLHWA;Wajay;Jubajay;Partido;La Habana;SDO;sdo_la_habana_wajay;SDLHWAPT
+1337;PTSDLHYA;Yaguaramas;;Partido;La Habana;SDO;sdo_la_habana_yaguaramas;SDLHYAPT
+1338;PTSDMAAG;Aguacate;;Partido;La Habana;SDO;sdo_la_habana_aguacate;SDMAAGPT
+1339;PTSDMACM;Cuabal de Madruga;"Madruga; Cuajal de Madruga";Partido;La Habana;SDO;sdo_la_habana_cuabal_de_madruga;SDMACMPT
+1340;PTSDMAGC;Guamacaro;;Partido;La Habana;SDO;sdo_la_habana_guamacaro;SDMAGCPT
+1341;PTSDMAGM;Guamutas;;Partido;La Habana;SDO;sdo_la_habana_guamutas;SDMAGMPT
+1342;PTSDMALP;Los Palos;"Palos y Bagas; Paz; Nueva Paz";Partido;La Habana;SDO;sdo_la_habana_los_palos;SDMALPPT
+1343;PTSDMANA;Naranjal;"Naranjar; Ceiba Mocha";Partido;La Habana;SDO;sdo_la_habana_naranjal;SDMANAPT
+1344;PTSDMARN;Rioblanco del Norte;Rio Blanco del Norte;Partido;La Habana;SDO;sdo_la_habana_rioblanco_del_norte;SDMARNPT
+1345;PTSDMARS;Rioblanco del Sur;"Rio Blanco del Sur; Rioblanco; Rio Blanco";Partido;La Habana;SDO;sdo_la_habana_rioblanco_del_sur;SDMARSPT
+1346;PTSDMASA;Santa Ana;;Partido;La Habana;SDO;sdo_la_habana_santa_ana;SDMASAPT
+1347;PTSDMAYU;Yumuri;Valle de Yumuri;Partido;La Habana;SDO;sdo_la_habana_yumuri;SDMAYUPT
+9;PTSDPRAA;Aguadilla;;Partido;Puerto Rico;SDO;sdo_puerto_rico_aguadilla;SDPRAAPT
+8;PTSDPRAG;Aguada;;Partido;Puerto Rico;SDO;sdo_puerto_rico_aguada;SDPRAGPT
+12;PTSDPRAN;Añasco;;Partido;Puerto Rico;SDO;sdo_puerto_rico_añasco;SDPRANPT
+55;PTSDPRAR;Arecibo;;Partido;Puerto Rico;SDO;sdo_puerto_rico_arecibo;SDPRARPT
+22;PTSDPRBQ;Barranquitas;;Partido;Puerto Rico;SDO;sdo_puerto_rico_barranquitas;SDPRBQPT
+36;PTSDPRBY;Bayamon;Ribera de Bayamon;Partido;Puerto Rico;SDO;sdo_puerto_rico_bayamon;SDPRBYPT
+29;PTSDPRCG;Caguas;;Partido;Puerto Rico;SDO;sdo_puerto_rico_caguas;SDPRCGPT
+33;PTSDPRCJ;Cangrejos;Ribera de Cangrejos;Partido;Puerto Rico;SDO;sdo_puerto_rico_cangrejos;SDPRCJPT
+43;PTSDPRCM;Camuy;;Partido;Puerto Rico;SDO;sdo_puerto_rico_camuy;SDPRCMPT
+21;PTSDPRCO;Coamo;;Partido;Puerto Rico;SDO;sdo_puerto_rico_coamo;SDPRCOPT
+14;PTSDPRCR;Cabo Rojo;Cabo Roxo;Partido;Puerto Rico;SDO;sdo_puerto_rico_cabo_rojo;SDPRCRPT
+23;PTSDPRCY;Cayey;;Partido;Puerto Rico;SDO;sdo_puerto_rico_cayey;SDPRCYPT
+39;PTSDPRCZ;Corozal;;Partido;Puerto Rico;SDO;sdo_puerto_rico_corozal;SDPRCZPT
+30;PTSDPRFA;Fajardo;Faxardo;Partido;Puerto Rico;SDO;sdo_puerto_rico_fajardo;SDPRFAPT
+24;PTSDPRGM;Guayama;;Partido;Puerto Rico;SDO;sdo_puerto_rico_guayama;SDPRGMPT
+35;PTSDPRGN;Guaynabo;;Partido;Puerto Rico;SDO;sdo_puerto_rico_guaynabo;SDPRGNPT
+27;PTSDPRHU;Humacado;"Humacao; Piedras";Partido;Puerto Rico;SDO;sdo_puerto_rico_humacado;SDPRHUPT
+20;PTSDPRJD;Juana Diaz;;Partido;Puerto Rico;SDO;sdo_puerto_rico_juana_diaz;SDPRJDPT
+58;PTSDPRJU;Juncos;;Partido;Puerto Rico;SDO;sdo_puerto_rico_juncos;SDPRJUPT
+32;PTSDPRLO;Loiza;Ribera de Loiza;Partido;Puerto Rico;SDO;sdo_puerto_rico_loiza;SDPRLOPT
+42;PTSDPRMA;Manati;Ribera de Manati;Partido;Puerto Rico;SDO;sdo_puerto_rico_manati;SDPRMAPT
+25;PTSDPRMB;Maunabo;;Partido;Puerto Rico;SDO;sdo_puerto_rico_maunabo;SDPRMBPT
+10;PTSDPRMO;Moca;;Partido;Puerto Rico;SDO;sdo_puerto_rico_moca;SDPRMOPT
+13;PTSDPRMY;Mayagues;"Mayaguez; Mayagües";Partido;Puerto Rico;SDO;sdo_puerto_rico_mayagues;SDPRMYPT
+17;PTSDPRPE;Peñuela;;Partido;Puerto Rico;SDO;sdo_puerto_rico_peñuela;SDPRPEPT
+28;PTSDPRPI;Piedras;;Partido;Puerto Rico;SDO;sdo_puerto_rico_piedras;SDPRPIPT
+18;PTSDPRPO;Ponce;Ponze;Partido;Puerto Rico;SDO;sdo_puerto_rico_ponce;SDPRPOPT
+11;PTSDPRRI;Rincon;;Partido;Puerto Rico;SDO;sdo_puerto_rico_rincon;SDPRRIPT
+56;PTSDPRRP;Rio Piedras;Ribera de Rio Piedras;Partido;Puerto Rico;SDO;sdo_puerto_rico_rio_piedras;SDPRRPPT
+37;PTSDPRTA;Toa Alta;Ribera de Toa arriba;Partido;Puerto Rico;SDO;sdo_puerto_rico_toa_alta;SDPRTAPT
+38;PTSDPRTB;Toa Baja;Ribera de Toa abajo;Partido;Puerto Rico;SDO;sdo_puerto_rico_toa_baja;SDPRTBPT
+57;PTSDPRTR;Trujillo;;Partido;Puerto Rico;SDO;sdo_puerto_rico_trujillo;SDPRTRPT
+54;PTSDPRTU;Tuna;;Partido;Puerto Rico;SDO;sdo_puerto_rico_tuna;SDPRTUPT
+19;PTSDPRUT;Utuado;;Partido;Puerto Rico;SDO;sdo_puerto_rico_utuado;SDPRUTPT
+41;PTSDPRVA;Vega Alta;;Partido;Puerto Rico;SDO;sdo_puerto_rico_vega_alta;SDPRVAPT
+40;PTSDPRVB;Vega Baja;"Vegas; La Vega; Ribera de La Vega";Partido;Puerto Rico;SDO;sdo_puerto_rico_vega_baja;SDPRVBPT
+59;PTSDPRVP;Vegas y Pepino;;Partido;Puerto Rico;SDO;sdo_puerto_rico_vegas_y_pepino;SDPRVPPT
+26;PTSDPRYB;Yabucoa;;Partido;Puerto Rico;SDO;sdo_puerto_rico_yabucoa;SDPRYBPT
+16;PTSDPRYC;Yauco;;Partido;Puerto Rico;SDO;sdo_puerto_rico_yauco;SDPRYCPT
+1348;PTSDSDDA;Dajabon;;Partido;Santo Domingo;SDO;sdo_santo_domingo_dajabon;SDSDDAPT
+1349;PTSDSDLC;Las Cahobas;Las Caobas;Partido;Santo Domingo;SDO;sdo_santo_domingo_las_cahobas;SDSDLCPT
+1350;PTSDSDSA;Santiago;;Partido;Santo Domingo;SDO;sdo_santo_domingo_santiago;SDSDSAPT
+1351;PTSDSDSB;Sabana de Mar;Sabana de la Mar;Partido;Santo Domingo;SDO;sdo_santo_domingo_sabana_de_mar;SDSDSBPT
+1352;PTSDSDSM;Samana;;Partido;Santo Domingo;SDO;sdo_santo_domingo_samana;SDSDSMPT
+1353;PTSDSLMU;Muskogee;Muscoge;Fronteras;Florida;SDO;sdo_florida_muskogee;SDSLMUPT
+1354;PTVECAAR;Valles de Aragua;Valle de Turmeque;Partido;Caracas;VEN;ven_caracas_valles_de_aragua;VECAARPT
+1355;PTVECAGU;Valles de Caucagua;Valles de Guarenas;Partido;Caracas;VEN;ven_caracas_valles_de_caucagua;VECAGUPT
+1356;PTVECALG;La Guaira;Costa de la mar, La Guaira y Catia;Partido;Caracas;VEN;ven_caracas_la_guaira;VECALGPT
+1357;PTVECATU;Valles de Tuy;Cordillera;Partido;Caracas;VEN;ven_caracas_valles_de_tuy;VECATUPT
+1358;PTVEGUAO;Alto Orinoco;"Alto Orinoco y Rio Negro; Misiones jesuiticas";Partido;Guayana;VEN;ven_guayana_alto_orinoco;VEGUAOPT
+1359;PTVEGUBO;Bocas del Orinoco;;Partido;Guayana;VEN;ven_guayana_bocas_del_orinoco;VEGUBOPT
+1360;PTVEGUCC;Guayana interior;Capuchinos catalanes;Partido;Guayana;VEN;ven_guayana_guayana_interior;VEGUCCPT
+1361;PTVEGUOB;Bajo Orinoco;"Misiones del Piritu; Misiones observantes";Partido;Guayana;VEN;ven_guayana_bajo_orinoco;VEGUOBPT
+1362;PTVEMCLL;Llanos de Barinas;;Partido;Maracaibo;NGR;ngr_maracaibo_llanos_de_barinas;VEMCLLPT
+1363;PTVEMCSI;Sinamaica;;Partido;Maracaibo;VEN;ven_maracaibo_sinamaica;VEMCSIPT
+1406;RENRGR00;Nuevo Reino de Granada;;Reino;Reino;NGR;ngr_reino_nuevo_reino_de_granada;NRGR00RE
+1405;RENRLE00;Nuevo Reino de Leon;;Reino;Reino;GDJ;gdj_reino_nuevo_reino_de_leon;NRLE00RE
+1408;RERECH00;Reino de Chile;;Reino;Reino;CHL;chl_reino_reino_de_chile;RECH00RE
+1409;REREGU00;Reino de Guatemala;;Reino;Reino;GUA;gua_reino_reino_de_guatemala;REGU00RE
+1402;RERENE00;Nueva España;;Reino;Reino;NES;nes_reino_nueva_españa;RENE00RE
+1403;RERENG00;Nueva Galicia;;Reino;Reino;GDJ;gdj_reino_nueva_galicia;RENG00RE
+1411;RERENM00;Nuevo Mexico;;Reino;Reino;GDJ;gdj_reino_nuevo_mexico;RENM00RE
+1404;RERENV00;Nueva Vizcaya;;Reino;Reino;GDJ;gdj_reino_nueva_vizcaya;RENV00RE
+1407;REREPE00;Reino de Peru;;Reino;Reino;PER;per_reino_reino_de_peru;REPE00RE
+1401;REREQU00;Quito;;Reino;Reino;QUI;qui_reino_quito;REQU00RE
+1410;RERETF00;Tierra Firme;;Reino;Reino;NGR;ngr_reino_tierra_firme;RETF00RE
+1364;SENEDA00;Ducado de Atlixco;;Señorio;Señorio;NES;nes_señorio_ducado_de_atlixco;NEDA00SE
+1365;SENEMV00;Marquesado del Valle;;Señorio;Señorio;NES;nes_señorio_marquesado_del_valle;NEMV00SE
+1366;SEPEMO00;Marquesado de Oropesa;;Señorio;Cuzco;PER;per_cuzco_marquesado_de_oropesa;PEMO00SE
+1367;SESDFS00;Marquesado de San Felipe y Santiago;Bejucal;Señorio;La Habana;SDO;sdo_la_habana_marquesado_de_san_felipe_y_santiago;SDFS00SE
+1368;SESDGU00;Marquesado de Guiza;"Guisa; San Jose de Guiza";Señorio;Cuba;SDO;sdo_cuba_marquesado_de_guiza;SDGU00SE
+1369;SESDRO00;Condado de Casa Bayona;"Casa-Bayona; Rosario";Señorio;La Habana;SDO;sdo_la_habana_condado_de_casa_bayona;SDRO00SE
+1370;SESDSA00;Marquesado de Montehermoso;"San Antonio; Cardenas de Montehermoso; Monte-Hermoso";Señorio;La Habana;SDO;sdo_la_habana_marquesado_de_montehermoso;SDSA00SE
+94;SUCH0000;Chile;Nueva Extremadura;Superior;Superior;CHL;chl_superior_chile;CH0000SU
+95;SUGU0000;Guatemala;;Superior;Superior;GUA;gua_superior_guatemala;GU0000SU
+1393;SUIN0000;Indias;Virreinato colombiano;Superior;Superior;SDO;sdo_superior_indias;IN0000SU
+1371;SUNE0000;Nueva España;Mexico;Superior;Superior;NES;nes_superior_nueva_españa;NE0000SU
+1372;SUNG0000;Nueva Granada;"Santa Fe; Nuevo Reino de Granada";Superior;Superior;NGR;ngr_superior_nueva_granada;NG0000SU
+1373;SUPE0000;Peru;Lima;Superior;Superior;PER;per_superior_peru;PE0000SU
+1374;SURP0000;Rio de la Plata;Rio Plata;Superior;Superior;RPL;rpl_superior_rio_de_la_plata;RP0000SU
+1417;XXXXXX;Indefinido;;Superior;Superior;XX;xx_superior_indefinido;XXXXXXXX
+1375;XXXXXXNE;Neutral;;Extranjero;Extranjero;EXT;ext_extranjero_neutral;XXXXNEXX
+1376;XXXXXXXX;Indefinido;;;XXXX;XXX;xxx_xxxx_indefinido;XXXXXXXX
